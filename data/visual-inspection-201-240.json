@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "method": "Inspection directe audit_contact_5.jpg",
+  "records": [
+    {
+      "assetPrefix": "0201",
+      "subject": "Directions de lumière",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0202",
+      "subject": "Températures de lumière",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0203",
+      "subject": "Lumières colorées sur visage",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0204",
+      "subject": "Lumière sur matériaux",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0205",
+      "subject": "Reflets sur sphères",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0206",
+      "subject": "Schéma sources multiples",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0207",
+      "subject": "Elfe blonde bijoux or",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0208",
+      "subject": "Portrait brun roses rouges",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0209",
+      "subject": "Guerrière rousse peinture bleue",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0210",
+      "subject": "Portrait peau foncée bijoux or",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0211",
+      "subject": "Mage lumière violette",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0212",
+      "subject": "Armure acier et bleu",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0213",
+      "subject": "Armure or cape rouge",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0214",
+      "subject": "Armure noire cape rouge",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0215",
+      "subject": "Armure acier usée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0216",
+      "subject": "Guerrière armure argent",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0217",
+      "subject": "Orque armure rouge",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0218",
+      "subject": "Gobelin alchimiste",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0219",
+      "subject": "Orque armure usée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0220",
+      "subject": "Gobelin sur roche",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0221",
+      "subject": "Orque mécanique",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0222",
+      "subject": "Ruines urbaines coucher de soleil",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0223",
+      "subject": "Ville nocturne néon",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0224",
+      "subject": "Bus abandonné",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0225",
+      "subject": "Fête foraine abandonnée",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0226",
+      "subject": "Château et cascades",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0227",
+      "subject": "Marché médiéval",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0228",
+      "subject": "Porte fortifiée",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0229",
+      "subject": "Ville médiévale nocturne",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0230",
+      "subject": "Port au coucher du soleil",
+      "cropStatus": "a_verifier_bandeau",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0231",
+      "subject": "Montage animal et personnage",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0232",
+      "subject": "Montage désert et serpent",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0233",
+      "subject": "Montage loup et rapace",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0234",
+      "subject": "Montage renard et chouette",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0235",
+      "subject": "Montage animal et corbeau",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0236",
+      "subject": "Montage animal et ailes",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0237",
+      "subject": "Montage serpent et aile membraneuse",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0238",
+      "subject": "Rapace brun",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0239",
+      "subject": "Chouette en vol",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0240",
+      "subject": "Corbeau noir",
+      "cropStatus": "a_verifier_decoupage_multiple",
+      "recipeStatus": "a_verifier"
+    }
+  ]
+}
