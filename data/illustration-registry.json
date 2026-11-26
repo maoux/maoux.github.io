@@ -476,8 +476,11 @@
           "anchor": "recette-directe-v4-11"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0027"
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0027",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0028",
@@ -552,8 +555,11 @@
           "anchor": "recette-directe-v4-11"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0031"
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0031",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0032",
@@ -596,8 +602,11 @@
           "query": "champignon lumineux"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0033"
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0033",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0034",
@@ -662,8 +671,11 @@
           "query": "ardoise"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0036"
+      "recipeIds": [
+        "v31-v2-pierres-1"
+      ],
+      "id": "illustration-0036",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0037",
@@ -930,8 +942,11 @@
           "anchor": "recette-directe-v4-40"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0049"
+      "recipeIds": [
+        "recette-directe-v4-40"
+      ],
+      "id": "illustration-0049",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0050",
@@ -970,8 +985,11 @@
           "anchor": "recette-directe-v4-40"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0051"
+      "recipeIds": [
+        "recette-directe-v4-42"
+      ],
+      "id": "illustration-0051",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0052",
@@ -1010,8 +1028,11 @@
           "anchor": "recette-directe-v4-40"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0053"
+      "recipeIds": [
+        "recette-directe-v4-46"
+      ],
+      "id": "illustration-0053",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0054",
@@ -1030,8 +1051,11 @@
           "anchor": "recette-directe-v4-40"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0054"
+      "recipeIds": [
+        "recette-directe-v4-48"
+      ],
+      "id": "illustration-0054",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0055",
@@ -1293,8 +1317,11 @@
           "query": "épée NMM"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0067"
+      "recipeIds": [
+        "recette-directe-v4-40"
+      ],
+      "id": "illustration-0067",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0068",
@@ -1316,8 +1343,11 @@
           "query": "sabre NMM"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0068"
+      "recipeIds": [
+        "recette-directe-v4-42"
+      ],
+      "id": "illustration-0068",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0069",
@@ -2734,8 +2764,11 @@
           "anchor": "recette-directe-v4-84"
         }
       ],
-      "recipeIds": [],
-      "id": "illustration-0138"
+      "recipeIds": [
+        "recette-directe-v4-89"
+      ],
+      "id": "illustration-0138",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0139",
@@ -4939,8 +4972,11 @@
         "assets/images/0294_12824a5030a4.webp"
       ],
       "legacyCandidates": [],
-      "recipeIds": [],
-      "id": "illustration-0294"
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0294",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs."
     },
     {
       "assetPrefix": "0295",
