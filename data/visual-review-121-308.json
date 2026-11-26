@@ -1,0 +1,1330 @@
+{
+  "schema": 1,
+  "method": "Examen des cinq dernières planches contact. Identification visuelle, sans validation de recette.",
+  "records": [
+    {
+      "assetPrefix": "0121",
+      "subject": "Ruines couvertes de végétation",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0122",
+      "subject": "Forêt moussue",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0123",
+      "subject": "Forêt enchantée bleue",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0124",
+      "subject": "Arbre ancien",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0125",
+      "subject": "Forêt automnale",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0126",
+      "subject": "Forêt nocturne bleue",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0127",
+      "subject": "Racines en marais",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0128",
+      "subject": "Planche végétation",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0129",
+      "subject": "Fougère",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0130",
+      "subject": "Herbes sèches",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0131",
+      "subject": "Lierre sur roche",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0132",
+      "subject": "Voile beige",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0133",
+      "subject": "Cuir noir à sangles",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0134",
+      "subject": "Voile blanc",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0135",
+      "subject": "Cuir noir brillant",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0136",
+      "subject": "Voile violet",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0137",
+      "subject": "Portrait maquillage violet et or",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0138",
+      "subject": "Voile lilas sur peau foncée",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0139",
+      "subject": "Planche drapés transparents",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0140",
+      "subject": "Voile blanc sur peau claire",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0141",
+      "subject": "Portrait blond",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0142",
+      "subject": "Portrait brun hâlé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0143",
+      "subject": "Portrait brun maquillage violet",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0144",
+      "subject": "Portrait roux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0145",
+      "subject": "Portrait peau foncée maquillage violet",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0146",
+      "subject": "Blond doré",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0147",
+      "subject": "Noir bleuté",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0148",
+      "subject": "Roux cuivre",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0149",
+      "subject": "Tresse brune",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0150",
+      "subject": "Cheveux bleu violet",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0151",
+      "subject": "Blond pâle court",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0152",
+      "subject": "Noir lisse",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0153",
+      "subject": "Châtain court",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0154",
+      "subject": "Blond bouclé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0155",
+      "subject": "Boucles noires",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0156",
+      "subject": "Roux ondulé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0157",
+      "subject": "Tresse châtain",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0158",
+      "subject": "Tresses blondes",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0159",
+      "subject": "Queue de cheval brune",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0160",
+      "subject": "Chignon argent",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0161",
+      "subject": "Cheveux blancs ondulés",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0162",
+      "subject": "Cheveux turquoise",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0163",
+      "subject": "Cheveux violets",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0164",
+      "subject": "Locks brunes et or",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0165",
+      "subject": "Cheveux roses",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0166",
+      "subject": "Loup gris",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0167",
+      "subject": "Renard roux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0168",
+      "subject": "Serpent vert",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0169",
+      "subject": "Crapaud brun",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0170",
+      "subject": "Blond doré",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0171",
+      "subject": "Noir bleuté",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0172",
+      "subject": "Roux cuivre",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0173",
+      "subject": "Chignon violet",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0174",
+      "subject": "Portrait blond clair",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0175",
+      "subject": "Portrait brun hâlé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0176",
+      "subject": "Portrait peau foncée maquillage violet",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0177",
+      "subject": "Fougères",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0178",
+      "subject": "Plume brune rayée",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0179",
+      "subject": "Portrait peau foncée boucles",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0180",
+      "subject": "Portrait brun éclairage chaud",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0181",
+      "subject": "Portrait roux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0182",
+      "subject": "Portrait noir",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0183",
+      "subject": "Portrait blond",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0184",
+      "subject": "Portrait elfique blond",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0185",
+      "subject": "Portrait brun bijoux or",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0186",
+      "subject": "Portrait peau foncée motifs or",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0187",
+      "subject": "Portrait argent glace",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0188",
+      "subject": "Portrait éclairage rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0189",
+      "subject": "Portrait noir court",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0190",
+      "subject": "Portrait blond tressé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0191",
+      "subject": "Portrait roux bouclé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0192",
+      "subject": "Portrait brun tressé or",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0193",
+      "subject": "Portrait argent ondulé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0194",
+      "subject": "Portrait boucles noires",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0195",
+      "subject": "Portrait brun queue de cheval",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0196",
+      "subject": "Portrait roux court",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0197",
+      "subject": "Portrait blond bouclé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0198",
+      "subject": "Portrait tresses bleues",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0199",
+      "subject": "Planche sources lumineuses",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0200",
+      "subject": "Planche angles éclairage",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0201",
+      "subject": "Angles éclairage complémentaires",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0202",
+      "subject": "Températures chaude froide",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0203",
+      "subject": "Lumières neutre colorée mixte",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0204",
+      "subject": "Lumière sur matières première partie",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0205",
+      "subject": "Lumière sur matières seconde partie",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0206",
+      "subject": "Schéma éclairage multiple",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0207",
+      "subject": "Elfe blonde",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0208",
+      "subject": "Portrait brun rose rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0209",
+      "subject": "Portrait roux peinture bleue",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0210",
+      "subject": "Portrait peau foncée bijoux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0211",
+      "subject": "Portrait argent magie violette",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0212",
+      "subject": "Armure acier et bleu",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0213",
+      "subject": "Armure or et rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0214",
+      "subject": "Armure noire et rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0215",
+      "subject": "Armure acier vieillie",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0216",
+      "subject": "Armure acier et cape rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0217",
+      "subject": "Orque vert armure rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0218",
+      "subject": "Gobelin alchimiste",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0219",
+      "subject": "Orque peau olive",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0220",
+      "subject": "Gobelin vert",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0221",
+      "subject": "Orque armure industrielle",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0222",
+      "subject": "Ville en ruines coucher de soleil",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0223",
+      "subject": "Ville nocturne néon",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0224",
+      "subject": "Bus rouillé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0225",
+      "subject": "Fête foraine abandonnée",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0226",
+      "subject": "Château et cascades",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0227",
+      "subject": "Marché médiéval",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0228",
+      "subject": "Porte fortifiée",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0229",
+      "subject": "Ville médiévale nocturne",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0230",
+      "subject": "Port médiéval",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0231",
+      "subject": "Bande Égypte et animal",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0232",
+      "subject": "Bande Égypte et serpent",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0233",
+      "subject": "Bande loup et rapace",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0234",
+      "subject": "Bande renard et chouette",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0235",
+      "subject": "Bande animal et corbeau",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0236",
+      "subject": "Bande animal et oiseau bleu",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0237",
+      "subject": "Bande serpent et aile membraneuse",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0238",
+      "subject": "Rapace brun",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0239",
+      "subject": "Chouette en vol",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0240",
+      "subject": "Corbeau noir",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0241",
+      "subject": "Martin-pêcheur",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0242",
+      "subject": "Aile membraneuse sombre",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0243",
+      "subject": "Aile de dragon rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0244",
+      "subject": "Plumes bleues",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0245",
+      "subject": "Lave incandescente",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0246",
+      "subject": "Éclairs violets",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0247",
+      "subject": "Gemmes rouge verte bleue",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0248",
+      "subject": "Métal industriel jaune rouillé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0249",
+      "subject": "Planche ailes et plumes",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0250",
+      "subject": "Planche épées",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0251",
+      "subject": "Bande planche haches",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0252",
+      "subject": "Bande planche masses",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0253",
+      "subject": "Bande planche marteaux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0254",
+      "subject": "Bande planche armes longues",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir"
+    },
+    {
+      "assetPrefix": "0255",
+      "subject": "Extrait métal industriel",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0256",
+      "subject": "Extrait cuir usé",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0257",
+      "subject": "Planche animaux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0258",
+      "subject": "Planche matériel industriel",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0259",
+      "subject": "Planche lèvres et visages",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0260",
+      "subject": "Planche yeux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0261",
+      "subject": "Planche forêt magique",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0262",
+      "subject": "Planche créatures fantastiques",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0263",
+      "subject": "Planche dragons et écailles",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0264",
+      "subject": "Planche armes fantasy",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0265",
+      "subject": "Planche armes futuristes",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0266",
+      "subject": "Planche socles matières gemmes",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0267",
+      "subject": "Variante planche socles matières gemmes",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0268",
+      "subject": "Planche cristaux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0269",
+      "subject": "Variante planche cristaux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0270",
+      "subject": "Planche NMM",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0271",
+      "subject": "Variante planche NMM",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0272",
+      "subject": "Sources lumineuses",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0199"
+    },
+    {
+      "assetPrefix": "0273",
+      "subject": "Angles éclairage",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0200"
+    },
+    {
+      "assetPrefix": "0274",
+      "subject": "Angles complémentaires",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0201"
+    },
+    {
+      "assetPrefix": "0275",
+      "subject": "Températures chaude froide",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0202"
+    },
+    {
+      "assetPrefix": "0276",
+      "subject": "Lumières neutre colorée mixte",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0203"
+    },
+    {
+      "assetPrefix": "0277",
+      "subject": "Lumière sur matières première partie",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0204"
+    },
+    {
+      "assetPrefix": "0278",
+      "subject": "Lumière sur matières seconde partie",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0205"
+    },
+    {
+      "assetPrefix": "0279",
+      "subject": "Schéma éclairage multiple",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0206"
+    },
+    {
+      "assetPrefix": "0280",
+      "subject": "Planche volumes et ombres",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0281",
+      "subject": "Citrouille lumineuse",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0282",
+      "subject": "Zombie putréfié",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0283",
+      "subject": "Fantôme cyan",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0284",
+      "subject": "Spectre violet cyan",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0285",
+      "subject": "Sorcière violette lanterne verte",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0286",
+      "subject": "Tombe pierre lierre bougie",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0287",
+      "subject": "Bonhomme de neige",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0288",
+      "subject": "Personnage Noël rouge vert or",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0289",
+      "subject": "Sapin enneigé décoré",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0290",
+      "subject": "Cloche or ruban rouge",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0291",
+      "subject": "Maison pain épices enneigée",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0292",
+      "subject": "Élémentaire glace",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0293",
+      "subject": "Amanites rouges",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0294",
+      "subject": "Champignons cyan lumineux",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0295",
+      "subject": "Polypores orange",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0296",
+      "subject": "Champignons violets",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0297",
+      "subject": "Tronc brun moussu",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0298",
+      "subject": "Bouleau blanc",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0299",
+      "subject": "Racines marécage",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0300",
+      "subject": "Souche brûlée incandescente",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0301",
+      "subject": "Coraux multicolores",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0302",
+      "subject": "Anémones et algues",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0303",
+      "subject": "Méduse translucide lumineuse",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0304",
+      "subject": "Nénuphars lotus",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0305",
+      "subject": "Végétation tropicale",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0306",
+      "subject": "Plantes carnivores",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0307",
+      "subject": "Fleurs violettes",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0308",
+      "subject": "Houx et conifère enneigés",
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    }
+  ]
+}
