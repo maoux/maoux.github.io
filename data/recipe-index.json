@@ -1,0 +1,466 @@
+{
+  "schema": 1,
+  "scope": "Fiches HTML avec identifiant existant",
+  "records": [
+    {
+      "id": "v31-v2-pierres-0",
+      "title": "Pierre grise universelle"
+    },
+    {
+      "id": "v31-v2-pierres-1",
+      "title": "Ardoise bleutée"
+    },
+    {
+      "id": "v31-v2-pierres-2",
+      "title": "Granit moucheté"
+    },
+    {
+      "id": "v31-v2-pierres-3",
+      "title": "Grès beige"
+    },
+    {
+      "id": "v31-v2-pierres-4",
+      "title": "Basalte noir"
+    },
+    {
+      "id": "v31-v2-pierres-5",
+      "title": "Calcaire clair"
+    },
+    {
+      "id": "v31-v2-pierres-6",
+      "title": "Pierre humide"
+    },
+    {
+      "id": "v31-v2-pierres-7",
+      "title": "Pierre moussue"
+    },
+    {
+      "id": "v31-v2-pierres-8",
+      "title": "Pierre désertique rouge"
+    },
+    {
+      "id": "v31-v2-pierres-9",
+      "title": "Pierre enneigée"
+    },
+    {
+      "id": "v31-v2-desert-0",
+      "title": "Sable ocre clair"
+    },
+    {
+      "id": "v31-v2-desert-1",
+      "title": "Dunes orange"
+    },
+    {
+      "id": "v31-v2-desert-2",
+      "title": "Roche rouge martienne"
+    },
+    {
+      "id": "v31-v2-desert-3",
+      "title": "Désert salin"
+    },
+    {
+      "id": "v31-v2-desert-4",
+      "title": "Pierre désertique claire"
+    },
+    {
+      "id": "v31-v2-desert-5",
+      "title": "Ombres violettes de désert"
+    },
+    {
+      "id": "v31-v2-desert-6",
+      "title": "Végétation aride"
+    },
+    {
+      "id": "v31-v2-desert-7",
+      "title": "Ruines ensablées"
+    },
+    {
+      "id": "v31-v2-marecage-0",
+      "title": "Eau de marais tourbeuse"
+    },
+    {
+      "id": "v31-v2-marecage-1",
+      "title": "Eau stagnante verte"
+    },
+    {
+      "id": "v31-v2-marecage-2",
+      "title": "Racines humides"
+    },
+    {
+      "id": "v31-v2-marecage-3",
+      "title": "Mousse saturée d’eau"
+    },
+    {
+      "id": "v31-v2-marecage-4",
+      "title": "Roseaux et joncs"
+    },
+    {
+      "id": "v31-v2-marecage-5",
+      "title": "Champignons luminescents"
+    },
+    {
+      "id": "v31-v2-marecage-6",
+      "title": "Boue de marais"
+    },
+    {
+      "id": "v31-v2-marecage-7",
+      "title": "Brume froide de marécage"
+    },
+    {
+      "id": "recette-directe-v4-68",
+      "title": "Carnation hâlée dorée — naturel"
+    },
+    {
+      "id": "recette-directe-v4-69",
+      "title": "Carnation hâlée olive — naturel"
+    },
+    {
+      "id": "recette-directe-v4-70",
+      "title": "Carnation foncée — sous-ton chaud"
+    },
+    {
+      "id": "recette-directe-v4-71",
+      "title": "Carnation foncée — sous-ton froid"
+    },
+    {
+      "id": "recette-directe-v4-72",
+      "title": "Carnation foncée — sous-ton neutre"
+    },
+    {
+      "id": "recette-directe-v4-73",
+      "title": "Peau hâlée — blush naturel"
+    },
+    {
+      "id": "recette-directe-v4-74",
+      "title": "Peau foncée — blush prune"
+    },
+    {
+      "id": "recette-directe-v4-75",
+      "title": "Peau hâlée — fard bronze"
+    },
+    {
+      "id": "recette-directe-v4-76",
+      "title": "Peau foncée — fard or"
+    },
+    {
+      "id": "recette-directe-v4-77",
+      "title": "Peau foncée — fard violet"
+    },
+    {
+      "id": "recette-directe-v4-78",
+      "title": "Peau hâlée — lèvres nude"
+    },
+    {
+      "id": "recette-directe-v4-79",
+      "title": "Peau foncée — lèvres bordeaux"
+    },
+    {
+      "id": "recette-directe-v4-80",
+      "title": "Peau foncée — lèvres chocolat"
+    },
+    {
+      "id": "recette-directe-v4-81",
+      "title": "Peau hâlée — eye-liner et cils"
+    },
+    {
+      "id": "recette-directe-v4-82",
+      "title": "Peau foncée — lumière chaude"
+    },
+    {
+      "id": "recette-directe-v4-83",
+      "title": "Peau foncée — lumière froide"
+    },
+    {
+      "id": "recette-directe-v4-84",
+      "title": "Voile ivoire uni sur peau hâlée"
+    },
+    {
+      "id": "recette-directe-v4-85",
+      "title": "Voile blanc uni sur peau foncée"
+    },
+    {
+      "id": "recette-directe-v4-86",
+      "title": "Voile rose poudré sur peau hâlée"
+    },
+    {
+      "id": "recette-directe-v4-87",
+      "title": "Voile bleu glacier sur peau foncée"
+    },
+    {
+      "id": "recette-directe-v4-88",
+      "title": "Voile noir fumé sur peau hâlée"
+    },
+    {
+      "id": "recette-directe-v4-89",
+      "title": "Voile lilas sur peau foncée"
+    },
+    {
+      "id": "recette-directe-v4-40",
+      "title": "Épée droite — acier NMM"
+    },
+    {
+      "id": "recette-directe-v4-41",
+      "title": "Épée droite — acier TMP"
+    },
+    {
+      "id": "recette-directe-v4-42",
+      "title": "Épée courbe — sabre NMM"
+    },
+    {
+      "id": "recette-directe-v4-43",
+      "title": "Lame d’obsidienne"
+    },
+    {
+      "id": "recette-directe-v4-44",
+      "title": "Lame de bronze"
+    },
+    {
+      "id": "recette-directe-v4-45",
+      "title": "Lame enflammée"
+    },
+    {
+      "id": "recette-directe-v4-46",
+      "title": "Épée énergétique bleue"
+    },
+    {
+      "id": "recette-directe-v4-47",
+      "title": "Épée énergétique verte"
+    },
+    {
+      "id": "recette-directe-v4-48",
+      "title": "Épée runique violette"
+    },
+    {
+      "id": "recette-directe-v4-49",
+      "title": "Lame rouillée"
+    },
+    {
+      "id": "recette-directe-v4-50",
+      "title": "Lame damassée"
+    },
+    {
+      "id": "recette-directe-v4-51",
+      "title": "Épée osseuse fantastique"
+    },
+    {
+      "id": "recette-directe-v4-52",
+      "title": "Hache simple — NMM"
+    },
+    {
+      "id": "recette-directe-v4-53",
+      "title": "Hache double — NMM"
+    },
+    {
+      "id": "recette-directe-v4-54",
+      "title": "Hache barbare rouillée"
+    },
+    {
+      "id": "recette-directe-v4-55",
+      "title": "Hache de glace"
+    },
+    {
+      "id": "recette-directe-v4-56",
+      "title": "Masse sphérique métallique"
+    },
+    {
+      "id": "recette-directe-v4-57",
+      "title": "Masse à pointes rouillée"
+    },
+    {
+      "id": "recette-directe-v4-58",
+      "title": "Masse en pierre"
+    },
+    {
+      "id": "recette-directe-v4-59",
+      "title": "Marteau de guerre acier"
+    },
+    {
+      "id": "recette-directe-v4-60",
+      "title": "Marteau doré"
+    },
+    {
+      "id": "recette-directe-v4-61",
+      "title": "Marteau énergétique bleu"
+    },
+    {
+      "id": "recette-directe-v4-62",
+      "title": "Hallebarde acier"
+    },
+    {
+      "id": "recette-directe-v4-63",
+      "title": "Hallebarde dorée"
+    },
+    {
+      "id": "recette-directe-v4-64",
+      "title": "Fléau à chaîne"
+    },
+    {
+      "id": "recette-directe-v4-65",
+      "title": "Lance et pointe"
+    },
+    {
+      "id": "recette-directe-v4-66",
+      "title": "Arme à cristal"
+    },
+    {
+      "id": "recette-directe-v4-67",
+      "title": "Arme industrielle post-apocalyptique"
+    },
+    {
+      "id": "recette-directe-v4-1",
+      "title": "Tissus Lin brut"
+    },
+    {
+      "id": "recette-directe-v4-2",
+      "title": "Tissus Velours"
+    },
+    {
+      "id": "recette-directe-v4-3",
+      "title": "Tissus Soie"
+    },
+    {
+      "id": "recette-directe-v4-4",
+      "title": "Tissus Denim usé"
+    },
+    {
+      "id": "recette-directe-v4-5",
+      "title": "Tissus Laine épaisse"
+    },
+    {
+      "id": "recette-directe-v4-6",
+      "title": "Tissus Tissu trempé"
+    },
+    {
+      "id": "recette-directe-v4-7",
+      "title": "Cuirs Cuir neuf lisse"
+    },
+    {
+      "id": "recette-directe-v4-8",
+      "title": "Cuirs Cuir craquelé"
+    },
+    {
+      "id": "recette-directe-v4-9",
+      "title": "Cuirs Cuir huilé"
+    },
+    {
+      "id": "recette-directe-v4-10",
+      "title": "Cuirs Cuir poussiéreux"
+    },
+    {
+      "id": "recette-directe-v4-11",
+      "title": "Bois Bois frais"
+    },
+    {
+      "id": "recette-directe-v4-12",
+      "title": "Bois Bois humide"
+    },
+    {
+      "id": "recette-directe-v4-13",
+      "title": "Bois Bois brûlé"
+    },
+    {
+      "id": "recette-directe-v4-14",
+      "title": "Pierres Granit"
+    },
+    {
+      "id": "recette-directe-v4-15",
+      "title": "Pierres Ardoise"
+    },
+    {
+      "id": "recette-directe-v4-16",
+      "title": "Pierres Marbre"
+    },
+    {
+      "id": "recette-directe-v4-17",
+      "title": "Pierres Roche humide"
+    },
+    {
+      "id": "recette-directe-v4-18",
+      "title": "Métaux Acier brossé TMP"
+    },
+    {
+      "id": "recette-directe-v4-19",
+      "title": "Métaux Acier rouillé"
+    },
+    {
+      "id": "recette-directe-v4-20",
+      "title": "Métaux Cuivre patiné"
+    },
+    {
+      "id": "recette-directe-v4-21",
+      "title": "Métaux NMM poli"
+    },
+    {
+      "id": "recette-directe-v4-22",
+      "title": "Organique Peau sèche"
+    },
+    {
+      "id": "recette-directe-v4-23",
+      "title": "Organique Peau humide"
+    },
+    {
+      "id": "recette-directe-v4-24",
+      "title": "Organique Fourrure courte"
+    },
+    {
+      "id": "recette-directe-v4-25",
+      "title": "Organique Fourrure longue"
+    },
+    {
+      "id": "recette-directe-v4-26",
+      "title": "Organique Plumes"
+    },
+    {
+      "id": "recette-directe-v4-27",
+      "title": "Décors Boue fraîche"
+    },
+    {
+      "id": "recette-directe-v4-28",
+      "title": "Décors Poussière désertique"
+    },
+    {
+      "id": "recette-directe-v4-29",
+      "title": "Décors Neige poudreuse"
+    },
+    {
+      "id": "recette-directe-v4-30",
+      "title": "Décors Glace translucide"
+    },
+    {
+      "id": "recette-directe-v4-31",
+      "title": "Décors Eau calme"
+    },
+    {
+      "id": "recette-directe-v4-32",
+      "title": "Décors Eau agitée"
+    },
+    {
+      "id": "recette-directe-v4-33",
+      "title": "Décors Marécage"
+    },
+    {
+      "id": "recette-directe-v4-34",
+      "title": "Effets Verre fumé"
+    },
+    {
+      "id": "recette-directe-v4-35",
+      "title": "Effets Gemmes rondes"
+    },
+    {
+      "id": "recette-directe-v4-36",
+      "title": "Effets Plasma lumineux"
+    },
+    {
+      "id": "recette-directe-v4-37",
+      "title": "Effets Écaillage peinture"
+    },
+    {
+      "id": "recette-directe-v4-38",
+      "title": "Effets Suie et fumée"
+    },
+    {
+      "id": "recette-directe-v4-39",
+      "title": "Effets OSL fluorescent"
+    }
+  ]
+}
