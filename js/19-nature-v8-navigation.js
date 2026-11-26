@@ -4,12 +4,12 @@ const labels={accueil:'Accueil',recettes:'Recettes & nuancier',textures:'Matéri
 function init(){
 const nav=document.getElementById('atlas-main-tabs'),sel=document.getElementById('atlas-mobile-select');if(!nav)return;
 const views=Array.from(document.querySelectorAll('.atlas-view'));
-const sub=document.createElement('nav');sub.setAttribute('aria-label','Sous-rubriques');sub.style.cssText='display:flex;flex-wrap:wrap;gap:8px;margin:12px 0';nav.insertAdjacentElement('afterend',sub);
+const sub=document.createElement('nav');sub.setAttribute('aria-label','Sous-rubriques');sub.style.cssText='display:flex;flex-wrap:wrap;gap:8px;margin:12px 0';(document.getElementById('atlas-mobile-nav')||nav).insertAdjacentElement('afterend',sub);
 const oldLabels={recettes:'Catalogue A–Z',ultime:'Atlas 233 pots',textures:'Matériaux & textures',armesplumes:'Armes & équipement',environnements:'Décors & paysages',nature:'Nature & aquatique',saisons:'Saisons',lumieres:'Lumières',inspirations:'Inspirations',etudes195:'Études peintes'};
 function groupFor(key){return Object.keys(groups).find(k=>groups[k].includes(key))||'accueil'}
 function show(key){const group=groupFor(key);if(!groups[group].includes(key))key=group;
 document.body.setAttribute('data-mobile-tab',key);
-views.forEach(el=>{const active=el.dataset.atlasTab===key;el.hidden=!active;if(!active)el.style.setProperty('display','none','important');else if(!['tabs','catalogue'].includes(el.id))el.style.removeProperty('display');});
+views.forEach(el=>{const active=el.dataset.atlasTab===key;el.hidden=!active;if(!active){if(!el.dataset.atlasSavedDisplay){el.dataset.atlasSavedDisplay=el.style.display||'unset';}el.style.setProperty('display','none','important');}else{const saved=el.dataset.atlasSavedDisplay;el.style.removeProperty('display');if(['tabs','catalogue'].includes(el.id))el.style.display=saved&&saved!=='unset'?saved:'none';delete el.dataset.atlasSavedDisplay;}});
 nav.querySelectorAll('[data-main-tab]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.mainTab===group)));
 if(sel)sel.value=group;
 sub.replaceChildren();if(groups[group].length>1)groups[group].forEach(k=>{const b=document.createElement('button');b.type='button';b.textContent=oldLabels[k]||labels[k];b.setAttribute('aria-pressed',String(k===key));b.onclick=()=>show(k);sub.append(b);});
