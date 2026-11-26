@@ -1,1 +1,15 @@
-(function(){function show(){var active=document.body.getAttribute('data-mobile-tab');if(active!=='nature')return;document.querySelectorAll('.atlas-view').forEach(function(el){var ok=el.getAttribute('data-atlas-tab')==='nature';el.style.setProperty('display',ok?'block':'none','important')});}document.addEventListener('change',function(e){if(e.target&&e.target.id==='atlas-mobile-select'){document.body.setAttribute('data-mobile-tab',e.target.value);if(e.target.value==='nature')show();}});document.addEventListener('click',function(e){var b=e.target.closest&&e.target.closest('[data-main-tab]');if(b&&b.getAttribute('data-main-tab')==='nature'){document.body.setAttribute('data-mobile-tab','nature');show();}});})();
+(function(){
+function show(key){
+ if(!key)return;
+ document.body.setAttribute('data-mobile-tab',key);
+ document.querySelectorAll('.atlas-view').forEach(function(el){
+  var active=el.getAttribute('data-atlas-tab')===key;
+  el.hidden=!active;
+  el.style.removeProperty('display');
+ });
+ var sel=document.getElementById('atlas-mobile-select');
+ if(sel)sel.value=key;
+}
+document.addEventListener('change',function(e){if(e.target&&e.target.id==='atlas-mobile-select')show(e.target.value);});
+document.addEventListener('click',function(e){var b=e.target.closest&&e.target.closest('#atlas-main-tabs [data-main-tab]');if(b)show(b.getAttribute('data-main-tab'));});
+})();
