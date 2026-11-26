@@ -1,0 +1,125 @@
+{
+  "checks": {
+    "same_html_sections": true,
+    "same_details_cards": true,
+    "same_image_elements": true,
+    "same_nav_tabs": true,
+    "same_inline_js_count": true,
+    "same_styles_count": true,
+    "all_img_paths_exist": true,
+    "all_script_paths_exist": true,
+    "all_css_paths_exist": true,
+    "all_javascript_syntax_valid": true
+  },
+  "js_checks": [
+    {
+      "path": "js/01-ios-navigation-v45-script.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/02-legacy-02.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/03-legacy-03.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/04-legacy-04.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/05-legacy-05.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/06-legacy-06.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/07-legacy-07.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/08-legacy-08.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/09-legacy-09.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/10-legacy-10.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/11-legacy-11.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/12-legacy-12.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/13-legacy-13.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/14-legacy-14.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/15-legacy-15.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/16-v42-recipe-links-fix.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/17-ultimate-js.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/18-legacy-18.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/19-nature-v8-navigation.js",
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "before": {
+    "sections": 30,
+    "details": 364,
+    "images": 391,
+    "main_tabs": 13
+  },
+  "after": {
+    "sections": 30,
+    "details": 364,
+    "images": 391,
+    "main_tabs": 13
+  },
+  "total_files": 362,
+  "size_bytes": 9799810
+}

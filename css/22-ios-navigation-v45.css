@@ -1,0 +1,17 @@
+
+@media(max-width:760px){
+.atlas-view{display:none!important}
+body[data-mobile-tab="accueil"] .atlas-view[data-atlas-tab="accueil"],
+body[data-mobile-tab="recettes"] .atlas-view[data-atlas-tab="recettes"],
+body[data-mobile-tab="laboratoire"] .atlas-view[data-atlas-tab="laboratoire"],
+body[data-mobile-tab="textures"] .atlas-view[data-atlas-tab="textures"],
+body[data-mobile-tab="lumieres"] .atlas-view[data-atlas-tab="lumieres"],
+body[data-mobile-tab="vivant"] .atlas-view[data-atlas-tab="vivant"],
+body[data-mobile-tab="environnements"] .atlas-view[data-atlas-tab="environnements"],
+body[data-mobile-tab="armesplumes"] .atlas-view[data-atlas-tab="armesplumes"],
+body[data-mobile-tab="inspirations"] .atlas-view[data-atlas-tab="inspirations"],
+body[data-mobile-tab="etudes195"] .atlas-view[data-atlas-tab="etudes195"],body[data-mobile-tab="saisons"] .atlas-view[data-atlas-tab="saisons"]{display:block!important}
+#atlas-mobile-nav{display:block!important;position:sticky!important;top:0!important;z-index:99999!important}
+}
+
+@media(max-width:760px){body[data-mobile-tab="nature"] .atlas-view[data-atlas-tab="nature"]{display:block!important}}
