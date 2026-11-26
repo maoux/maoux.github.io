@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "method": "Inspection directe audit_contact_6.jpg",
+  "records": [
+    {
+      "assetPrefix": "0241",
+      "subject": "Martin-pêcheur en vol",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0242",
+      "subject": "Membrane d’aile brune",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0243",
+      "subject": "Aile de dragon rouge",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0244",
+      "subject": "Plumes bleues et brunes",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0245",
+      "subject": "Roche volcanique et lave",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0246",
+      "subject": "Éclairs violets sur roche",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0247",
+      "subject": "Gemmes bleue rouge verte",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0248",
+      "subject": "Métal industriel jaune rouillé",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0249",
+      "subject": "Planche ailes oiseaux plumes",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0250",
+      "subject": "Planche épées",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0251",
+      "subject": "Bandeau haches",
+      "cropStatus": "bandeau_a_recomposer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0252",
+      "subject": "Bandeau armes contondantes",
+      "cropStatus": "bandeau_a_recomposer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0253",
+      "subject": "Bandeau marteaux",
+      "cropStatus": "bandeau_a_recomposer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0254",
+      "subject": "Bandeau armes longues",
+      "cropStatus": "bandeau_a_recomposer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0255",
+      "subject": "Métal industriel avec interface",
+      "cropStatus": "interface_a_retirer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0256",
+      "subject": "Cuir usé avec interface",
+      "cropStatus": "interface_a_retirer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0257",
+      "subject": "Animaux et faune",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0258",
+      "subject": "Matériel industriel",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0259",
+      "subject": "Lèvres visages expressions",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0260",
+      "subject": "Yeux et regards",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0261",
+      "subject": "Forêts magiques et nuit",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0262",
+      "subject": "Créatures fantastiques",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0263",
+      "subject": "Dragons et écailles",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0264",
+      "subject": "Armes fantasy",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0265",
+      "subject": "Armes futuristes",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0266",
+      "subject": "Planche matériaux et gemmes",
+      "cropStatus": "doublon_potentiel",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0267",
+      "subject": "Planche matériaux et gemmes",
+      "cropStatus": "doublon_potentiel",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0268",
+      "subject": "Planche cristaux",
+      "cropStatus": "doublon_potentiel",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0269",
+      "subject": "Planche cristaux",
+      "cropStatus": "doublon_potentiel",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0270",
+      "subject": "Planche NMM",
+      "cropStatus": "doublon_potentiel",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0271",
+      "subject": "Planche NMM",
+      "cropStatus": "doublon_potentiel",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0272",
+      "subject": "Sources lumineuses",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0273",
+      "subject": "Angles éclairage frontal",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0274",
+      "subject": "Angles éclairage complémentaires",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0275",
+      "subject": "Températures de lumière",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0276",
+      "subject": "Éclairages colorés",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0277",
+      "subject": "Lumière sur matériaux première partie",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0278",
+      "subject": "Lumière sur matériaux seconde partie",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0279",
+      "subject": "Placement des sources",
+      "cropStatus": "cadrage_a_verifier",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0280",
+      "subject": "Planche lumières et ombres",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    }
+  ]
+}
