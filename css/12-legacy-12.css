@@ -1,0 +1,7 @@
+
+#atlas-main-tabs{display:flex;flex-wrap:wrap;gap:7px;position:sticky;top:0;z-index:90;background:#101821ee;backdrop-filter:blur(8px);padding:10px;border-bottom:1px solid #ae925b}
+#atlas-main-tabs button{font-size:.9rem;padding:9px 12px}
+#inspiration-gallery .ig-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:15px}
+#inspiration-gallery .ig-tile img{width:100%;aspect-ratio:1/1;object-fit:cover}
+#inspiration-gallery .ig-info{padding:10px}
+#v2-wings-collection details{margin:9px 0}

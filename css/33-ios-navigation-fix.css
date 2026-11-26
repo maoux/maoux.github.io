@@ -1,0 +1,15 @@
+
+#atlas-mobile-nav{display:none}
+@media(max-width:760px){
+  #atlas-main-tabs{display:none!important}
+  #atlas-mobile-nav{display:block;position:sticky;top:0;z-index:10050;
+    background:#101821;padding:10px 12px;border-bottom:2px solid #c4a46a;
+    box-shadow:0 3px 12px #0008}
+  #atlas-mobile-nav label{display:block;font-size:12px;color:#f1d7a5;margin-bottom:5px}
+  #atlas-mobile-nav select{display:block;width:100%;max-width:100%;min-height:46px;
+    font-size:16px;color:#f9edda;background:#263746;border:1px solid #bfa06c;
+    border-radius:9px;padding:8px 12px;-webkit-appearance:menulist;appearance:auto}
+  .atlas-view[hidden]{display:none!important}
+  .v31-subnav{position:static!important;overflow-x:auto;max-width:100%}
+  html,body{max-width:100%;overflow-x:hidden}
+}

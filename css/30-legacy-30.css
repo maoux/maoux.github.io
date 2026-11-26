@@ -1,0 +1,2 @@
+@media(max-width:760px){body[data-mobile-tab="saisons"] #seasonal-v7{display:block!important}body[data-mobile-tab="saisons"] .atlas-view:not([data-atlas-tab="saisons"]){display:none!important}}
+@media(max-width:760px){body[data-mobile-tab="nature"] .atlas-view[data-atlas-tab="nature"]{display:block!important}}

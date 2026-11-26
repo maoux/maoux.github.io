@@ -1,0 +1,7 @@
+
+.light-visual-atlas{margin:22px 0;padding:18px;background:#111c29;border:1px solid #64758b;border-radius:14px}
+.light-visual-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.light-visual-grid figure{margin:0;background:#182536;border-radius:10px;overflow:hidden}
+.light-visual-grid img{width:100%;height:160px;object-fit:cover;cursor:zoom-in;display:block}
+.light-visual-grid figcaption{padding:10px;font-size:.85rem}
+.atlas-new-tile img{object-fit:cover}

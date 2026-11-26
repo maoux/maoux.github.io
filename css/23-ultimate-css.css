@@ -1,0 +1,11 @@
+
+#atlas-ultime-233{max-width:1240px;margin:0 auto;padding:24px 16px;color:#f0e6d5}
+#atlas-ultime-233 .ult-hero{background:linear-gradient(130deg,#172c3c,#283e39);border:1px solid #a48b64;border-radius:18px;padding:26px;margin-bottom:18px}
+#atlas-ultime-233 h2{font-size:clamp(25px,4vw,40px);margin:6px 0 12px;color:#f4d9a5}
+#atlas-ultime-233 h3{font-size:24px;margin:30px 0 10px}
+.ult-eyebrow{font-size:12px;letter-spacing:2px;color:#d9bb83;font-weight:700}
+.ult-stats{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}.ult-stats span{border:1px solid #8b8c77;border-radius:50px;padding:6px 12px}
+.ult-toolbar{display:flex;gap:9px;flex-wrap:wrap;margin:14px 0}.ult-toolbar input{flex:1 1 240px}.ult-toolbar input,.ult-toolbar select,.ult-toolbar button{min-height:44px;background:#21313c;border:1px solid #9e8e74;color:#fff;border-radius:9px;padding:8px 12px;font-size:16px}
+.ult-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,350px),1fr));gap:12px}
+.ult-card{background:#1d2a33;border:1px solid #66746e;border-radius:12px;overflow:hidden}.ult-card summary{padding:14px 16px;cursor:pointer;color:#f6dda9;font-weight:700}.ult-card[open] summary{border-bottom:1px solid #66746e}.ult-card .ult-body{padding:13px 16px}.ult-card ol{padding-left:20px}.ult-card li{margin:7px 0;line-height:1.55}.ult-card .ult-tag{font-size:11px;color:#a5c6bf;text-transform:uppercase;letter-spacing:1px}.ult-card p{margin:8px 0}.ult-card .ult-cit{color:#bcd4f0}.ult-paints{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr));gap:7px}.ult-pot{padding:10px;background:#1e2e36;border:1px solid #566c6d;border-radius:8px;font-size:13px}.ult-pot b{color:#f1d5a1}.ult-pot button{background:transparent;color:#a9dce0;border:0;text-decoration:underline;cursor:pointer;padding:2px 0}.ult-note{opacity:.83;line-height:1.55}
+@media(max-width:760px){body[data-mobile-tab="ultime"] .atlas-view[data-atlas-tab="ultime"]{display:block!important}body[data-mobile-tab="ultime"] .atlas-view[data-atlas-tab="accueil"]{display:none!important}#atlas-ultime-233{padding:12px 10px}.ult-cards{display:block}.ult-card{margin-bottom:10px}#atlas-mobile-nav{position:sticky!important;top:0!important}}

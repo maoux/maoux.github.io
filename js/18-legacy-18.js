@@ -1,0 +1,1 @@
+document.addEventListener('click',function(e){var a=e.target.closest('a.v4-direct-recipe');if(!a)return;var d=document.getElementById(a.getAttribute('href').slice(1));if(d)d.open=true;});
