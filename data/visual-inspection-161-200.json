@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "method": "Inspection directe de audit_contact_4.jpg",
+  "records": [
+    {
+      "assetPrefix": "0161",
+      "subject": "Cheveux blanc argenté",
+      "cropStatus": "a_verifier_sur_original",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0162",
+      "subject": "Cheveux turquoise",
+      "cropStatus": "a_verifier_sur_original",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0163",
+      "subject": "Cheveux violet",
+      "cropStatus": "a_verifier_sur_original",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0164",
+      "subject": "Dreadlocks brunes anneaux or",
+      "cropStatus": "a_verifier_sur_original",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0165",
+      "subject": "Cheveux rose pastel",
+      "cropStatus": "a_verifier_sur_original",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0166",
+      "subject": "Loup gris",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0167",
+      "subject": "Renard roux",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0168",
+      "subject": "Serpent vert ventre ocre",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0169",
+      "subject": "Crapaud brun",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0170",
+      "subject": "Cheveux blond doré",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0171",
+      "subject": "Cheveux noir bleuté",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0172",
+      "subject": "Cheveux cuivre",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0173",
+      "subject": "Chignon tressé violet",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0174",
+      "subject": "Portrait blond clair",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0175",
+      "subject": "Portrait brun hâlé",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0176",
+      "subject": "Portrait maquillage violet",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0177",
+      "subject": "Fougère jaune vert",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0178",
+      "subject": "Plume brune crème",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0179",
+      "subject": "Portrait peau foncée cheveux bouclés",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0180",
+      "subject": "Portrait lumière latérale chaude",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0181",
+      "subject": "Portrait roux",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0182",
+      "subject": "Portrait carré noir",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0183",
+      "subject": "Portrait chignon blond",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0184",
+      "subject": "Portrait blond tressé végétal",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0185",
+      "subject": "Portrait brun lumière dorée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0186",
+      "subject": "Portrait peau foncée bijoux or",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0187",
+      "subject": "Portrait argenté lumière glacée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0188",
+      "subject": "Portrait brun lumière rouge",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0189",
+      "subject": "Portrait carré noir bleuté",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0190",
+      "subject": "Portrait blond tresses",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0191",
+      "subject": "Portrait boucles cuivre",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0192",
+      "subject": "Portrait tresses brunes dorées",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0193",
+      "subject": "Portrait cheveux argentés",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0194",
+      "subject": "Portrait boucles noires",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0195",
+      "subject": "Portrait queue de cheval brune",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0196",
+      "subject": "Portrait cheveux courts roux",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0197",
+      "subject": "Portrait boucles blondes",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0198",
+      "subject": "Portrait cheveux bleus mouillés",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0199",
+      "subject": "Planche sources lumineuses",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0200",
+      "subject": "Planche angles éclairage",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    }
+  ]
+}
