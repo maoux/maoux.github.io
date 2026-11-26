@@ -1,0 +1,4534 @@
+{
+  "schema": 1,
+  "records": [
+    {
+      "id": "catalogue-a98f09bf",
+      "title": "Blanc froid · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11025 German Grey → AK11015 Dark Sea Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-3cb3130a",
+      "title": "Blanc froid · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11026 Tenebrous Grey → AK11015 Dark Sea Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-482ed2eb",
+      "title": "Blanc froid · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11009 Warm Grey → AK11030 Beige → AK11004 Ivory → AK11002 Offwhite → AK11001 White"
+    },
+    {
+      "id": "catalogue-0811dbc9",
+      "title": "Blanc froid · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11025 German Grey → AK11011 Blue Grey → AK11012 Sky Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-e7032cfe",
+      "title": "Blanc froid · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11015 Dark Sea Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-e7e4b3ce",
+      "title": "Noir bleuté · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11026 Tenebrous Grey → AK11025 German Grey → AK11022 Dark Grey → AK11018 Neutral Grey → AK11013 Pale Grey"
+    },
+    {
+      "id": "catalogue-df3d325d",
+      "title": "Noir bleuté · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11025 German Grey → AK11022 Dark Grey → AK11011 Blue Grey → AK11013 Pale Grey"
+    },
+    {
+      "id": "catalogue-3f51a778",
+      "title": "Noir bleuté · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11113 Chocolate → AK11026 Tenebrous Grey → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey"
+    },
+    {
+      "id": "catalogue-5f3cd970",
+      "title": "Noir bleuté · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11026 Tenebrous Grey → AK11022 Dark Grey → AK11018 Neutral Grey → AK11013 Pale Grey"
+    },
+    {
+      "id": "catalogue-928784c1",
+      "title": "Noir bleuté · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11025 German Grey → AK11011 Blue Grey → AK11012 Sky Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-c20cab0b",
+      "title": "Gris neutre · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11022 Dark Grey → AK11018 Neutral Grey → AK11010 Medium Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-82edd756",
+      "title": "Gris neutre · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11026 Tenebrous Grey → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-1d24a58f",
+      "title": "Gris neutre · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11125 Grey-Brown → AK11009 Warm Grey → AK11010 Medium Grey → AK11006 Silver Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-200cfd45",
+      "title": "Gris neutre · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11025 German Grey → AK11011 Blue Grey → AK11012 Sky Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-c14620e2",
+      "title": "Gris neutre · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11022 Dark Grey → AK11018 Neutral Grey → AK11010 Medium Grey → AK11006 Silver Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-6bd2bd12",
+      "title": "Jaune doré · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11044 Yellow → AK11038 Pale Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-f32d9991",
+      "title": "Jaune doré · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11118 Ochre → AK11041 Golden Yellow → AK11044 Yellow → AK11038 Pale Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-18ec11c4",
+      "title": "Jaune doré · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11045 Deep Yellow → AK11047 Lemon Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-280d5fc4",
+      "title": "Jaune doré · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11126 Green-Brown → AK11122 Green Ochre → AK11041 Golden Yellow → AK11044 Yellow → AK11038 Pale Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-8a39defd",
+      "title": "Jaune doré · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11044 Yellow → AK11047 Lemon Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-8c521863",
+      "title": "Orange · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11093 Brick Red → AK11080 Deep Orange → AK11078 Medium Orange → AK11077 Light Orange → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-1800933e",
+      "title": "Orange · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11097 Burnt Red → AK11079 Burn Orange → AK11078 Medium Orange → AK11077 Light Orange → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-7d347587",
+      "title": "Orange · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11093 Brick Red → AK11080 Deep Orange → AK11078 Medium Orange → AK11077 Light Orange → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-76c77e2d",
+      "title": "Orange · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11099 Ocher Orange → AK11080 Deep Orange → AK11078 Medium Orange → AK11077 Light Orange → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-39a7439a",
+      "title": "Orange · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11093 Brick Red → AK11079 Burn Orange → AK11078 Medium Orange → AK11041 Golden Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-522ccf92",
+      "title": "Rouge vif · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11094 Bordeaux Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11090 Vermillion → AK11077 Light Orange"
+    },
+    {
+      "id": "catalogue-98f8cf11",
+      "title": "Rouge vif · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11090 Vermillion → AK11077 Light Orange"
+    },
+    {
+      "id": "catalogue-beb74744",
+      "title": "Rouge vif · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11093 Brick Red → AK11088 Deep Red → AK11092 Matt Red → AK11090 Vermillion → AK11077 Light Orange"
+    },
+    {
+      "id": "catalogue-5545b644",
+      "title": "Rouge vif · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11094 Bordeaux Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11090 Vermillion → AK11061 Salmon"
+    },
+    {
+      "id": "catalogue-733e2b7d",
+      "title": "Rouge vif · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11094 Bordeaux Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11077 Light Orange → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-5863da9a",
+      "title": "Rose · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11067 Magenta → AK11065 Intense Pink → AK11061 Salmon → AK11059 Pastel Pink → AK11001 White"
+    },
+    {
+      "id": "catalogue-82e80f69",
+      "title": "Rose · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11067 Magenta → AK11065 Intense Pink → AK11061 Salmon → AK11059 Pastel Pink → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-dc8566ac",
+      "title": "Rose · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11063 Brown Rose → AK11062 Old Rose → AK11061 Salmon → AK11059 Pastel Pink → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-b5f73c9c",
+      "title": "Rose · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11067 Magenta → AK11065 Intense Pink → AK11061 Salmon → AK11069 Pastel Violet → AK11001 White"
+    },
+    {
+      "id": "catalogue-f0c18b45",
+      "title": "Rose · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11063 Brown Rose → AK11062 Old Rose → AK11061 Salmon → AK11059 Pastel Pink → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-642b68ea",
+      "title": "Violet · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11073 Purple → AK11072 Deep Violet → AK11071 Lilac → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-b02224b9",
+      "title": "Violet · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11071 Lilac → AK11069 Pastel Violet"
+    },
+    {
+      "id": "catalogue-985cd8bc",
+      "title": "Violet · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11074 Deep Purple → AK11072 Deep Violet → AK11071 Lilac → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-1cd9c02c",
+      "title": "Violet · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11094 Bordeaux Red → AK11074 Deep Purple → AK11073 Purple → AK11071 Lilac → AK11069 Pastel Violet"
+    },
+    {
+      "id": "catalogue-91ea8315",
+      "title": "Violet · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11069 Pastel Violet → AK11001 White"
+    },
+    {
+      "id": "catalogue-7c4807ef",
+      "title": "Vert naturel · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11147 Olive Green → AK11140 Grass Green → AK11137 Lime Green → AK11038 Pale Yellow"
+    },
+    {
+      "id": "catalogue-9a61627a",
+      "title": "Vert naturel · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11147 Olive Green → AK11140 Grass Green → AK11137 Lime Green → AK11038 Pale Yellow"
+    },
+    {
+      "id": "catalogue-2ebc7e9b",
+      "title": "Vert naturel · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11126 Green-Brown → AK11127 British Khaki → AK11122 Green Ochre → AK11131 Pastel Green → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-e984dfb9",
+      "title": "Vert naturel · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11190 Dark Sea Blue → AK11142 Deep Green → AK11144 Emerald → AK11140 Grass Green → AK11137 Lime Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-0484e4ae",
+      "title": "Vert naturel · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11147 Olive Green → AK11140 Grass Green → AK11131 Pastel Green → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-b2e9f678",
+      "title": "Vert émeraude · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-694bf5fb",
+      "title": "Vert émeraude · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-f9680a1e",
+      "title": "Vert émeraude · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11001 White"
+    },
+    {
+      "id": "catalogue-2a48131a",
+      "title": "Vert émeraude · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-8219a2b3",
+      "title": "Vert émeraude · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-c76e0b5f",
+      "title": "Bleu profond · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-dd9efe2a",
+      "title": "Bleu profond · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11189 Dark Prussian Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-9253c20b",
+      "title": "Bleu profond · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11012 Sky Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-6d035169",
+      "title": "Bleu profond · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-dceff69e",
+      "title": "Bleu profond · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-84c459c8",
+      "title": "Turquoise · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-7f1c2b4b",
+      "title": "Turquoise · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-8a3cf26e",
+      "title": "Turquoise · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-5ee56fea",
+      "title": "Turquoise · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-39158703",
+      "title": "Turquoise · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11142 Deep Green → AK11144 Emerald → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-a95a618a",
+      "title": "Chair claire · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11063 Brown Rose → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-8d494259",
+      "title": "Chair claire · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11063 Brown Rose → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ad22295c",
+      "title": "Chair claire · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11063 Brown Rose → AK11055 Sunny Skin Tone → AK11052 Basic Skin Tone → AK11051 Luminous Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-b78df2cc",
+      "title": "Chair claire · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11064 Beige Red → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-c23faa35",
+      "title": "Chair claire · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11063 Brown Rose → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11051 Luminous Flesh → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-1512b37c",
+      "title": "Chair cadavérique · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11058 Decomposed Flesh → AK11057 Vampiric Flesh → AK11008 Grimy Grey → AK11005 Greenish White → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-74680d0f",
+      "title": "Chair cadavérique · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11058 Decomposed Flesh → AK11057 Vampiric Flesh → AK11008 Grimy Grey → AK11005 Greenish White → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-bcf8361a",
+      "title": "Chair cadavérique · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11058 Decomposed Flesh → AK11057 Vampiric Flesh → AK11008 Grimy Grey → AK11005 Greenish White → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-446ff31e",
+      "title": "Chair cadavérique · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11058 Decomposed Flesh → AK11057 Vampiric Flesh → AK11008 Grimy Grey → AK11005 Greenish White → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-14cae37f",
+      "title": "Chair cadavérique · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11058 Decomposed Flesh → AK11057 Vampiric Flesh → AK11008 Grimy Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-a4a2761f",
+      "title": "Terre beige · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11125 Grey-Brown → AK11124 Middle Stone → AK11034 Medium Sand → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d8762bea",
+      "title": "Terre beige · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11125 Grey-Brown → AK11124 Middle Stone → AK11034 Medium Sand → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-15c6c7cb",
+      "title": "Terre beige · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11126 Green-Brown → AK11122 Green Ochre → AK11035 Sand Yellow → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-80dbc129",
+      "title": "Terre beige · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11009 Warm Grey → AK11124 Middle Stone → AK11034 Medium Sand → AK11032 Pale Sand → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-bc385d5e",
+      "title": "Terre beige · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11125 Grey-Brown → AK11124 Middle Stone → AK11034 Medium Sand → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-36a0bc8b",
+      "title": "Brun cuir · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11100 Light Brown → AK11099 Ocher Orange → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-68b41fd6",
+      "title": "Brun cuir · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11113 Chocolate → AK11110 Leather Brown → AK11104 Saddle Brown → AK11115 Light Earth → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-cc251c0f",
+      "title": "Brun cuir · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11106 Mahogany Brown → AK11104 Saddle Brown → AK11117 Golden Brown → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-46faaac5",
+      "title": "Brun cuir · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11125 Grey-Brown → AK11110 Leather Brown → AK11104 Saddle Brown → AK11119 Cork → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9eaba062",
+      "title": "Brun cuir · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11113 Chocolate → AK11110 Leather Brown → AK11117 Golden Brown → AK11119 Cork → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9fd49e9d",
+      "title": "Os ivoire · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11125 Grey-Brown → AK11033 Dark Sand → AK11031 Buff → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-13b29f6c",
+      "title": "Os ivoire · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11125 Grey-Brown → AK11033 Dark Sand → AK11031 Buff → AK11004 Ivory → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-07ddad55",
+      "title": "Os ivoire · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11009 Warm Grey → AK11030 Beige → AK11031 Buff → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-aed86fdf",
+      "title": "Os ivoire · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11125 Grey-Brown → AK11033 Dark Sand → AK11032 Pale Sand → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-ffdf7094",
+      "title": "Os ivoire · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11114 Deck Tan → AK11033 Dark Sand → AK11031 Buff → AK11004 Ivory → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-fa0952c7",
+      "title": "Rouge carmin profond · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11088 Deep Red → AK11092 Matt Red → AK11077 Light Orange → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e24e9aa2",
+      "title": "Rouge carmin profond · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11094 Bordeaux Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11061 Salmon"
+    },
+    {
+      "id": "catalogue-ce5286d3",
+      "title": "Rouge carmin profond · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11096 Wine Red → AK11088 Deep Red → AK11092 Matt Red → AK11077 Light Orange → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-81a2f881",
+      "title": "Rouge carmin profond · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11096 Wine Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11061 Salmon → AK11059 Pastel Pink"
+    },
+    {
+      "id": "catalogue-17c0cce6",
+      "title": "Rouge carmin profond · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11088 Deep Red → AK11092 Matt Red → AK11090 Vermillion → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-0e3ed700",
+      "title": "Jaune citron vif · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11118 Ochre → AK11041 Golden Yellow → AK11045 Deep Yellow → AK11047 Lemon Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-7560d3f3",
+      "title": "Jaune citron vif · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11118 Ochre → AK11041 Golden Yellow → AK11045 Deep Yellow → AK11047 Lemon Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-2e633a66",
+      "title": "Jaune citron vif · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11126 Green-Brown → AK11122 Green Ochre → AK11041 Golden Yellow → AK11045 Deep Yellow → AK11047 Lemon Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-5e698d72",
+      "title": "Jaune citron vif · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11045 Deep Yellow → AK11047 Lemon Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-3b7693db",
+      "title": "Jaune citron vif · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11044 Yellow → AK11047 Lemon Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-a48f478e",
+      "title": "Turquoise profond · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11142 Deep Green → AK11165 Grey-Blue → AK11166 French Blue → AK11001 White"
+    },
+    {
+      "id": "catalogue-8d16e81d",
+      "title": "Turquoise profond · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-59289e38",
+      "title": "Turquoise profond · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11142 Deep Green → AK11144 Emerald → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-662e6530",
+      "title": "Turquoise profond · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11190 Dark Sea Blue → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11001 White"
+    },
+    {
+      "id": "catalogue-c8d01b81",
+      "title": "Turquoise profond · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11142 Deep Green → AK11144 Emerald → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-d1cfba05",
+      "title": "Violet impérial · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11071 Lilac → AK11069 Pastel Violet"
+    },
+    {
+      "id": "catalogue-6cbdc784",
+      "title": "Violet impérial · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11071 Lilac → AK11069 Pastel Violet"
+    },
+    {
+      "id": "catalogue-e5313a5d",
+      "title": "Violet impérial · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11189 Dark Prussian Blue → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11071 Lilac → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-59c69e77",
+      "title": "Violet impérial · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11094 Bordeaux Red → AK11074 Deep Purple → AK11073 Purple → AK11071 Lilac → AK11069 Pastel Violet"
+    },
+    {
+      "id": "catalogue-dc2a163c",
+      "title": "Violet impérial · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11069 Pastel Violet → AK11001 White"
+    },
+    {
+      "id": "catalogue-48a52f5a",
+      "title": "Brun cuir caramel · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11104 Saddle Brown → AK11118 Ochre → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3d39af29",
+      "title": "Brun cuir caramel · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11104 Saddle Brown → AK11118 Ochre → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-250e276c",
+      "title": "Brun cuir caramel · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11113 Chocolate → AK11110 Leather Brown → AK11117 Golden Brown → AK11118 Ochre → AK11119 Cork → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-2184b55c",
+      "title": "Brun cuir caramel · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11109 Dark Brown → AK11104 Saddle Brown → AK11115 Light Earth → AK11031 Buff → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-d9bad605",
+      "title": "Brun cuir caramel · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11106 Mahogany Brown → AK11104 Saddle Brown → AK11117 Golden Brown → AK11119 Cork → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3a94eb21",
+      "title": "Vert olive poussiéreux · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11133 Dark Green Grey → AK11147 Olive Green → AK11148 Medium Olive Green → AK11131 Pastel Green → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9c9574f0",
+      "title": "Vert olive poussiéreux · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11133 Dark Green Grey → AK11147 Olive Green → AK11148 Medium Olive Green → AK11131 Pastel Green → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-f7a5d401",
+      "title": "Vert olive poussiéreux · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11126 Green-Brown → AK11127 British Khaki → AK11122 Green Ochre → AK11131 Pastel Green → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-3b0f83c3",
+      "title": "Vert olive poussiéreux · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11190 Dark Sea Blue → AK11133 Dark Green Grey → AK11147 Olive Green → AK11148 Medium Olive Green → AK11131 Pastel Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-93205610",
+      "title": "Vert olive poussiéreux · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11133 Dark Green Grey → AK11147 Olive Green → AK11122 Green Ochre → AK11131 Pastel Green → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a2509af9",
+      "title": "Chair froide · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11063 Brown Rose → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e254a5f8",
+      "title": "Chair froide · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11063 Brown Rose → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-85f89319",
+      "title": "Chair froide · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11064 Beige Red → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-07c77b2b",
+      "title": "Chair froide · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11063 Brown Rose → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11051 Luminous Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-32581c88",
+      "title": "Chair froide · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11063 Brown Rose → AK11057 Vampiric Flesh → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-0e0ab234",
+      "title": "Chair chaude · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11063 Brown Rose → AK11055 Sunny Skin Tone → AK11052 Basic Skin Tone → AK11051 Luminous Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-7a84dbf7",
+      "title": "Chair chaude · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11063 Brown Rose → AK11055 Sunny Skin Tone → AK11052 Basic Skin Tone → AK11051 Luminous Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-b62e9312",
+      "title": "Chair chaude · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11106 Mahogany Brown → AK11064 Beige Red → AK11055 Sunny Skin Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-88ea0566",
+      "title": "Chair chaude · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11063 Brown Rose → AK11055 Sunny Skin Tone → AK11052 Basic Skin Tone → AK11051 Luminous Flesh → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-e3ea1d97",
+      "title": "Chair chaude · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11063 Brown Rose → AK11055 Sunny Skin Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-5e373523",
+      "title": "Bleu denim délavé · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11181 Dark Blue → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-694754fe",
+      "title": "Bleu denim délavé · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11181 Dark Blue → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-64cd8d47",
+      "title": "Bleu denim délavé · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11190 Dark Sea Blue → AK11181 Dark Blue → AK11011 Blue Grey → AK11012 Sky Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-6b78caed",
+      "title": "Bleu denim délavé · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11189 Dark Prussian Blue → AK11181 Dark Blue → AK11011 Blue Grey → AK11013 Pale Grey → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-29d1ed5a",
+      "title": "Bleu denim délavé · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-4a530778",
+      "title": "Gris pierre chaud · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11021 Basalt Grey → AK11009 Warm Grey → AK11006 Silver Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-068b88fb",
+      "title": "Gris pierre chaud · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11021 Basalt Grey → AK11009 Warm Grey → AK11006 Silver Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-6f5edd1e",
+      "title": "Gris pierre chaud · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11026 Tenebrous Grey → AK11021 Basalt Grey → AK11009 Warm Grey → AK11006 Silver Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-b55c7c1a",
+      "title": "Gris pierre chaud · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11125 Grey-Brown → AK11021 Basalt Grey → AK11009 Warm Grey → AK11030 Beige → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-4bf22db3",
+      "title": "Gris pierre chaud · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11125 Grey-Brown → AK11021 Basalt Grey → AK11010 Medium Grey → AK11006 Silver Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-cf320d76",
+      "title": "Sable doré · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11120 Mud Brown → AK11118 Ochre → AK11035 Sand Yellow → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a8f384d5",
+      "title": "Sable doré · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11120 Mud Brown → AK11118 Ochre → AK11035 Sand Yellow → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-7a85acc0",
+      "title": "Sable doré · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11126 Green-Brown → AK11122 Green Ochre → AK11124 Middle Stone → AK11035 Sand Yellow → AK11032 Pale Sand → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-5d6994c8",
+      "title": "Sable doré · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11120 Mud Brown → AK11118 Ochre → AK11034 Medium Sand → AK11032 Pale Sand → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-cf2e2d09",
+      "title": "Sable doré · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11120 Mud Brown → AK11118 Ochre → AK11035 Sand Yellow → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-b26c4cd7",
+      "title": "Bois gris vieilli · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11008 Grimy Grey → AK11009 Warm Grey → AK11006 Silver Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-97dcb432",
+      "title": "Bois gris vieilli · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11008 Grimy Grey → AK11009 Warm Grey → AK11006 Silver Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-8085fea3",
+      "title": "Bois gris vieilli · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11026 Tenebrous Grey → AK11008 Grimy Grey → AK11009 Warm Grey → AK11006 Silver Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-0a15e151",
+      "title": "Bois gris vieilli · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11125 Grey-Brown → AK11008 Grimy Grey → AK11009 Warm Grey → AK11030 Beige → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-c63340f6",
+      "title": "Bois gris vieilli · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 Dark Brown → AK11008 Grimy Grey → AK11010 Medium Grey → AK11006 Silver Grey → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-1e3bd0fb",
+      "title": "Os ancien · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11111 Burnt Umber → AK11118 Ochre → AK11031 Buff → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-68acf986",
+      "title": "Os ancien · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11111 Burnt Umber → AK11118 Ochre → AK11031 Buff → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3fbd9b7f",
+      "title": "Os ancien · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11125 Grey-Brown → AK11009 Warm Grey → AK11033 Dark Sand → AK11031 Buff → AK11004 Ivory → AK11002 Offwhite"
+    },
+    {
+      "id": "catalogue-d0009bb5",
+      "title": "Os ancien · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11114 Deck Tan → AK11033 Dark Sand → AK11031 Buff → AK11032 Pale Sand → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-28a64b52",
+      "title": "Os ancien · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11109 Dark Brown → AK11111 Burnt Umber → AK11033 Dark Sand → AK11031 Buff → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-1e0b86dc",
+      "title": "Orange incandescent · Classique — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11096 Wine Red → AK11097 Burnt Red → AK11079 Burn Orange → AK11078 Medium Orange → AK11041 Golden Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-af26746f",
+      "title": "Orange incandescent · Froide — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11096 Wine Red → AK11097 Burnt Red → AK11079 Burn Orange → AK11078 Medium Orange → AK11041 Golden Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-f4da8ffa",
+      "title": "Orange incandescent · Chaude — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11093 Brick Red → AK11080 Deep Orange → AK11078 Medium Orange → AK11044 Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-683cf47e",
+      "title": "Orange incandescent · Intense — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11096 Wine Red → AK11079 Burn Orange → AK11078 Medium Orange → AK11041 Golden Yellow → AK11036 Ice Yellow"
+    },
+    {
+      "id": "catalogue-d7d7bd5f",
+      "title": "Orange incandescent · Réaliste — révision V5",
+      "group": "Triades et six valeurs",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11097 Burnt Red → AK11079 Burn Orange → AK11077 Light Orange → AK11041 Golden Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-0271c5e4",
+      "title": "Cape en laine",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-14d738a7",
+      "title": "Tissu de coton",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a35d6913",
+      "title": "Soie et satin",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-594ff01c",
+      "title": "Denim",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-45520321",
+      "title": "Velours",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3deafbab",
+      "title": "Peau humaine",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-898d5280",
+      "title": "Peau verte",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-52440403",
+      "title": "Peau reptilienne",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-4e267ce6",
+      "title": "Peau noire / foncée",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-51f50361",
+      "title": "Fourrure brune",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3c5b4266",
+      "title": "Fourrure blanche",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-c9e6ba27",
+      "title": "Cheveux",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-44db4dd4",
+      "title": "Cuir souple",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-2ac31827",
+      "title": "Cuir usé",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-0e2a585e",
+      "title": "Bois neuf",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ec0cfd9a",
+      "title": "Bois mort",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ca195546",
+      "title": "Écorce",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-8c18ff7c",
+      "title": "Pierre calcaire",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d35b4d78",
+      "title": "Granit",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-54b40325",
+      "title": "Basalte",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d7c21357",
+      "title": "Roche volcanique",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-c93a7a38",
+      "title": "Sable",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-76dd3964",
+      "title": "Terre sèche",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-eab50e68",
+      "title": "Boue humide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-46855781",
+      "title": "Neige",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-bc3a7aef",
+      "title": "Glace",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-cf581ee7",
+      "title": "Plastique mat",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-324d75df",
+      "title": "Plastique brillant",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-195a3703",
+      "title": "Caoutchouc",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-57e341cc",
+      "title": "Os et dents",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e2ee1ec4",
+      "title": "Corne",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ebc70e55",
+      "title": "Plumes",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-1426883b",
+      "title": "Verre transparent",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-675d8b94",
+      "title": "Eau",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ff06ef61",
+      "title": "Feu",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-f281da49",
+      "title": "Plasma",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-bbe30d31",
+      "title": "Rouille",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-5e522a36",
+      "title": "Vert-de-gris",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-404f0943",
+      "title": "Végétation",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9a6fe27e",
+      "title": "Champignons",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a3eac1c4",
+      "title": "Marbre",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9c649e95",
+      "title": "Céramique",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-856522e7",
+      "title": "Béton",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a79386f7",
+      "title": "Brique",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-71d5f6a4",
+      "title": "Papier et parchemin",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-89e08aab",
+      "title": "Cordes",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-6545217c",
+      "title": "Acier neutre",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-6eadcaf2",
+      "title": "Acier bleuté",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11025 German Grey → AK11011 Blue Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-4bd24468",
+      "title": "Acier chaud",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11022 Dark Grey → AK11009 Warm Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-17b2c5fa",
+      "title": "Argent poli",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-8ece0af3",
+      "title": "Chrome",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11025 German Grey → AK11011 Blue Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-af1bce80",
+      "title": "Métal noir",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11026 Tenebrous Grey → AK11025 German Grey → AK11022 Dark Grey → AK11013 Pale Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-1cd177f1",
+      "title": "Or jaune",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11098 Black Red → AK11102 Deep Brown → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11036 Ice Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-04719c04",
+      "title": "Or ancien",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11147 Olive Green → AK11125 Grey-Brown → AK11041 Golden Yellow → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-64317d43",
+      "title": "Or rose",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11094 Bordeaux Red → AK11093 Brick Red → AK11077 Light Orange → AK11050 Light Flesh → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d03a2af1",
+      "title": "Bronze",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11125 Grey-Brown → AK11099 Ocher Orange → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3f6212ab",
+      "title": "Cuivre",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11074 Deep Purple → AK11098 Black Red → AK11093 Brick Red → AK11078 Medium Orange → AK11077 Light Orange → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-8104ec0e",
+      "title": "Laiton",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11147 Olive Green → AK11125 Grey-Brown → AK11041 Golden Yellow → AK11036 Ice Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ec7d6334",
+      "title": "Titane",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11025 German Grey → AK11018 Neutral Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-e9a1009a",
+      "title": "Fer rouillé",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11093 Brick Red → AK11079 Burn Orange → AK11077 Light Orange → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-a5524460",
+      "title": "Métal verdâtre",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11147 Olive Green → AK11144 Emerald → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-a68064b3",
+      "title": "Métal violet",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11073 Purple → AK11071 Lilac → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-f7f17b46",
+      "title": "Métal rouge",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11098 Black Red → AK11094 Bordeaux Red → AK11087 Scarlet Red → AK11061 Salmon → AK11001 White"
+    },
+    {
+      "id": "catalogue-92879fac",
+      "title": "Métal bleu",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-be9b636e",
+      "title": "Saphir",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11011 Blue Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-208482b2",
+      "title": "Rubis",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11094 Bordeaux Red → AK11088 Deep Red → AK11087 Scarlet Red → AK11061 Salmon → AK11001 White"
+    },
+    {
+      "id": "catalogue-f7d1c855",
+      "title": "Émeraude",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11142 Deep Green → AK11144 Emerald → AK11143 Mint Green → AK11001 White"
+    },
+    {
+      "id": "catalogue-4fc4c4e1",
+      "title": "Améthyste",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11073 Purple → AK11072 Deep Violet → AK11071 Lilac → AK11001 White"
+    },
+    {
+      "id": "catalogue-ea99e59a",
+      "title": "Ambre",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11093 Brick Red → AK11079 Burn Orange → AK11041 Golden Yellow → AK11036 Ice Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-bc6e690e",
+      "title": "Topaze",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11102 Deep Brown → AK11099 Ocher Orange → AK11041 Golden Yellow → AK11044 Yellow → AK11036 Ice Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-d372cbd2",
+      "title": "Turquoise",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11144 Emerald → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-6bcf0e6d",
+      "title": "Quartz rose",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11094 Bordeaux Red → AK11067 Magenta → AK11061 Salmon → AK11059 Pastel Pink → AK11002 Offwhite → AK11001 White"
+    },
+    {
+      "id": "catalogue-48bebdd1",
+      "title": "Obsidienne",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11026 Tenebrous Grey → AK11025 German Grey → AK11011 Blue Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-ab5acaa5",
+      "title": "Glace",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11189 Dark Prussian Blue → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey → AK11002 Offwhite → AK11001 White"
+    },
+    {
+      "id": "catalogue-50db7131",
+      "title": "Cristal magique cyan",
+      "group": "Cristaux et gemmes",
+      "source": "catalogue",
+      "steps": "AK11189 Dark Prussian Blue → AK11187 Strong Dark Blue → AK11186 Light Prussian Blue → AK11143 Mint Green → AK11005 Greenish White → AK11001 White"
+    },
+    {
+      "id": "catalogue-6c4f3fe7",
+      "title": "Lame plate",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-1512ee4e",
+      "title": "Cylindre",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-d7856f34",
+      "title": "Sphère",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-c9b2afd8",
+      "title": "Plaque plane",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-c743c2f3",
+      "title": "Épaulière",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-6c0dcbe9",
+      "title": "Hache",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-7673d1db",
+      "title": "Chaîne",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-17c915d6",
+      "title": "Anneau",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-be6fe5cc",
+      "title": "Cône",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-b2e2a8b2",
+      "title": "Arête vive",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-e6873ed0",
+      "title": "Surface martelée",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-5ffc7dac",
+      "title": "Surface brossée",
+      "group": "Volumes et reflets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-ff2312aa",
+      "title": "Lin naturel",
+      "group": "Tissus",
+      "source": "catalogue",
+      "steps": "AK11109 [nom à vérifier] → AK11114 [nom à vérifier] → AK11031 Buff → AK11032 Pale Sand → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-d9777d52",
+      "title": "Velours bordeaux",
+      "group": "Tissus",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11096 Wine Red → AK11088 Deep Red → AK11063 Brown Rose → AK11061 Salmon"
+    },
+    {
+      "id": "catalogue-7019c4fc",
+      "title": "Soie bleu nuit",
+      "group": "Tissus",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11181 [nom à vérifier] → AK11175 [nom à vérifier] → AK11011 Blue Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-83c74ff3",
+      "title": "Denim noir",
+      "group": "Tissus",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11027 Rubber Black → AK11025 German Grey → AK11021 Basalt Grey → AK11011 Blue Grey → AK11013 Pale Grey"
+    },
+    {
+      "id": "catalogue-e9aea559",
+      "title": "Cuir rouge patiné",
+      "group": "Cuirs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11097 Burnt Red → AK11104 [nom à vérifier] → AK11118 [nom à vérifier] → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-7977fad4",
+      "title": "Cuir noir craquelé",
+      "group": "Cuirs",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11027 Rubber Black → AK11109 [nom à vérifier] → AK11008 Grimy Grey → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-7b47b6b6",
+      "title": "Bois rouge acajou",
+      "group": "Bois",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11109 [nom à vérifier] → AK11104 [nom à vérifier] → AK11100 Light Brown → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-4734c77d",
+      "title": "Écorce sombre",
+      "group": "Bois",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 [nom à vérifier] → AK11111 [nom à vérifier] → AK11120 [nom à vérifier] → AK11008 Grimy Grey → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-ea610f03",
+      "title": "Ardoise bleue",
+      "group": "Roches et sols",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11021 Basalt Grey → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-f7a80d9c",
+      "title": "Granit moucheté",
+      "group": "Roches et sols",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11018 Neutral Grey → AK11010 Medium Grey → AK11006 Silver Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-0744f8d7",
+      "title": "Terre humide",
+      "group": "Roches et sols",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 [nom à vérifier] → AK11111 [nom à vérifier] → AK11120 [nom à vérifier] → AK11118 [nom à vérifier] → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-370ef695",
+      "title": "Grès rouge",
+      "group": "Roches et sols",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11107 [nom à vérifier] → AK11103 [nom à vérifier] → AK11105 [nom à vérifier] → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-45685ece",
+      "title": "Peau olive",
+      "group": "Peaux",
+      "source": "catalogue",
+      "steps": "AK11109 [nom à vérifier] → AK11126 Green-Brown → AK11056 Dark Flesh → AK11054 Medium Flesh Tone → AK11052 Basic Skin Tone → AK11050 Light Flesh"
+    },
+    {
+      "id": "catalogue-4b0cfae3",
+      "title": "Peau verdâtre malade",
+      "group": "Peaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11147 Olive Green → AK11136 Frog Green → AK11131 Pastel Green → AK11005 Greenish White"
+    },
+    {
+      "id": "catalogue-99459985",
+      "title": "Fourrure rousse",
+      "group": "Fourrures",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 [nom à vérifier] → AK11104 [nom à vérifier] → AK11101 Orange Brown → AK11035 Sand Yellow → AK11031 Buff"
+    },
+    {
+      "id": "catalogue-b1584ccb",
+      "title": "Fourrure blanche",
+      "group": "Fourrures",
+      "source": "catalogue",
+      "steps": "AK11025 German Grey → AK11015 Dark Sea Grey → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-38b9052a",
+      "title": "Plastique noir mat",
+      "group": "Plastiques",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11027 Rubber Black → AK11025 German Grey → AK11021 Basalt Grey → AK11018 Neutral Grey → AK11013 Pale Grey"
+    },
+    {
+      "id": "catalogue-155b7b3e",
+      "title": "Plastique blanc brillant",
+      "group": "Plastiques",
+      "source": "catalogue",
+      "steps": "AK11025 German Grey → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey → AK11002 Offwhite → AK11001 White"
+    },
+    {
+      "id": "catalogue-40f5be44",
+      "title": "Corne noire",
+      "group": "Os et cornes",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 [nom à vérifier] → AK11027 Rubber Black → AK11021 Basalt Grey → AK11009 Warm Grey → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-2b846eeb",
+      "title": "Eau profonde",
+      "group": "Eau et verre",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11181 [nom à vérifier] → AK11164 [nom à vérifier] → AK11175 [nom à vérifier] → AK11001 White"
+    },
+    {
+      "id": "catalogue-b0d5a8b2",
+      "title": "Verre fumé",
+      "group": "Eau et verre",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-c8a3a994",
+      "title": "Feuillage automnal",
+      "group": "Végétation",
+      "source": "catalogue",
+      "steps": "AK11109 [nom à vérifier] → AK11097 Burnt Red → AK11079 Burn Orange → AK11041 Golden Yellow → AK11038 Pale Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-218d38cf",
+      "title": "Mousse humide",
+      "group": "Végétation",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11147 Olive Green → AK11140 Grass Green → AK11137 Lime Green → AK11038 Pale Yellow"
+    },
+    {
+      "id": "catalogue-5b164f33",
+      "title": "Rouille orangée",
+      "group": "Effets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 [nom à vérifier] → AK11107 [nom à vérifier] → AK11103 [nom à vérifier] → AK11105 [nom à vérifier] → AK11079 Burn Orange"
+    },
+    {
+      "id": "catalogue-b27f21fa",
+      "title": "Cendres froides",
+      "group": "Effets",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11022 Dark Grey → AK11018 Neutral Grey → AK11013 Pale Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-8c59cf13",
+      "title": "Acier poli",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11021 Basalt Grey → AK11011 Blue Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-b4a79479",
+      "title": "Or jaune NMM",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11109 [nom à vérifier] → AK11118 [nom à vérifier] → AK11041 Golden Yellow → AK11036 Ice Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-8d2a1337",
+      "title": "Cuivre NMM",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11107 [nom à vérifier] → AK11079 Burn Orange → AK11061 Salmon → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-26a87779",
+      "title": "Bronze NMM",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11126 Green-Brown → AK11109 [nom à vérifier] → AK11118 [nom à vérifier] → AK11035 Sand Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-68227aaf",
+      "title": "Chrome NMM",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11025 German Grey → AK11011 Blue Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-b5c9c85a",
+      "title": "Laiton NMM",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11147 Olive Green → AK11118 [nom à vérifier] → AK11041 Golden Yellow → AK11036 Ice Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-74fa8ead",
+      "title": "Acier noir NMM",
+      "group": "NMM",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11027 Rubber Black → AK11025 German Grey → AK11021 Basalt Grey → AK11011 Blue Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-8e440f15",
+      "title": "Rubis transparent",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11096 Wine Red → AK11088 Deep Red → AK11092 Matt Red → AK11061 Salmon → AK11001 White"
+    },
+    {
+      "id": "catalogue-bcbcad33",
+      "title": "Saphir transparent",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11181 [nom à vérifier] → AK11184 [nom à vérifier] → AK11175 [nom à vérifier] → AK11001 White"
+    },
+    {
+      "id": "catalogue-ebb0aa7b",
+      "title": "Émeraude transparente",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11146 Dark Green → AK11144 Emerald → AK11142 Deep Green → AK11137 Lime Green → AK11001 White"
+    },
+    {
+      "id": "catalogue-8ff3c7c4",
+      "title": "Améthyste",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11074 Deep Purple → AK11072 Deep Violet → AK11073 Purple → AK11071 Lilac → AK11001 White"
+    },
+    {
+      "id": "catalogue-85b0467f",
+      "title": "Ambre",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11109 [nom à vérifier] → AK11097 Burnt Red → AK11079 Burn Orange → AK11078 Medium Orange → AK11036 Ice Yellow → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a3204541",
+      "title": "Quartz laiteux",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11025 German Grey → AK11011 Blue Grey → AK11013 Pale Grey → AK11003 White Grey → AK11002 Offwhite → AK11001 White"
+    },
+    {
+      "id": "catalogue-4310cb8a",
+      "title": "Cristal turquoise magique",
+      "group": "Cristaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11189 Dark Prussian Blue → AK11164 [nom à vérifier] → AK11165 [nom à vérifier] → AK11166 [nom à vérifier] → AK11001 White"
+    },
+    {
+      "id": "catalogue-c89dc683",
+      "title": "Cape en laine — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-1626dc84",
+      "title": "Tissu de coton — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-bed2a128",
+      "title": "Soie et satin — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e724e3db",
+      "title": "Denim — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-11b06c4e",
+      "title": "Velours — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ee0777c0",
+      "title": "Peau humaine — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ae68fd37",
+      "title": "Peau verte — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d8da8ab8",
+      "title": "Peau reptilienne — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-0b79e635",
+      "title": "Peau noire / foncée — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-92c7f48e",
+      "title": "Fourrure brune — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-359607b5",
+      "title": "Fourrure blanche — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-f9911a04",
+      "title": "Cheveux — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-adb27e53",
+      "title": "Cuir souple — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-5e7f2804",
+      "title": "Cuir usé — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-16b5082d",
+      "title": "Bois neuf — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-8e56e831",
+      "title": "Bois mort — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-700b6055",
+      "title": "Écorce — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-1c39597b",
+      "title": "Pierre calcaire — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a8590b0f",
+      "title": "Granit — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-99826d7a",
+      "title": "Basalte — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-29b133d4",
+      "title": "Roche volcanique — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e00f0fcf",
+      "title": "Sable — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-05fd4603",
+      "title": "Terre sèche — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-626ba0df",
+      "title": "Boue humide — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d6c86fee",
+      "title": "Neige — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-61f93a8c",
+      "title": "Glace — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-89adb3c4",
+      "title": "Plastique mat — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-7f46f91c",
+      "title": "Plastique brillant — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e5d435b8",
+      "title": "Caoutchouc — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-6b75b7ab",
+      "title": "Os et dents — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-6399fe23",
+      "title": "Corne — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-0ccf780a",
+      "title": "Plumes — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-d7579bf0",
+      "title": "Verre transparent — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-bad8f113",
+      "title": "Eau — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-3090008e",
+      "title": "Feu — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-6b927a56",
+      "title": "Plasma — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-084385fe",
+      "title": "Rouille — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ce306ae5",
+      "title": "Vert-de-gris — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-738888f8",
+      "title": "Végétation — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9ffb6e8d",
+      "title": "Champignons — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-ea539923",
+      "title": "Marbre — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-37138f4a",
+      "title": "Céramique — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-5bdd57c4",
+      "title": "Béton — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-9e5b4e34",
+      "title": "Brique — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-e388aa43",
+      "title": "Papier et parchemin — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-a0319ec0",
+      "title": "Cordes — variante froide",
+      "group": "Matériaux",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11102 Deep Brown → AK11031 Buff → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-bf2e09a8",
+      "title": "Citrouille sculptée, lumière intérieure",
+      "group": "Halloween — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11113  → AK11102 Deep Brown → AK11090 Vermillion → AK11079 Burn Orange → AK11045 Deep Yellow → AK11001 White"
+    },
+    {
+      "id": "catalogue-db9cbd2a",
+      "title": "Zombie, chair cadavérique",
+      "group": "Halloween — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11113  → AK11162  → AK11052 Basic Skin Tone → AK11014 Medium Sea Grey → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-67597168",
+      "title": "Fantôme, drapé spectral",
+      "group": "Halloween — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11190 Dark Sea Blue → AK11074 Deep Purple → AK11158  → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-9aaab897",
+      "title": "Spectre, magie cyan violette",
+      "group": "Halloween — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11072 Deep Violet → AK11074 Deep Purple → AK11189 Dark Prussian Blue → AK11158  → AK11001 White"
+    },
+    {
+      "id": "catalogue-da1b1ddd",
+      "title": "Sorcière, velours violet",
+      "group": "Halloween — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11072 Deep Violet → AK11074 Deep Purple → AK11075 Violet Red → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-2b32b6af",
+      "title": "Tombe ancienne, pierre et mousse",
+      "group": "Halloween — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11025 German Grey → AK11017 Reddish Grey → AK11013 Pale Grey → AK11162  → AK11003 White Grey"
+    },
+    {
+      "id": "catalogue-80e93a88",
+      "title": "Bonhomme de neige, ombres froides",
+      "group": "Noël — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11190 Dark Sea Blue → AK11017 Reddish Grey → AK11013 Pale Grey → AK11003 White Grey → AK11002 Offwhite → AK11001 White"
+    },
+    {
+      "id": "catalogue-dd7fa317",
+      "title": "Elfe festif, rouge et vert",
+      "group": "Noël — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11113  → AK11088 Deep Red → AK11090 Vermillion → AK11162  → AK11004 Ivory"
+    },
+    {
+      "id": "catalogue-66c291e0",
+      "title": "Sapin enneigé, lumières chaudes",
+      "group": "Noël — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11029 Black → AK11162  → AK11163  → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "catalogue-c20858f2",
+      "title": "Cloche dorée, métal brillant",
+      "group": "Noël — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11113  → AK11121 Tan Earth → AK11199 Metallic Blue → AK11045 Deep Yellow → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-6ec69f7b",
+      "title": "Maison pain d’épices, neige et caramel",
+      "group": "Noël — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11113  → AK11106  → AK11121 Tan Earth → AK11031 Buff → AK11004 Ivory → AK11001 White"
+    },
+    {
+      "id": "catalogue-5848ab5d",
+      "title": "Golem de glace, cristal bleu",
+      "group": "Noël — études saisonnières V7",
+      "source": "catalogue",
+      "steps": "AK11190 Dark Sea Blue → AK11189 Dark Prussian Blue → AK11158  → AK11013 Pale Grey → AK11003 White Grey → AK11001 White"
+    },
+    {
+      "id": "ultime-122c85e1",
+      "title": "Basalte, pierre froide · classique",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11029",
+        "AK11026",
+        "AK11025",
+        "AK11021",
+        "AK11018",
+        "AK11012"
+      ]
+    },
+    {
+      "id": "ultime-41e4f0fa",
+      "title": "Basalte, pierre froide · lumière froide",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11029",
+        "AK11026",
+        "AK11025",
+        "AK11021",
+        "AK11012",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-0c9dc4af",
+      "title": "Basalte, pierre froide · lumière chaude",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11029",
+        "AK11026",
+        "AK11021",
+        "AK11018",
+        "AK11012",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-bd55eb86",
+      "title": "Ardoise et schiste · classique",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11028",
+        "AK11023",
+        "AK11022",
+        "AK11015",
+        "AK11014",
+        "AK11011"
+      ]
+    },
+    {
+      "id": "ultime-d1969743",
+      "title": "Ardoise et schiste · lumière froide",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11028",
+        "AK11023",
+        "AK11022",
+        "AK11015",
+        "AK11011",
+        "AK11006"
+      ]
+    },
+    {
+      "id": "ultime-c1dba23a",
+      "title": "Ardoise et schiste · lumière chaude",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11028",
+        "AK11023",
+        "AK11015",
+        "AK11014",
+        "AK11011",
+        "AK11006"
+      ]
+    },
+    {
+      "id": "ultime-8cca2e26",
+      "title": "Marbre froid · classique",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11019",
+        "AK11020",
+        "AK11017",
+        "AK11010",
+        "AK11013",
+        "AK11007"
+      ]
+    },
+    {
+      "id": "ultime-4973a4e3",
+      "title": "Marbre froid · lumière froide",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11019",
+        "AK11020",
+        "AK11017",
+        "AK11010",
+        "AK11007",
+        "AK11002"
+      ]
+    },
+    {
+      "id": "ultime-792437da",
+      "title": "Marbre froid · lumière chaude",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11019",
+        "AK11020",
+        "AK11010",
+        "AK11013",
+        "AK11007",
+        "AK11002"
+      ]
+    },
+    {
+      "id": "ultime-9995be96",
+      "title": "Béton urbain · classique",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11027",
+        "AK11024",
+        "AK11016",
+        "AK11009",
+        "AK11008",
+        "AK11006"
+      ]
+    },
+    {
+      "id": "ultime-820882d3",
+      "title": "Béton urbain · lumière froide",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11027",
+        "AK11024",
+        "AK11016",
+        "AK11009",
+        "AK11006",
+        "AK11005"
+      ]
+    },
+    {
+      "id": "ultime-135595ca",
+      "title": "Béton urbain · lumière chaude",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11027",
+        "AK11024",
+        "AK11009",
+        "AK11008",
+        "AK11006",
+        "AK11005"
+      ]
+    },
+    {
+      "id": "ultime-079c520e",
+      "title": "Pierre sableuse · classique",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11033",
+        "AK11034",
+        "AK11035",
+        "AK11030",
+        "AK11031",
+        "AK11032"
+      ]
+    },
+    {
+      "id": "ultime-dd10189b",
+      "title": "Pierre sableuse · lumière froide",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11033",
+        "AK11034",
+        "AK11035",
+        "AK11030",
+        "AK11032",
+        "AK11004"
+      ]
+    },
+    {
+      "id": "ultime-e58d04e2",
+      "title": "Pierre sableuse · lumière chaude",
+      "group": "Pierre et cendre",
+      "source": "ultime",
+      "steps": [
+        "AK11033",
+        "AK11034",
+        "AK11030",
+        "AK11031",
+        "AK11032",
+        "AK11004"
+      ]
+    },
+    {
+      "id": "ultime-77e11809",
+      "title": "Dune au soleil · classique",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11033",
+        "AK11040",
+        "AK11043",
+        "AK11041",
+        "AK11035",
+        "AK11037"
+      ]
+    },
+    {
+      "id": "ultime-b1a47f92",
+      "title": "Dune au soleil · lumière froide",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11033",
+        "AK11040",
+        "AK11043",
+        "AK11041",
+        "AK11037",
+        "AK11036"
+      ]
+    },
+    {
+      "id": "ultime-28c679f7",
+      "title": "Dune au soleil · lumière chaude",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11033",
+        "AK11040",
+        "AK11041",
+        "AK11035",
+        "AK11037",
+        "AK11036"
+      ]
+    },
+    {
+      "id": "ultime-a1c76600",
+      "title": "Ornement jaune saturé · classique",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11043",
+        "AK11042",
+        "AK11045",
+        "AK11044",
+        "AK11046",
+        "AK11047"
+      ]
+    },
+    {
+      "id": "ultime-b2e1ccc5",
+      "title": "Ornement jaune saturé · lumière froide",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11043",
+        "AK11042",
+        "AK11045",
+        "AK11044",
+        "AK11047",
+        "AK11038"
+      ]
+    },
+    {
+      "id": "ultime-788dab9c",
+      "title": "Ornement jaune saturé · lumière chaude",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11043",
+        "AK11042",
+        "AK11044",
+        "AK11046",
+        "AK11047",
+        "AK11038"
+      ]
+    },
+    {
+      "id": "ultime-4deb673f",
+      "title": "Lueur toxique · classique",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11039",
+        "AK11042",
+        "AK11044",
+        "AK11048",
+        "AK11049",
+        "AK11047"
+      ]
+    },
+    {
+      "id": "ultime-2ee962d8",
+      "title": "Lueur toxique · lumière froide",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11039",
+        "AK11042",
+        "AK11044",
+        "AK11048",
+        "AK11047",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-c8bf7d15",
+      "title": "Lueur toxique · lumière chaude",
+      "group": "Déserts et jaunes",
+      "source": "ultime",
+      "steps": [
+        "AK11039",
+        "AK11042",
+        "AK11048",
+        "AK11049",
+        "AK11047",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-d61bef2a",
+      "title": "Carnation dorée · classique",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11056",
+        "AK11054",
+        "AK11055",
+        "AK11052",
+        "AK11053",
+        "AK11051"
+      ]
+    },
+    {
+      "id": "ultime-e72ad7f7",
+      "title": "Carnation dorée · lumière froide",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11056",
+        "AK11054",
+        "AK11055",
+        "AK11052",
+        "AK11051",
+        "AK11050"
+      ]
+    },
+    {
+      "id": "ultime-d92e3696",
+      "title": "Carnation dorée · lumière chaude",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11056",
+        "AK11054",
+        "AK11052",
+        "AK11053",
+        "AK11051",
+        "AK11050"
+      ]
+    },
+    {
+      "id": "ultime-4d07362a",
+      "title": "Carnation froide · classique",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11057",
+        "AK11058",
+        "AK11064",
+        "AK11063",
+        "AK11062",
+        "AK11059"
+      ]
+    },
+    {
+      "id": "ultime-0e12ecf7",
+      "title": "Carnation froide · lumière froide",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11057",
+        "AK11058",
+        "AK11064",
+        "AK11063",
+        "AK11059",
+        "AK11050"
+      ]
+    },
+    {
+      "id": "ultime-00164b96",
+      "title": "Carnation froide · lumière chaude",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11057",
+        "AK11058",
+        "AK11063",
+        "AK11062",
+        "AK11059",
+        "AK11050"
+      ]
+    },
+    {
+      "id": "ultime-13b14073",
+      "title": "Peau fantastique maladive · classique",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11058",
+        "AK11057",
+        "AK11060",
+        "AK11061",
+        "AK11059",
+        "AK11051"
+      ]
+    },
+    {
+      "id": "ultime-cf6e9d6c",
+      "title": "Peau fantastique maladive · lumière froide",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11058",
+        "AK11057",
+        "AK11060",
+        "AK11061",
+        "AK11051",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-b49599c1",
+      "title": "Peau fantastique maladive · lumière chaude",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11058",
+        "AK11057",
+        "AK11061",
+        "AK11059",
+        "AK11051",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-3d7b2080",
+      "title": "Rose et corail · classique",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11063",
+        "AK11064",
+        "AK11062",
+        "AK11061",
+        "AK11059",
+        "AK11065"
+      ]
+    },
+    {
+      "id": "ultime-4743d345",
+      "title": "Rose et corail · lumière froide",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11063",
+        "AK11064",
+        "AK11062",
+        "AK11061",
+        "AK11065",
+        "AK11076"
+      ]
+    },
+    {
+      "id": "ultime-0cefb21c",
+      "title": "Rose et corail · lumière chaude",
+      "group": "Peaux et portraits",
+      "source": "ultime",
+      "steps": [
+        "AK11063",
+        "AK11064",
+        "AK11061",
+        "AK11059",
+        "AK11065",
+        "AK11076"
+      ]
+    },
+    {
+      "id": "ultime-f190a3b9",
+      "title": "Améthyste sombre · classique",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11074",
+        "AK11072",
+        "AK11073",
+        "AK11070",
+        "AK11071",
+        "AK11069"
+      ]
+    },
+    {
+      "id": "ultime-640430c2",
+      "title": "Améthyste sombre · lumière froide",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11074",
+        "AK11072",
+        "AK11073",
+        "AK11070",
+        "AK11069",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-4d6aaa67",
+      "title": "Améthyste sombre · lumière chaude",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11074",
+        "AK11072",
+        "AK11070",
+        "AK11071",
+        "AK11069",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-8b05954e",
+      "title": "Magenta enchanté · classique",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11075",
+        "AK11074",
+        "AK11067",
+        "AK11066",
+        "AK11065",
+        "AK11068"
+      ]
+    },
+    {
+      "id": "ultime-1489fe5b",
+      "title": "Magenta enchanté · lumière froide",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11075",
+        "AK11074",
+        "AK11067",
+        "AK11066",
+        "AK11068",
+        "AK11059"
+      ]
+    },
+    {
+      "id": "ultime-a1fe38a2",
+      "title": "Magenta enchanté · lumière chaude",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11075",
+        "AK11074",
+        "AK11066",
+        "AK11065",
+        "AK11068",
+        "AK11059"
+      ]
+    },
+    {
+      "id": "ultime-d217575e",
+      "title": "Cristal lavande · classique",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11072",
+        "AK11070",
+        "AK11071",
+        "AK11069",
+        "AK11059",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-2148a42b",
+      "title": "Cristal lavande · lumière froide",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11072",
+        "AK11070",
+        "AK11071",
+        "AK11069",
+        "AK11003",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-7e0dc132",
+      "title": "Cristal lavande · lumière chaude",
+      "group": "Magie violette",
+      "source": "ultime",
+      "steps": [
+        "AK11072",
+        "AK11070",
+        "AK11069",
+        "AK11059",
+        "AK11003",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-62b42225",
+      "title": "Braize et braises · classique",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11097",
+        "AK11095",
+        "AK11093",
+        "AK11090",
+        "AK11087"
+      ]
+    },
+    {
+      "id": "ultime-12f4243e",
+      "title": "Braize et braises · lumière froide",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11097",
+        "AK11095",
+        "AK11093",
+        "AK11087",
+        "AK11082"
+      ]
+    },
+    {
+      "id": "ultime-1aeb56bb",
+      "title": "Braize et braises · lumière chaude",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11097",
+        "AK11093",
+        "AK11090",
+        "AK11087",
+        "AK11082"
+      ]
+    },
+    {
+      "id": "ultime-9558e1e2",
+      "title": "Tissu carmin · classique",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11096",
+        "AK11094",
+        "AK11091",
+        "AK11089",
+        "AK11085"
+      ]
+    },
+    {
+      "id": "ultime-8b464a9f",
+      "title": "Tissu carmin · lumière froide",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11096",
+        "AK11094",
+        "AK11091",
+        "AK11085",
+        "AK11087"
+      ]
+    },
+    {
+      "id": "ultime-95664b2e",
+      "title": "Tissu carmin · lumière chaude",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11096",
+        "AK11091",
+        "AK11089",
+        "AK11085",
+        "AK11087"
+      ]
+    },
+    {
+      "id": "ultime-76545517",
+      "title": "Orange incandescent · classique",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11079",
+        "AK11080",
+        "AK11078",
+        "AK11077",
+        "AK11082",
+        "AK11081"
+      ]
+    },
+    {
+      "id": "ultime-53aa7500",
+      "title": "Orange incandescent · lumière froide",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11079",
+        "AK11080",
+        "AK11078",
+        "AK11077",
+        "AK11081",
+        "AK11049"
+      ]
+    },
+    {
+      "id": "ultime-92b737ad",
+      "title": "Orange incandescent · lumière chaude",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11079",
+        "AK11080",
+        "AK11077",
+        "AK11082",
+        "AK11081",
+        "AK11049"
+      ]
+    },
+    {
+      "id": "ultime-44e3f4fe",
+      "title": "Rouge cuir usé · classique",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11095",
+        "AK11097",
+        "AK11093",
+        "AK11086",
+        "AK11084"
+      ]
+    },
+    {
+      "id": "ultime-ba2b91cb",
+      "title": "Rouge cuir usé · lumière froide",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11095",
+        "AK11097",
+        "AK11093",
+        "AK11084",
+        "AK11083"
+      ]
+    },
+    {
+      "id": "ultime-5cb4fcd2",
+      "title": "Rouge cuir usé · lumière chaude",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11095",
+        "AK11093",
+        "AK11086",
+        "AK11084",
+        "AK11083"
+      ]
+    },
+    {
+      "id": "ultime-086333eb",
+      "title": "Laque rubis · classique",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11096",
+        "AK11094",
+        "AK11091",
+        "AK11084",
+        "AK11088",
+        "AK11087"
+      ]
+    },
+    {
+      "id": "ultime-4c4c43b4",
+      "title": "Laque rubis · lumière froide",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11096",
+        "AK11094",
+        "AK11091",
+        "AK11084",
+        "AK11087",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-04a6c9b9",
+      "title": "Laque rubis · lumière chaude",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11096",
+        "AK11094",
+        "AK11084",
+        "AK11088",
+        "AK11087",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-f529de1a",
+      "title": "Bois ancien · classique",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11109",
+        "AK11111",
+        "AK11112",
+        "AK11106",
+        "AK11104",
+        "AK11100"
+      ]
+    },
+    {
+      "id": "ultime-6365f2e7",
+      "title": "Bois ancien · lumière froide",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11109",
+        "AK11111",
+        "AK11112",
+        "AK11106",
+        "AK11100",
+        "AK11119"
+      ]
+    },
+    {
+      "id": "ultime-b1efd486",
+      "title": "Bois ancien · lumière chaude",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11109",
+        "AK11111",
+        "AK11106",
+        "AK11104",
+        "AK11100",
+        "AK11119"
+      ]
+    },
+    {
+      "id": "ultime-78167060",
+      "title": "Cuir sellier · classique",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11113",
+        "AK11109",
+        "AK11110",
+        "AK11104",
+        "AK11117",
+        "AK11119"
+      ]
+    },
+    {
+      "id": "ultime-44fb9da5",
+      "title": "Cuir sellier · lumière froide",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11113",
+        "AK11109",
+        "AK11110",
+        "AK11104",
+        "AK11119",
+        "AK11114"
+      ]
+    },
+    {
+      "id": "ultime-cb3a617c",
+      "title": "Cuir sellier · lumière chaude",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11113",
+        "AK11109",
+        "AK11104",
+        "AK11117",
+        "AK11119",
+        "AK11114"
+      ]
+    },
+    {
+      "id": "ultime-a8d77292",
+      "title": "Terre argileuse · classique",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11108",
+        "AK11107",
+        "AK11103",
+        "AK11105",
+        "AK11101",
+        "AK11115"
+      ]
+    },
+    {
+      "id": "ultime-0198da0f",
+      "title": "Terre argileuse · lumière froide",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11108",
+        "AK11107",
+        "AK11103",
+        "AK11105",
+        "AK11115",
+        "AK11116"
+      ]
+    },
+    {
+      "id": "ultime-64cfb45e",
+      "title": "Terre argileuse · lumière chaude",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11108",
+        "AK11107",
+        "AK11105",
+        "AK11101",
+        "AK11115",
+        "AK11116"
+      ]
+    },
+    {
+      "id": "ultime-e96172ad",
+      "title": "Lichen et terre · classique",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11120",
+        "AK11123",
+        "AK11125",
+        "AK11126",
+        "AK11127",
+        "AK11122"
+      ]
+    },
+    {
+      "id": "ultime-335f5996",
+      "title": "Lichen et terre · lumière froide",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11120",
+        "AK11123",
+        "AK11125",
+        "AK11126",
+        "AK11122",
+        "AK11124"
+      ]
+    },
+    {
+      "id": "ultime-cec18403",
+      "title": "Lichen et terre · lumière chaude",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11120",
+        "AK11123",
+        "AK11126",
+        "AK11127",
+        "AK11122",
+        "AK11124"
+      ]
+    },
+    {
+      "id": "ultime-617e77f9",
+      "title": "Poussière et parchemin · classique",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11120",
+        "AK11121",
+        "AK11118",
+        "AK11116",
+        "AK11114",
+        "AK11119"
+      ]
+    },
+    {
+      "id": "ultime-a7895e82",
+      "title": "Poussière et parchemin · lumière froide",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11120",
+        "AK11121",
+        "AK11118",
+        "AK11116",
+        "AK11119",
+        "AK11032"
+      ]
+    },
+    {
+      "id": "ultime-a7c22427",
+      "title": "Poussière et parchemin · lumière chaude",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11120",
+        "AK11121",
+        "AK11116",
+        "AK11114",
+        "AK11119",
+        "AK11032"
+      ]
+    },
+    {
+      "id": "ultime-583374fd",
+      "title": "Mousse de sous-bois · classique",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11152",
+        "AK11151",
+        "AK11147",
+        "AK11140"
+      ]
+    },
+    {
+      "id": "ultime-f7e54ba6",
+      "title": "Mousse de sous-bois · lumière froide",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11152",
+        "AK11151",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-b9b93613",
+      "title": "Mousse de sous-bois · lumière chaude",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11151",
+        "AK11147",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-b9cbf766",
+      "title": "Feuillage printemps · classique",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11146",
+        "AK11145",
+        "AK11142",
+        "AK11140",
+        "AK11137",
+        "AK11141"
+      ]
+    },
+    {
+      "id": "ultime-5fb7aca3",
+      "title": "Feuillage printemps · lumière froide",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11146",
+        "AK11145",
+        "AK11142",
+        "AK11140",
+        "AK11141",
+        "AK11128"
+      ]
+    },
+    {
+      "id": "ultime-79c15f9a",
+      "title": "Feuillage printemps · lumière chaude",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11146",
+        "AK11145",
+        "AK11140",
+        "AK11137",
+        "AK11141",
+        "AK11128"
+      ]
+    },
+    {
+      "id": "ultime-9dc1bd7a",
+      "title": "Peau de lézard · classique",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11157",
+        "AK11149",
+        "AK11145",
+        "AK11144",
+        "AK11143"
+      ]
+    },
+    {
+      "id": "ultime-17327447",
+      "title": "Peau de lézard · lumière froide",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11157",
+        "AK11149",
+        "AK11145",
+        "AK11143",
+        "AK11130"
+      ]
+    },
+    {
+      "id": "ultime-0d0418e6",
+      "title": "Peau de lézard · lumière chaude",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11157",
+        "AK11145",
+        "AK11144",
+        "AK11143",
+        "AK11130"
+      ]
+    },
+    {
+      "id": "ultime-4040412b",
+      "title": "Olive militaire · classique",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11153",
+        "AK11159",
+        "AK11157",
+        "AK11154",
+        "AK11156",
+        "AK11155"
+      ]
+    },
+    {
+      "id": "ultime-f946ad74",
+      "title": "Olive militaire · lumière froide",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11153",
+        "AK11159",
+        "AK11157",
+        "AK11154",
+        "AK11155",
+        "AK11135"
+      ]
+    },
+    {
+      "id": "ultime-ee93e579",
+      "title": "Olive militaire · lumière chaude",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11153",
+        "AK11159",
+        "AK11154",
+        "AK11156",
+        "AK11155",
+        "AK11135"
+      ]
+    },
+    {
+      "id": "ultime-c3b7d8ed",
+      "title": "Marais verdâtre · classique",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11152",
+        "AK11151",
+        "AK11150",
+        "AK11138",
+        "AK11134"
+      ]
+    },
+    {
+      "id": "ultime-7d9cf956",
+      "title": "Marais verdâtre · lumière froide",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11152",
+        "AK11151",
+        "AK11150",
+        "AK11134",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-a6fa31c3",
+      "title": "Marais verdâtre · lumière chaude",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11152",
+        "AK11150",
+        "AK11138",
+        "AK11134",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-a87a9e78",
+      "title": "Eau océanique · classique",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11190",
+        "AK11189",
+        "AK11181",
+        "AK11173",
+        "AK11170",
+        "AK11171"
+      ]
+    },
+    {
+      "id": "ultime-af364e0d",
+      "title": "Eau océanique · lumière froide",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11190",
+        "AK11189",
+        "AK11181",
+        "AK11173",
+        "AK11171",
+        "AK11174"
+      ]
+    },
+    {
+      "id": "ultime-cf610f74",
+      "title": "Eau océanique · lumière chaude",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11190",
+        "AK11189",
+        "AK11173",
+        "AK11170",
+        "AK11171",
+        "AK11174"
+      ]
+    },
+    {
+      "id": "ultime-ca9cbeca",
+      "title": "Glace bleue · classique",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11187",
+        "AK11180",
+        "AK11179",
+        "AK11175",
+        "AK11168",
+        "AK11174"
+      ]
+    },
+    {
+      "id": "ultime-2362d697",
+      "title": "Glace bleue · lumière froide",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11187",
+        "AK11180",
+        "AK11179",
+        "AK11175",
+        "AK11174",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-1564a236",
+      "title": "Glace bleue · lumière chaude",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11187",
+        "AK11180",
+        "AK11175",
+        "AK11168",
+        "AK11174",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-8d5615d4",
+      "title": "Turquoise minéral · classique",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11172",
+        "AK11170",
+        "AK11169",
+        "AK11171",
+        "AK11162",
+        "AK11161"
+      ]
+    },
+    {
+      "id": "ultime-6cd828d9",
+      "title": "Turquoise minéral · lumière froide",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11172",
+        "AK11170",
+        "AK11169",
+        "AK11171",
+        "AK11161",
+        "AK11005"
+      ]
+    },
+    {
+      "id": "ultime-034ac4d8",
+      "title": "Turquoise minéral · lumière chaude",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11172",
+        "AK11170",
+        "AK11171",
+        "AK11162",
+        "AK11161",
+        "AK11005"
+      ]
+    },
+    {
+      "id": "ultime-fa55ba01",
+      "title": "Tissu bleu roi · classique",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11182",
+        "AK11180",
+        "AK11184",
+        "AK11185",
+        "AK11177"
+      ]
+    },
+    {
+      "id": "ultime-6aaae51a",
+      "title": "Tissu bleu roi · lumière froide",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11182",
+        "AK11180",
+        "AK11184",
+        "AK11177",
+        "AK11168"
+      ]
+    },
+    {
+      "id": "ultime-0924a7cf",
+      "title": "Tissu bleu roi · lumière chaude",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11182",
+        "AK11184",
+        "AK11185",
+        "AK11177",
+        "AK11168"
+      ]
+    },
+    {
+      "id": "ultime-c41b04eb",
+      "title": "Ciel orageux · classique",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11167",
+        "AK11164",
+        "AK11165",
+        "AK11166",
+        "AK11163",
+        "AK11168"
+      ]
+    },
+    {
+      "id": "ultime-9b4776b4",
+      "title": "Ciel orageux · lumière froide",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11167",
+        "AK11164",
+        "AK11165",
+        "AK11166",
+        "AK11168",
+        "AK11161"
+      ]
+    },
+    {
+      "id": "ultime-53a1fcb9",
+      "title": "Ciel orageux · lumière chaude",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11167",
+        "AK11164",
+        "AK11166",
+        "AK11163",
+        "AK11168",
+        "AK11161"
+      ]
+    },
+    {
+      "id": "ultime-ea80f801",
+      "title": "Acier sombre · classique",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11212",
+        "AK11211",
+        "AK11210",
+        "AK11208",
+        "AK11207",
+        "AK11209"
+      ]
+    },
+    {
+      "id": "ultime-cbcd1f1a",
+      "title": "Acier sombre · lumière froide",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11212",
+        "AK11211",
+        "AK11210",
+        "AK11208",
+        "AK11209",
+        "AK11206"
+      ]
+    },
+    {
+      "id": "ultime-6a46e1cf",
+      "title": "Acier sombre · lumière chaude",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11212",
+        "AK11211",
+        "AK11208",
+        "AK11207",
+        "AK11209",
+        "AK11206"
+      ]
+    },
+    {
+      "id": "ultime-da8fc87e",
+      "title": "Or vieilli · classique",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11198",
+        "AK11193",
+        "AK11195",
+        "AK11192",
+        "AK11194",
+        "AK11191"
+      ]
+    },
+    {
+      "id": "ultime-e3f4b54b",
+      "title": "Or vieilli · lumière froide",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11198",
+        "AK11193",
+        "AK11195",
+        "AK11192",
+        "AK11191",
+        "AK11209"
+      ]
+    },
+    {
+      "id": "ultime-867e2052",
+      "title": "Or vieilli · lumière chaude",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11198",
+        "AK11193",
+        "AK11192",
+        "AK11194",
+        "AK11191",
+        "AK11209"
+      ]
+    },
+    {
+      "id": "ultime-67b09a32",
+      "title": "Cuivre oxydé · classique",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11198",
+        "AK11196",
+        "AK11197",
+        "AK11194",
+        "AK11204",
+        "AK11205"
+      ]
+    },
+    {
+      "id": "ultime-b9b6d52f",
+      "title": "Cuivre oxydé · lumière froide",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11198",
+        "AK11196",
+        "AK11197",
+        "AK11194",
+        "AK11205",
+        "AK11206"
+      ]
+    },
+    {
+      "id": "ultime-1f66857e",
+      "title": "Cuivre oxydé · lumière chaude",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11198",
+        "AK11196",
+        "AK11194",
+        "AK11204",
+        "AK11205",
+        "AK11206"
+      ]
+    },
+    {
+      "id": "ultime-22decf11",
+      "title": "Métal magique · classique",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11212",
+        "AK11201",
+        "AK11199",
+        "AK11202",
+        "AK11200",
+        "AK11203"
+      ]
+    },
+    {
+      "id": "ultime-93bc4baa",
+      "title": "Métal magique · lumière froide",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11212",
+        "AK11201",
+        "AK11199",
+        "AK11202",
+        "AK11203",
+        "AK11209"
+      ]
+    },
+    {
+      "id": "ultime-7fd3439f",
+      "title": "Métal magique · lumière chaude",
+      "group": "Métaux TMP",
+      "source": "ultime",
+      "steps": [
+        "AK11212",
+        "AK11201",
+        "AK11202",
+        "AK11200",
+        "AK11203",
+        "AK11209"
+      ]
+    },
+    {
+      "id": "ultime-ea14603d",
+      "title": "Verre rouge · classique",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11213",
+        "AK11227",
+        "AK11089",
+        "AK11087",
+        "AK11090"
+      ]
+    },
+    {
+      "id": "ultime-818a5f66",
+      "title": "Verre rouge · lumière froide",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11213",
+        "AK11227",
+        "AK11089",
+        "AK11090",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-da2e19d3",
+      "title": "Verre rouge · lumière chaude",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11213",
+        "AK11089",
+        "AK11087",
+        "AK11090",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-5531aacc",
+      "title": "Verre vert · classique",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11216",
+        "AK11226",
+        "AK11142",
+        "AK11143",
+        "AK11129"
+      ]
+    },
+    {
+      "id": "ultime-d533bfa1",
+      "title": "Verre vert · lumière froide",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11216",
+        "AK11226",
+        "AK11142",
+        "AK11129",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-76444af0",
+      "title": "Verre vert · lumière chaude",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11216",
+        "AK11142",
+        "AK11143",
+        "AK11129",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-bfbe4a01",
+      "title": "Cristal bleu · classique",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11214",
+        "AK11228",
+        "AK11182",
+        "AK11175",
+        "AK11174"
+      ]
+    },
+    {
+      "id": "ultime-b940951a",
+      "title": "Cristal bleu · lumière froide",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11214",
+        "AK11228",
+        "AK11182",
+        "AK11174",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-57ba57cf",
+      "title": "Cristal bleu · lumière chaude",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11214",
+        "AK11182",
+        "AK11175",
+        "AK11174",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-22d42d8b",
+      "title": "Effet plasma · classique",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11228",
+        "AK11220",
+        "AK11225",
+        "AK11129",
+        "AK11049",
+        "AK11230"
+      ]
+    },
+    {
+      "id": "ultime-577a7f54",
+      "title": "Effet plasma · lumière froide",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11228",
+        "AK11220",
+        "AK11225",
+        "AK11129",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-f689e359",
+      "title": "Effet plasma · lumière chaude",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11228",
+        "AK11220",
+        "AK11129",
+        "AK11049",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-a37589ca",
+      "title": "Vieillissement sépia · classique",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11223",
+        "AK11229",
+        "AK11219",
+        "AK11111",
+        "AK11114",
+        "AK11032"
+      ]
+    },
+    {
+      "id": "ultime-ddd27797",
+      "title": "Vieillissement sépia · lumière froide",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11223",
+        "AK11229",
+        "AK11219",
+        "AK11111",
+        "AK11032",
+        "AK11004"
+      ]
+    },
+    {
+      "id": "ultime-cfd44336",
+      "title": "Vieillissement sépia · lumière chaude",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11223",
+        "AK11229",
+        "AK11111",
+        "AK11114",
+        "AK11032",
+        "AK11004"
+      ]
+    },
+    {
+      "id": "ultime-1337885c",
+      "title": "Focus pigment · AK11092 Matt Red",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11094",
+        "AK11092",
+        "AK11089",
+        "AK11082",
+        "AK11038"
+      ]
+    },
+    {
+      "id": "ultime-ba61558f",
+      "title": "Focus pigment · AK11099 Ocher Orange",
+      "group": "Feu et rouges",
+      "source": "ultime",
+      "steps": [
+        "AK11098",
+        "AK11094",
+        "AK11099",
+        "AK11089",
+        "AK11082",
+        "AK11038"
+      ]
+    },
+    {
+      "id": "ultime-ad9618d6",
+      "title": "Focus pigment · AK11102 Deep Brown",
+      "group": "Bois, terres et cuirs",
+      "source": "ultime",
+      "steps": [
+        "AK11109",
+        "AK11111",
+        "AK11102",
+        "AK11117",
+        "AK11119",
+        "AK11114"
+      ]
+    },
+    {
+      "id": "ultime-22f35abe",
+      "title": "Focus pigment · AK11132 Green Grey",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11132",
+        "AK11145",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-e70e6cd5",
+      "title": "Focus pigment · AK11133 Dark Green Grey",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11133",
+        "AK11145",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-c15b58fd",
+      "title": "Focus pigment · AK11136 Frog Green",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11136",
+        "AK11145",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-1fd0cf91",
+      "title": "Focus pigment · AK11139 Golden Olive",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11139",
+        "AK11145",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-5b88670c",
+      "title": "Focus pigment · AK11148 Medium Olive Green",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11148",
+        "AK11145",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-1b482b46",
+      "title": "Focus pigment · AK11158 Reflective Green",
+      "group": "Forêts et mousses",
+      "source": "ultime",
+      "steps": [
+        "AK11160",
+        "AK11153",
+        "AK11158",
+        "AK11145",
+        "AK11140",
+        "AK11131"
+      ]
+    },
+    {
+      "id": "ultime-5af2e16a",
+      "title": "Focus pigment · AK11176 Deep Sky Blue",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11181",
+        "AK11176",
+        "AK11175",
+        "AK11174",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-35b0769d",
+      "title": "Focus pigment · AK11178 Fluorescent Blue",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11181",
+        "AK11178",
+        "AK11175",
+        "AK11174",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-cab973f2",
+      "title": "Focus pigment · AK11183 Amethyst Blue",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11181",
+        "AK11183",
+        "AK11175",
+        "AK11174",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-d3f8c2fb",
+      "title": "Focus pigment · AK11186 Light Prussian Blue",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11181",
+        "AK11186",
+        "AK11175",
+        "AK11174",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-d67ecc5c",
+      "title": "Focus pigment · AK11188 Oxford",
+      "group": "Glaces et eaux",
+      "source": "ultime",
+      "steps": [
+        "AK11189",
+        "AK11181",
+        "AK11188",
+        "AK11175",
+        "AK11174",
+        "AK11003"
+      ]
+    },
+    {
+      "id": "ultime-c228787a",
+      "title": "Focus pigment · AK11217 Clear Yellow",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11219",
+        "AK11217",
+        "AK11214",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-845565d3",
+      "title": "Focus pigment · AK11218 Clear Orange",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11219",
+        "AK11218",
+        "AK11214",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-aac806ef",
+      "title": "Focus pigment · AK11221 Skin Ink",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11219",
+        "AK11221",
+        "AK11214",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-dcb1779c",
+      "title": "Focus pigment · AK11222 Sooty Black Ink",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11219",
+        "AK11222",
+        "AK11214",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-8aa9214d",
+      "title": "Focus pigment · AK11224 Purple Ink",
+      "group": "Vitraux, encres et effets",
+      "source": "ultime",
+      "steps": [
+        "AK11215",
+        "AK11219",
+        "AK11224",
+        "AK11214",
+        "AK11230",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-a67bf37f",
+      "title": "Technique · Retarder",
+      "group": "Auxiliaires AK",
+      "source": "ultime",
+      "steps": [
+        "AK11029",
+        "AK11025",
+        "AK11018",
+        "AK11012",
+        "AK11003",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-944719a6",
+      "title": "Technique · Metal Medium",
+      "group": "Auxiliaires AK",
+      "source": "ultime",
+      "steps": [
+        "AK11029",
+        "AK11025",
+        "AK11018",
+        "AK11012",
+        "AK11003",
+        "AK11001"
+      ]
+    },
+    {
+      "id": "ultime-2939a2fe",
+      "title": "Technique · Glaze Medium",
+      "group": "Auxiliaires AK",
+      "source": "ultime",
+      "steps": [
+        "AK11029",
+        "AK11025",
+        "AK11018",
+        "AK11012",
+        "AK11003",
+        "AK11001"
+      ]
+    }
+  ]
+}
