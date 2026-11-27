@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "description": "Destinations historiques des liens directs, sans validation artistique.",
+  "records": [
+    {
+      "id": "recette-directe-v4-68",
+      "title": "Carnation hâlée dorée — naturel",
+      "incoming": 20,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-11",
+      "title": "<span class=\"v2-pill\">Bois</span> Bois frais",
+      "incoming": 10,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-1",
+      "title": "<span class=\"v2-pill\">Tissus</span> Lin brut",
+      "incoming": 21,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-35",
+      "title": "<span class=\"v2-pill\">Effets</span> Gemmes rondes",
+      "incoming": 21,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-14",
+      "title": "<span class=\"v2-pill\">Pierres</span> Granit",
+      "incoming": 13,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-40",
+      "title": "Épée droite — acier NMM",
+      "incoming": 16,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-31",
+      "title": "<span class=\"v2-pill\">Décors</span> Eau calme",
+      "incoming": 11,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-24",
+      "title": "<span class=\"v2-pill\">Organique</span> Fourrure courte",
+      "incoming": 8,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-70",
+      "title": "Carnation foncée — sous-ton chaud",
+      "incoming": 4,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-33",
+      "title": "<span class=\"v2-pill\">Décors</span> Marécage",
+      "incoming": 6,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-30",
+      "title": "<span class=\"v2-pill\">Décors</span> Glace translucide",
+      "incoming": 1,
+      "status": "a_verifier"
+    },
+    {
+      "id": "recette-directe-v4-84",
+      "title": "Voile ivoire uni sur peau hâlée",
+      "incoming": 4,
+      "status": "a_verifier"
+    }
+  ]
+}

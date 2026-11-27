@@ -1,0 +1,1712 @@
+[
+  {
+    "code": "AK11001",
+    "name": "White",
+    "ak": "#ffffff",
+    "photo": "#aeaeb8",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11002",
+    "name": "Offwhite",
+    "ak": "#ecebe1",
+    "photo": "#a5a8af",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11003",
+    "name": "White Grey",
+    "ak": "#f5f4ee",
+    "photo": "#979aa6",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11004",
+    "name": "Ivory",
+    "ak": "#f2edc5",
+    "photo": "#b1b3a8",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11005",
+    "name": "Greenish White",
+    "ak": "#e4edcc",
+    "photo": "#adbeb1",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11006",
+    "name": "Silver Grey",
+    "ak": "#e3d7b7",
+    "photo": "#8d8e90",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11007",
+    "name": "Rock Grey",
+    "ak": "#c0b794",
+    "photo": "#6f6f6d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11008",
+    "name": "Grimy Grey",
+    "ak": "#dfc999",
+    "photo": "#89897b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11009",
+    "name": "Warm Grey",
+    "ak": "#b4a889",
+    "photo": "#6c6c68",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11010",
+    "name": "Medium Grey",
+    "ak": "#b6b9a1",
+    "photo": null,
+    "available": false,
+    "fluorescent": false,
+    "status": "catalogue"
+  },
+  {
+    "code": "AK11011",
+    "name": "Blue-Grey",
+    "ak": "#c6cfcd",
+    "photo": "#6a7883",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11012",
+    "name": "Sky Grey",
+    "ak": "#b9b9b5",
+    "photo": "#6c707c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11013",
+    "name": "Pale Grey",
+    "ak": "#aeafb4",
+    "photo": "#686c78",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11014",
+    "name": "Medium Sea Grey",
+    "ak": "#9f9a81",
+    "photo": "#565a59",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11015",
+    "name": "Dark Sea Grey",
+    "ak": "#7b7873",
+    "photo": "#3d3c41",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11016",
+    "name": "Grey-Green",
+    "ak": "#7f7f64",
+    "photo": "#4a4d46",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11017",
+    "name": "Reddish Grey",
+    "ak": "#796a52",
+    "photo": "#3a3637",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11018",
+    "name": "Neutral Grey",
+    "ak": "#676e69",
+    "photo": "#383e4b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11019",
+    "name": "Graphite",
+    "ak": "#6d6e60",
+    "photo": "#3e424b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11020",
+    "name": "English Grey",
+    "ak": "#6d6d65",
+    "photo": "#3c424f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11021",
+    "name": "Basalt Grey",
+    "ak": "#5c615c",
+    "photo": "#2d313c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11022",
+    "name": "Dark Grey",
+    "ak": "#494945",
+    "photo": "#232733",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11023",
+    "name": "Lead Grey",
+    "ak": "#454741",
+    "photo": "#1a212b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11024",
+    "name": "Ash Grey",
+    "ak": "#424138",
+    "photo": "#282b32",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11025",
+    "name": "German Grey",
+    "ak": "#38372f",
+    "photo": "#181b22",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11026",
+    "name": "Tenebrous Grey",
+    "ak": "#302c20",
+    "photo": "#121116",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11027",
+    "name": "Rubber Black",
+    "ak": "#29251a",
+    "photo": "#16171a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11028",
+    "name": "Smoke Black",
+    "ak": "#2b2b20",
+    "photo": "#16171b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11029",
+    "name": "Black",
+    "ak": "#10100a",
+    "photo": "#0e0f12",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11030",
+    "name": "Beige",
+    "ak": "#e2b948",
+    "photo": "#968a5a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11031",
+    "name": "Buff",
+    "ak": "#d1ac5c",
+    "photo": "#90895d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11032",
+    "name": "Pale Sand",
+    "ak": "#f0d681",
+    "photo": "#bfba99",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11033",
+    "name": "Dark Sand",
+    "ak": "#e6bc56",
+    "photo": "#a0965f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11034",
+    "name": "Medium Sand",
+    "ak": "#ca9933",
+    "photo": "#7b6838",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11035",
+    "name": "Sand Yellow",
+    "ak": "#e8bc37",
+    "photo": "#b4a658",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11036",
+    "name": "Ice Yellow",
+    "ak": "#ffef8e",
+    "photo": "#d2ce9d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11037",
+    "name": "Pastel Yellow",
+    "ak": "#fedb75",
+    "photo": "#cdc890",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11038",
+    "name": "Pale Yellow",
+    "ak": "#fedd57",
+    "photo": "#cdc67b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11039",
+    "name": "Purulent Yellow",
+    "ak": "#ecd13a",
+    "photo": "#a5a252",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11040",
+    "name": "Sahara Yellow",
+    "ak": "#b1930e",
+    "photo": "#7b651b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11041",
+    "name": "Golden Yellow",
+    "ak": "#f8b14c",
+    "photo": "#c9a75a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11042",
+    "name": "Volcanic Yellow",
+    "ak": "#ef9114",
+    "photo": "#b78319",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11043",
+    "name": "Dirty Yellow",
+    "ak": "#eda81b",
+    "photo": "#b18a1b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11044",
+    "name": "Yellow",
+    "ak": "#fab611",
+    "photo": "#b9a119",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11045",
+    "name": "Deep Yellow",
+    "ak": "#fdc500",
+    "photo": "#c5aa1b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11046",
+    "name": "Radiant Yellow",
+    "ak": "#ffd306",
+    "photo": "#c2b218",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11047",
+    "name": "Lemon Yellow",
+    "ak": "#ffe11b",
+    "photo": "#d1cf25",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11048",
+    "name": "Laser Yellow",
+    "ak": "#efe538",
+    "photo": "#b6c32d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11049",
+    "name": "Fluorescent Yellow",
+    "ak": "#eee422",
+    "photo": "#d1e01f",
+    "available": true,
+    "fluorescent": true,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11050",
+    "name": "Light Flesh",
+    "ak": "#fdddb3",
+    "photo": "#d6cdcb",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11051",
+    "name": "Luminous Flesh",
+    "ak": "#eec17f",
+    "photo": "#c9b696",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11052",
+    "name": "Basic Skin Tone",
+    "ak": "#f8b57b",
+    "photo": "#d0af90",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11053",
+    "name": "Radiant Flesh",
+    "ak": "#f8b058",
+    "photo": "#bb9d68",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11054",
+    "name": "Medium Flesh Tone",
+    "ak": "#c8812f",
+    "photo": "#8c6d37",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11055",
+    "name": "Sunny Skin Tone",
+    "ak": "#f6a653",
+    "photo": "#cda066",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11056",
+    "name": "Dark Flesh",
+    "ak": "#eca538",
+    "photo": "#a28340",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11057",
+    "name": "Vampiric Flesh",
+    "ak": "#cebb81",
+    "photo": "#979376",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11058",
+    "name": "Decomposed Flesh",
+    "ak": "#b9a260",
+    "photo": "#827b61",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11059",
+    "name": "Pastel Pink",
+    "ak": "#f8c2a9",
+    "photo": "#c3afba",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11060",
+    "name": "Sickly Pink",
+    "ak": "#f6b092",
+    "photo": "#ba9297",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11061",
+    "name": "Salmon",
+    "ak": "#f4a075",
+    "photo": "#ca978e",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11062",
+    "name": "Old Rose",
+    "ak": "#f2947c",
+    "photo": "#9f6a77",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11063",
+    "name": "Brown Rose",
+    "ak": "#d88362",
+    "photo": "#8a625b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11064",
+    "name": "Beige Red",
+    "ak": "#de935a",
+    "photo": "#946e57",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11065",
+    "name": "Intense Pink",
+    "ak": "#eb748f",
+    "photo": "#995397",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11066",
+    "name": "Laser Magenta",
+    "ak": "#6a102f",
+    "photo": "#4b133a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11067",
+    "name": "Magenta",
+    "ak": "#b1325d",
+    "photo": "#611c4b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11068",
+    "name": "Fluorescent Magenta",
+    "ak": "#e94e69",
+    "photo": "#c1295c",
+    "available": true,
+    "fluorescent": true,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11069",
+    "name": "Pastel Violet",
+    "ak": "#fbe7f1",
+    "photo": "#bbb0d2",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11070",
+    "name": "Blue Violet",
+    "ak": "#886ca4",
+    "photo": "#534894",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11071",
+    "name": "Lilac",
+    "ak": "#656073",
+    "photo": "#535f99",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11072",
+    "name": "Deep Violet",
+    "ak": "#71536c",
+    "photo": "#50357a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11073",
+    "name": "Purple",
+    "ak": "#594550",
+    "photo": "#442f58",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11074",
+    "name": "Deep Purple",
+    "ak": "#794969",
+    "photo": "#502763",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11075",
+    "name": "Violet Red",
+    "ak": "#573436",
+    "photo": "#3b233d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11076",
+    "name": "Pastel Peach",
+    "ak": "#f49a53",
+    "photo": "#d59e68",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11077",
+    "name": "Light Orange",
+    "ak": "#ef7a3b",
+    "photo": "#db8942",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11078",
+    "name": "Medium Orange",
+    "ak": "#ec6733",
+    "photo": "#c2501e",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11079",
+    "name": "Burn Orange",
+    "ak": "#db5e2f",
+    "photo": "#a24438",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11080",
+    "name": "Deep Orange",
+    "ak": "#eb6025",
+    "photo": "#c65626",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11081",
+    "name": "Fluorescent Orange",
+    "ak": "#e9551f",
+    "photo": "#f2411f",
+    "available": true,
+    "fluorescent": true,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11082",
+    "name": "Luminous Orange",
+    "ak": "#f08506",
+    "photo": "#f25a1c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11083",
+    "name": "Dead Red",
+    "ak": "#e94a4c",
+    "photo": "#bd4d59",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11084",
+    "name": "Ruby",
+    "ak": "#cf4847",
+    "photo": "#89384b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11085",
+    "name": "Cadmium Red",
+    "ak": "#e9582c",
+    "photo": "#aa4d27",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11086",
+    "name": "Amaranth Red",
+    "ak": "#d04e26",
+    "photo": "#95402c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11087",
+    "name": "Scarlet Red",
+    "ak": "#ce3b27",
+    "photo": "#952f26",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11088",
+    "name": "Deep Red",
+    "ak": "#db2119",
+    "photo": "#8f2522",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11089",
+    "name": "Blood Red",
+    "ak": "#c6241c",
+    "photo": "#881f1b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11090",
+    "name": "Vermillion",
+    "ak": "#c54d33",
+    "photo": "#862427",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11091",
+    "name": "Carmine",
+    "ak": "#b93d24",
+    "photo": null,
+    "available": false,
+    "fluorescent": false,
+    "status": "catalogue"
+  },
+  {
+    "code": "AK11092",
+    "name": "Matt Red",
+    "ak": "#b4321a",
+    "photo": "#742a1f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11093",
+    "name": "Brick Red",
+    "ak": "#9e4428",
+    "photo": "#662626",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11094",
+    "name": "Bordeaux Red",
+    "ak": "#a13b2f",
+    "photo": "#6d343b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11095",
+    "name": "Dirty Red",
+    "ak": "#7e1910",
+    "photo": "#5b1621",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11096",
+    "name": "Wine Red",
+    "ak": "#68150f",
+    "photo": "#4a1a22",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11097",
+    "name": "Burnt Red",
+    "ak": "#533124",
+    "photo": "#492622",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11098",
+    "name": "Black Red",
+    "ak": "#41261d",
+    "photo": "#392421",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11099",
+    "name": "Ocher Orange",
+    "ak": "#f6a75e",
+    "photo": null,
+    "available": false,
+    "fluorescent": false,
+    "status": "catalogue"
+  },
+  {
+    "code": "AK11100",
+    "name": "Light Brown",
+    "ak": "#cf8039",
+    "photo": "#845d33",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11101",
+    "name": "Orange Brown",
+    "ak": "#b1571c",
+    "photo": "#815727",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11102",
+    "name": "Deep Brown",
+    "ak": "#854a28",
+    "photo": "#633a26",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11103",
+    "name": "Medium Rust",
+    "ak": "#9d4b2f",
+    "photo": "#6a3225",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11104",
+    "name": "Saddle Brown",
+    "ak": "#693b2c",
+    "photo": null,
+    "available": false,
+    "fluorescent": false,
+    "status": "catalogue"
+  },
+  {
+    "code": "AK11105",
+    "name": "Light Rust",
+    "ak": "#da5613",
+    "photo": "#a4551d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11106",
+    "name": "Mahogany Brown",
+    "ak": "#622b0e",
+    "photo": "#4e3026",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11107",
+    "name": "Dark Rust",
+    "ak": "#522510",
+    "photo": "#4a2f26",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11108",
+    "name": "Hull Red",
+    "ak": "#331b0f",
+    "photo": "#3b2822",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11109",
+    "name": "Dark Brown",
+    "ak": "#533916",
+    "photo": "#453c33",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11110",
+    "name": "Leather Brown",
+    "ak": "#45301d",
+    "photo": "#3d3433",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11111",
+    "name": "Burnt Umber",
+    "ak": "#291e10",
+    "photo": "#2f2e2a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11112",
+    "name": "Grim Brown",
+    "ak": "#1d150d",
+    "photo": "#2a2a2c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11113",
+    "name": "Chocolate (Chipping)",
+    "ak": "#301f11",
+    "photo": "#343027",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11114",
+    "name": "Deck Tan",
+    "ak": "#cdc4af",
+    "photo": "#a2a49f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11115",
+    "name": "Light Earth",
+    "ak": "#cfb57d",
+    "photo": "#9f9474",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11116",
+    "name": "Tan Yellow",
+    "ak": "#d29746",
+    "photo": "#ab915e",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11117",
+    "name": "Golden Brown",
+    "ak": "#ac7613",
+    "photo": "#877020",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11118",
+    "name": "Ochre",
+    "ak": "#c6942e",
+    "photo": "#947f30",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11119",
+    "name": "Cork",
+    "ak": "#a17547",
+    "photo": "#795d45",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11120",
+    "name": "Mud Brown",
+    "ak": "#6f5330",
+    "photo": "#4a3c2f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11121",
+    "name": "Tan Earth",
+    "ak": "#7d5b33",
+    "photo": "#5e4d3d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11122",
+    "name": "Green Ochre",
+    "ak": "#a68236",
+    "photo": "#776737",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11123",
+    "name": "Japanese Brown",
+    "ak": "#956d1a",
+    "photo": "#6f5c21",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11124",
+    "name": "Middle Stone",
+    "ak": "#8a7029",
+    "photo": "#6c6632",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11125",
+    "name": "Grey-Brown",
+    "ak": "#6f5b3a",
+    "photo": null,
+    "available": false,
+    "fluorescent": false,
+    "status": "catalogue"
+  },
+  {
+    "code": "AK11126",
+    "name": "Green-Brown",
+    "ak": "#6f5922",
+    "photo": "#665d36",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11127",
+    "name": "British Khaki",
+    "ak": "#674d1e",
+    "photo": "#544b2a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11128",
+    "name": "Luminous Green",
+    "ak": "#cbd742",
+    "photo": "#bed349",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11129",
+    "name": "Fluorescent Green",
+    "ak": "#97c221",
+    "photo": "#4bcb38",
+    "available": true,
+    "fluorescent": true,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11130",
+    "name": "Pistachio",
+    "ak": "#dbd125",
+    "photo": "#b3bc21",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11131",
+    "name": "Pastel Green",
+    "ak": "#aad198",
+    "photo": "#acdedd",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11132",
+    "name": "Green-Grey",
+    "ak": "#dee4bc",
+    "photo": "#b5bead",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11133",
+    "name": "Dark Green-Grey",
+    "ak": "#394d3c",
+    "photo": "#364548",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11134",
+    "name": "Green Sky",
+    "ak": "#88b082",
+    "photo": "#768f6f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11135",
+    "name": "Faded Green",
+    "ak": "#7c8972",
+    "photo": "#56675f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11136",
+    "name": "Frog Green",
+    "ak": "#98b91f",
+    "photo": "#6a8f19",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11137",
+    "name": "Lime Green",
+    "ak": "#829e28",
+    "photo": "#547618",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11138",
+    "name": "Interior Yellow Green",
+    "ak": "#aba215",
+    "photo": "#999a37",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11139",
+    "name": "Golden Olive",
+    "ak": "#747b26",
+    "photo": "#506721",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11140",
+    "name": "Grass Green",
+    "ak": "#61822c",
+    "photo": "#587b3b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11141",
+    "name": "Light Green",
+    "ak": "#599231",
+    "photo": "#408048",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11142",
+    "name": "Deep Green",
+    "ak": "#1d632c",
+    "photo": "#2a664c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11143",
+    "name": "Mint Green",
+    "ak": "#008c60",
+    "photo": "#2e7e75",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11144",
+    "name": "Emerald",
+    "ak": "#096142",
+    "photo": "#235c63",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11145",
+    "name": "Lizard Green",
+    "ak": "#185a31",
+    "photo": "#2b5c50",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11146",
+    "name": "Dark Green",
+    "ak": "#24461f",
+    "photo": "#204136",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11147",
+    "name": "Olive Green",
+    "ak": "#4b6024",
+    "photo": "#4a5a2b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11148",
+    "name": "Medium Olive Green",
+    "ak": "#3e5120",
+    "photo": "#415730",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11149",
+    "name": "Intermediate Green",
+    "ak": "#516e32",
+    "photo": "#385a37",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11150",
+    "name": "Gunship Green",
+    "ak": "#465234",
+    "photo": "#33443e",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11151",
+    "name": "Brownish Green",
+    "ak": "#564614",
+    "photo": "#484d22",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11152",
+    "name": "Alga Green",
+    "ak": "#555f21",
+    "photo": "#3d5825",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11153",
+    "name": "Extra Dark Green",
+    "ak": "#223028",
+    "photo": "#313737",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11154",
+    "name": "German Field Grey",
+    "ak": "#413d24",
+    "photo": "#42443f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11155",
+    "name": "Command Green",
+    "ak": "#2f2e17",
+    "photo": "#373d31",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11156",
+    "name": "Camouflage Green",
+    "ak": "#4d411c",
+    "photo": "#48493b",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11157",
+    "name": "US Dark Green",
+    "ak": "#423917",
+    "photo": "#3d4039",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11158",
+    "name": "Reflective Green",
+    "ak": "#352e16",
+    "photo": "#424733",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11159",
+    "name": "Russian Green",
+    "ak": "#282816",
+    "photo": "#394134",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11160",
+    "name": "Black Green",
+    "ak": "#162014",
+    "photo": "#2b3534",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11161",
+    "name": "Pale Blue",
+    "ak": "#b5c4b7",
+    "photo": "#9db1b9",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11162",
+    "name": "Spectrum Blue",
+    "ak": "#b3bdbd",
+    "photo": "#96abcc",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11163",
+    "name": "Intermediate Blue",
+    "ak": "#676966",
+    "photo": "#4f5a6e",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11164",
+    "name": "Dark Blue-Grey",
+    "ak": "#4a5d53",
+    "photo": "#465665",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11165",
+    "name": "Grey-Blue",
+    "ak": "#5e6772",
+    "photo": "#5a6b90",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11166",
+    "name": "French Blue",
+    "ak": "#535653",
+    "photo": "#424d62",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11167",
+    "name": "Anthracite Grey",
+    "ak": "#1c2a2c",
+    "photo": "#253243",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11168",
+    "name": "Pastel Blue",
+    "ak": "#bcdcb9",
+    "photo": "#bde1ef",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11169",
+    "name": "Blue-Green",
+    "ak": "#338477",
+    "photo": "#2c7294",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11170",
+    "name": "Aquatic Turquoise",
+    "ak": "#016456",
+    "photo": "#377197",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11171",
+    "name": "Turquoise",
+    "ak": "#00494c",
+    "photo": "#234a6d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11172",
+    "name": "Archaic Turquoise",
+    "ak": "#003739",
+    "photo": "#2b5180",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11173",
+    "name": "Ocean Blue",
+    "ak": "#1e3635",
+    "photo": "#2e4765",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11174",
+    "name": "Snow Blue",
+    "ak": "#c8e3e0",
+    "photo": "#bed8f0",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11175",
+    "name": "Sky Blue",
+    "ak": "#86c2cb",
+    "photo": "#79b1ec",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11176",
+    "name": "Deep Sky Blue",
+    "ak": "#69b5c6",
+    "photo": "#6aa4ec",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11177",
+    "name": "Ducat Blue",
+    "ak": "#3a889f",
+    "photo": "#3474ce",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11178",
+    "name": "Fluorescent Blue",
+    "ak": "#004063",
+    "photo": null,
+    "available": false,
+    "fluorescent": true,
+    "status": "catalogue"
+  },
+  {
+    "code": "AK11179",
+    "name": "Ultramarine",
+    "ak": "#233775",
+    "photo": "#142696",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11180",
+    "name": "Imperial Blue",
+    "ak": "#21274e",
+    "photo": "#0d115d",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11181",
+    "name": "Dark Blue",
+    "ak": "#1d2d4b",
+    "photo": "#0b1d6a",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11182",
+    "name": "Deep Blue",
+    "ak": "#184066",
+    "photo": "#173492",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11183",
+    "name": "Amethyst Blue",
+    "ak": "#332946",
+    "photo": "#292755",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11184",
+    "name": "Medium Blue",
+    "ak": "#173948",
+    "photo": "#1e3a77",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11185",
+    "name": "Star Blue",
+    "ak": "#00475f",
+    "photo": "#1f4083",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11186",
+    "name": "Light Prussian Blue",
+    "ak": "#102a38",
+    "photo": "#1a2d58",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11187",
+    "name": "Strong Dark Blue",
+    "ak": "#07141e",
+    "photo": "#212735",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11188",
+    "name": "Oxford",
+    "ak": "#353841",
+    "photo": "#262c4c",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11189",
+    "name": "Dark Prussian Blue",
+    "ak": "#0c0d19",
+    "photo": "#1c223f",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  },
+  {
+    "code": "AK11190",
+    "name": "Dark Sea Blue",
+    "ak": "#0c1814",
+    "photo": "#1e2631",
+    "available": true,
+    "fluorescent": false,
+    "status": "photo_brute_non_calibree"
+  }
+]

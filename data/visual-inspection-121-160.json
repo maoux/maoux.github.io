@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "method": "Inspection de la planche contact audit_contact_3.jpg",
+  "records": [
+    {
+      "assetPrefix": "0121",
+      "subject": "Ruines forestières",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0122",
+      "subject": "Forêt moussue",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0123",
+      "subject": "Forêt fantastique bleutée",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0124",
+      "subject": "Arbre ancien",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0125",
+      "subject": "Forêt automnale",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0126",
+      "subject": "Forêt nocturne bleue",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0127",
+      "subject": "Racines en marécage",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0128",
+      "subject": "Planche végétation",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0129",
+      "subject": "Fougère verte",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0130",
+      "subject": "Herbes dorées",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0131",
+      "subject": "Lierre sur roche",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0132",
+      "subject": "Drapé ou tenue à recadrer",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0133",
+      "subject": "Drapé ou tenue à recadrer",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0134",
+      "subject": "Drapé ou tenue à recadrer",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0135",
+      "subject": "Drapé ou tenue à recadrer",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0136",
+      "subject": "Drapé ou tenue à recadrer",
+      "cropStatus": "a_recadrer",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0137",
+      "subject": "Maquillage violet et or",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0138",
+      "subject": "Voile lilas sur peau foncée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0139",
+      "subject": "Planche drapés transparents",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0140",
+      "subject": "Voile blanc transparent",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0141",
+      "subject": "Portrait blond peau claire",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0142",
+      "subject": "Portrait brun peau hâlée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0143",
+      "subject": "Portrait brun froid",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0144",
+      "subject": "Portrait auburn peau hâlée",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0145",
+      "subject": "Portrait peau foncée maquillage violet",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0146",
+      "subject": "Cheveux blond doré",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0147",
+      "subject": "Cheveux noir bleuté",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0148",
+      "subject": "Cheveux roux cuivré",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0149",
+      "subject": "Tresse brune",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0150",
+      "subject": "Cheveux bleu violet",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0151",
+      "subject": "Carré blond clair",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0152",
+      "subject": "Cheveux noirs longs",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0153",
+      "subject": "Cheveux châtain",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0154",
+      "subject": "Boucles blond doré",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0155",
+      "subject": "Boucles brun noir",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0156",
+      "subject": "Cheveux roux",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0157",
+      "subject": "Tresse châtain",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0158",
+      "subject": "Tresses blondes",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0159",
+      "subject": "Queue de cheval brune",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0160",
+      "subject": "Chignon gris argent",
+      "cropStatus": "pas_de_defaut_majeur_sur_planche",
+      "recipeStatus": "a_verifier"
+    }
+  ]
+}

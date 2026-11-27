@@ -1,0 +1,406 @@
+{
+  "schema": 1,
+  "method": "Examen visuel de la deuxième planche contact; aucune recette validée.",
+  "records": [
+    {
+      "assetPrefix": "0041",
+      "subject": "Temple antique au coucher du soleil",
+      "assets": [
+        "assets/images/0041_5d6e8a0c4353.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir"
+    },
+    {
+      "assetPrefix": "0042",
+      "subject": "Ruines en forêt",
+      "assets": [
+        "assets/images/0042_605e121ad70d.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir"
+    },
+    {
+      "assetPrefix": "0043",
+      "subject": "Ruines sur paysage montagneux",
+      "assets": [
+        "assets/images/0043_4e826e5d7d7b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir"
+    },
+    {
+      "assetPrefix": "0044",
+      "subject": "Architecture égyptienne",
+      "assets": [
+        "assets/images/0044_50f5bf6e8c7b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir"
+    },
+    {
+      "assetPrefix": "0045",
+      "subject": "Temple égyptien",
+      "assets": [
+        "assets/images/0045_8d531b268eb5.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir"
+    },
+    {
+      "assetPrefix": "0046",
+      "subject": "Socle rocheux gris moussu",
+      "assets": [
+        "assets/images/0046_0bb0a47ee868.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0047",
+      "subject": "Roche grise anguleuse",
+      "assets": [
+        "assets/images/0047_06dceb556517.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0048",
+      "subject": "Arche maçonnée beige",
+      "assets": [
+        "assets/images/0048_6b746767fa1e.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0049",
+      "subject": "Épée droite",
+      "assets": [
+        "assets/images/0049_ab43a87f2f44.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0050",
+      "subject": "Épée large",
+      "assets": [
+        "assets/images/0050_47e422cc760c.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0051",
+      "subject": "Sabre courbe",
+      "assets": [
+        "assets/images/0051_4cd03d64ddd8.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0052",
+      "subject": "Katana",
+      "assets": [
+        "assets/images/0052_fa9564b5f883.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0053",
+      "subject": "Épée runique cyan",
+      "assets": [
+        "assets/images/0053_80c2b9a1c155.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0054",
+      "subject": "Épée magique violette",
+      "assets": [
+        "assets/images/0054_7e947de7714a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0055",
+      "subject": "Hache simple",
+      "assets": [
+        "assets/images/0055_6bfad07b89a8.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0056",
+      "subject": "Hache double",
+      "assets": [
+        "assets/images/0056_519bfa34da94.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0057",
+      "subject": "Marteau",
+      "assets": [
+        "assets/images/0057_6ae268eb88b1.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0058",
+      "subject": "Masse à pointes",
+      "assets": [
+        "assets/images/0058_a459e331f0c3.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0059",
+      "subject": "Hallebarde",
+      "assets": [
+        "assets/images/0059_a0158e7033f4.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0060",
+      "subject": "Fléau",
+      "assets": [
+        "assets/images/0060_384ebcf45a99.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier"
+    },
+    {
+      "assetPrefix": "0061",
+      "subject": "Épée ouvragée acier bleuté et or",
+      "assets": [
+        "assets/images/0061_e792faf6a42c.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0062",
+      "subject": "Sabre ouvragé acier bleuté et or",
+      "assets": [
+        "assets/images/0062_50a1d59033ad.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0063",
+      "subject": "Hache double ornée",
+      "assets": [
+        "assets/images/0063_5be46d7262f9.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0064",
+      "subject": "Marteau ouvragé",
+      "assets": [
+        "assets/images/0064_3c3b492a7b86.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0065",
+      "subject": "Masse ouvragée",
+      "assets": [
+        "assets/images/0065_86aa1ffb819e.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0066",
+      "subject": "Hallebarde ouvragée",
+      "assets": [
+        "assets/images/0066_703687283dff.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0067",
+      "subject": "Épée simple",
+      "assets": [
+        "assets/images/0067_a4dd5ac6ec93.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0068",
+      "subject": "Sabre simple",
+      "assets": [
+        "assets/images/0068_2c1e3314f059.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0069",
+      "subject": "Hache double simple",
+      "assets": [
+        "assets/images/0069_05f5f7d76570.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0070",
+      "subject": "Masse simple",
+      "assets": [
+        "assets/images/0070_a03f459d7d5c.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0071",
+      "subject": "Marteau simple",
+      "assets": [
+        "assets/images/0071_f9a2f4d32013.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0072",
+      "subject": "Rubis rouge facetté",
+      "assets": [
+        "assets/images/0072_47395519021a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0073",
+      "subject": "Saphir bleu facetté",
+      "assets": [
+        "assets/images/0073_56c0d3214a50.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0074",
+      "subject": "Émeraude verte facettée",
+      "assets": [
+        "assets/images/0074_9f423ebdca94.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0075",
+      "subject": "Améthyste violette facettée",
+      "assets": [
+        "assets/images/0075_3f7f169d7222.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0076",
+      "subject": "Gemme jaune doré facettée",
+      "assets": [
+        "assets/images/0076_f43b8b2814e6.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0077",
+      "subject": "Opale irisée",
+      "assets": [
+        "assets/images/0077_e4719f19f5ff.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0078",
+      "subject": "Cristal incolore facetté",
+      "assets": [
+        "assets/images/0078_00ea7c0f9b86.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0079",
+      "subject": "Gemme noire facettée",
+      "assets": [
+        "assets/images/0079_a2179833dccc.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0080",
+      "subject": "Turquoise veinée",
+      "assets": [
+        "assets/images/0080_252cbab1ae98.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    }
+  ]
+}

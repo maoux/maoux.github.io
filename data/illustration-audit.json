@@ -1,0 +1,3911 @@
+{
+  "schema": 1,
+  "description": "Inventaire automatique des occurrences HTML. Les liens voisins sont des candidats, non des associations validées.",
+  "records": [
+    {
+      "occurrence": 1,
+      "src": "assets/images/0001_58ed1d3dbffd.webp",
+      "alt": "Planche visuelle : maquillages sur carnations hâlées et foncées, marécage, désert et pierres pour socles",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 2,
+      "src": "assets/images/0002_1463a4d488ee.webp",
+      "alt": "Planche de maquillage, tissus à carreaux et voiles sur peau claire",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 3,
+      "src": "assets/images/0002_1463a4d488ee.webp",
+      "alt": "Planche maquillage, carreaux et voiles agrandie",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 4,
+      "src": "assets/images/0003_c9e41cc39e59.webp",
+      "alt": "Planche chaussures agrandie",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 5,
+      "src": "assets/images/0004_696ebfad1a3b.webp",
+      "alt": "Planche illustrée : éclairs, cuirs synthétiques, satin et drapés transparents",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 6,
+      "src": "assets/images/0004_696ebfad1a3b.webp",
+      "alt": "Planche agrandie",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 7,
+      "src": "assets/images/0005_a8b3f9232bd1.webp",
+      "alt": "Planche artistique : flammes, lave, braises, feu magique, OSL",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 8,
+      "src": "assets/images/0005_a8b3f9232bd1.webp",
+      "alt": "Planche feu et lave agrandie",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 9,
+      "src": "assets/images/0006_4716208c3ba4.webp",
+      "alt": "Portrait féminin 01",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 10,
+      "src": "assets/images/0007_d7993958ad96.webp",
+      "alt": "Portrait féminin 02",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 11,
+      "src": "assets/images/0008_ef400606b13a.webp",
+      "alt": "Portrait féminin 03",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 12,
+      "src": "assets/images/0009_b3c64ea0edd2.webp",
+      "alt": "Portrait féminin 04",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 13,
+      "src": "assets/images/0010_4b51f9101f71.webp",
+      "alt": "Portrait féminin 05",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 14,
+      "src": "assets/images/0011_84503fd1e816.webp",
+      "alt": "Portrait féminin 06",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 15,
+      "src": "assets/images/0012_1c9fcfd1bead.webp",
+      "alt": "Portrait féminin 07",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 16,
+      "src": "assets/images/0013_6e0a302f2f78.webp",
+      "alt": "Portrait féminin 08",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 17,
+      "src": "assets/images/0014_0aecd3a9ef16.webp",
+      "alt": "Portrait féminin 09",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 18,
+      "src": "assets/images/0015_c244bae3abca.webp",
+      "alt": "Portrait féminin 10",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 19,
+      "src": "assets/images/0016_5ad66780ddc2.webp",
+      "alt": "Portrait féminin 11",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 20,
+      "src": "assets/images/0017_2b8e3e366316.webp",
+      "alt": "Portrait féminin 12",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 21,
+      "src": "assets/images/0018_05fdbf870b08.webp",
+      "alt": "Portrait féminin 13",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 22,
+      "src": "assets/images/0019_f78ecdd26e32.webp",
+      "alt": "Portrait féminin 14",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 23,
+      "src": "assets/images/0020_3436b7822252.webp",
+      "alt": "Portrait féminin 15",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 24,
+      "src": "assets/images/0021_fd542631f7f0.webp",
+      "alt": "Portrait féminin 16",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 25,
+      "src": "assets/images/0022_605e3a93431a.webp",
+      "alt": "Portrait féminin 17",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 26,
+      "src": "assets/images/0023_1725fd9e53bc.webp",
+      "alt": "Portrait féminin 18",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 27,
+      "src": "assets/images/0024_524618efb6c2.webp",
+      "alt": "Portrait féminin 19",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 28,
+      "src": "assets/images/0025_b4f0c46a635f.webp",
+      "alt": "Portrait féminin 20",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 29,
+      "src": "assets/images/0026_bffcbdcd46a3.webp",
+      "alt": "Amanite rouge — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 30,
+      "src": "assets/images/0027_d0861308335d.webp",
+      "alt": "Champignons bioluminescents violets — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 31,
+      "src": "assets/images/0028_5462a8c8879e.webp",
+      "alt": "Champignons translucides — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 32,
+      "src": "assets/images/0029_a465cdd0f9a1.webp",
+      "alt": "Polypores orangés — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 33,
+      "src": "assets/images/0030_d881e4c9657d.webp",
+      "alt": "Champignons cristallins bleus — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 34,
+      "src": "assets/images/0031_bb715138f8fd.webp",
+      "alt": "Inspiration peinture miniature : Champignons magiques",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 35,
+      "src": "assets/images/0032_7a8b5a1f9818.webp",
+      "alt": "Amanites rouges",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 36,
+      "src": "assets/images/0033_35c8a54dfcd8.webp",
+      "alt": "Champignons luminescents",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 37,
+      "src": "assets/images/0034_30908b575ba4.webp",
+      "alt": "Roche grise",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 38,
+      "src": "assets/images/0035_dc42294a9b5e.webp",
+      "alt": "Grès rouge",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 39,
+      "src": "assets/images/0036_b5e91586f89b.webp",
+      "alt": "Ardoise sombre",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 40,
+      "src": "assets/images/0037_09906d4a110a.webp",
+      "alt": "Colonne antique",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 41,
+      "src": "assets/images/0038_d9dbb545fcd4.webp",
+      "alt": "Arche en ruine",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 42,
+      "src": "assets/images/0039_18627548ef3a.webp",
+      "alt": "Temples anciens et ruines — Temple de jungle — pierre moussue, étude visuelle pour pe",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 43,
+      "src": "assets/images/0040_3f91ef66f691.webp",
+      "alt": "Temples anciens et ruines — Ruines à arches — coucher de soleil, étude visuelle pour ",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 44,
+      "src": "assets/images/0041_5d6e8a0c4353.webp",
+      "alt": "Temples anciens et ruines — Colonnes anciennes — lumière chaude, étude visuelle pour ",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 45,
+      "src": "assets/images/0042_605e121ad70d.webp",
+      "alt": "Temples anciens et ruines — Sanctuaire — lumière intérieure, étude visuelle pour pein",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 46,
+      "src": "assets/images/0043_4e826e5d7d7b.webp",
+      "alt": "Temples anciens et ruines — Arcades en ruine — lumière froide, étude visuelle pour pe",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 47,
+      "src": "assets/images/0044_50f5bf6e8c7b.webp",
+      "alt": "Égypte ancienne — Statue monumentale — grès, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 48,
+      "src": "assets/images/0045_8d531b268eb5.webp",
+      "alt": "Égypte ancienne — Temple sculpté — ombres profondes, étude visuelle pour peinture min",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 49,
+      "src": "assets/images/0046_0bb0a47ee868.webp",
+      "alt": "Inspiration peinture miniature : Pierres grises pour socle",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 50,
+      "src": "assets/images/0047_06dceb556517.webp",
+      "alt": "Rochers gris",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 51,
+      "src": "assets/images/0048_6b746767fa1e.webp",
+      "alt": "Ruine de pierre",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 52,
+      "src": "assets/images/0049_ab43a87f2f44.webp",
+      "alt": "Épée droite — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 53,
+      "src": "assets/images/0050_47e422cc760c.webp",
+      "alt": "Épée large — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 54,
+      "src": "assets/images/0051_4cd03d64ddd8.webp",
+      "alt": "Sabre courbe — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 55,
+      "src": "assets/images/0052_fa9564b5f883.webp",
+      "alt": "Katana — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 56,
+      "src": "assets/images/0053_80c2b9a1c155.webp",
+      "alt": "Épée runique bleue — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 57,
+      "src": "assets/images/0054_7e947de7714a.webp",
+      "alt": "Épée magique violette — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 58,
+      "src": "assets/images/0055_6bfad07b89a8.webp",
+      "alt": "Hache simple — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 59,
+      "src": "assets/images/0056_519bfa34da94.webp",
+      "alt": "Hache double — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 60,
+      "src": "assets/images/0057_6ae268eb88b1.webp",
+      "alt": "Marteau — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 61,
+      "src": "assets/images/0058_a459e331f0c3.webp",
+      "alt": "Masse d’armes — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 62,
+      "src": "assets/images/0059_a0158e7033f4.webp",
+      "alt": "Hallebarde — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 63,
+      "src": "assets/images/0060_384ebcf45a99.webp",
+      "alt": "Fléau — inspiration peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 64,
+      "src": "assets/images/0061_e792faf6a42c.webp",
+      "alt": "Inspiration peinture miniature : Épée droite NMM",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 65,
+      "src": "assets/images/0062_50a1d59033ad.webp",
+      "alt": "Inspiration peinture miniature : Sabre courbe NMM",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 66,
+      "src": "assets/images/0063_5be46d7262f9.webp",
+      "alt": "Inspiration peinture miniature : Hache à double tranchant",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 67,
+      "src": "assets/images/0064_3c3b492a7b86.webp",
+      "alt": "Inspiration peinture miniature : Marteau de guerre",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 68,
+      "src": "assets/images/0065_86aa1ffb819e.webp",
+      "alt": "Inspiration peinture miniature : Masse à pointes",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 69,
+      "src": "assets/images/0066_703687283dff.webp",
+      "alt": "Inspiration peinture miniature : Hallebarde fantastique",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 70,
+      "src": "assets/images/0067_a4dd5ac6ec93.webp",
+      "alt": "Épée droite",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 71,
+      "src": "assets/images/0068_2c1e3314f059.webp",
+      "alt": "Sabre courbe",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 72,
+      "src": "assets/images/0069_05f5f7d76570.webp",
+      "alt": "Hache double",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 73,
+      "src": "assets/images/0070_a03f459d7d5c.webp",
+      "alt": "Masse à pointes",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 74,
+      "src": "assets/images/0071_f9a2f4d32013.webp",
+      "alt": "Marteau de guerre",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 75,
+      "src": "assets/images/0072_47395519021a.webp",
+      "alt": "Gemme et cristal 01",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 76,
+      "src": "assets/images/0073_56c0d3214a50.webp",
+      "alt": "Gemme et cristal 02",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 77,
+      "src": "assets/images/0074_9f423ebdca94.webp",
+      "alt": "Gemme et cristal 03",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 78,
+      "src": "assets/images/0075_3f7f169d7222.webp",
+      "alt": "Gemme et cristal 04",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 79,
+      "src": "assets/images/0076_f43b8b2814e6.webp",
+      "alt": "Gemme et cristal 05",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 80,
+      "src": "assets/images/0077_e4719f19f5ff.webp",
+      "alt": "Gemme et cristal 06",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 81,
+      "src": "assets/images/0078_00ea7c0f9b86.webp",
+      "alt": "Gemme et cristal 07",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 82,
+      "src": "assets/images/0079_a2179833dccc.webp",
+      "alt": "Gemme et cristal 08",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 83,
+      "src": "assets/images/0080_252cbab1ae98.webp",
+      "alt": "Gemme et cristal 09",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 84,
+      "src": "assets/images/0081_fcd28a37118d.webp",
+      "alt": "Gemme et cristal 10",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 85,
+      "src": "assets/images/0082_e844e5463806.webp",
+      "alt": "Gemme et cristal 11",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 86,
+      "src": "assets/images/0083_95f7655f2c60.webp",
+      "alt": "Gemme et cristal 12",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 87,
+      "src": "assets/images/0084_5b3e6fbf3e19.webp",
+      "alt": "Gemme et cristal 13",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 88,
+      "src": "assets/images/0085_08b3e46728cc.webp",
+      "alt": "Gemme et cristal 14",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 89,
+      "src": "assets/images/0086_abf79aecf321.webp",
+      "alt": "Gemme et cristal 15",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 90,
+      "src": "assets/images/0087_25dddf2ab956.webp",
+      "alt": "Gemme et cristal 16",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 91,
+      "src": "assets/images/0088_fc32883dc69e.webp",
+      "alt": "Gemme et cristal 17",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 92,
+      "src": "assets/images/0089_73355c263a3c.webp",
+      "alt": "Gemme et cristal 18",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 93,
+      "src": "assets/images/0090_f9738733557f.webp",
+      "alt": "Gemme et cristal 19",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 94,
+      "src": "assets/images/0091_97b180f99a89.webp",
+      "alt": "Gemme et cristal 20",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 95,
+      "src": "assets/images/0092_2e15fe6a713c.webp",
+      "alt": "Animaux sauvages — Loup — fourrure hivernale, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 96,
+      "src": "assets/images/0093_069dbe14d6f1.webp",
+      "alt": "Animaux sauvages — Renard — pelage roux, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 97,
+      "src": "assets/images/0094_55d9be055f98.webp",
+      "alt": "Animaux sauvages — Ours — fourrure sombre, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 98,
+      "src": "assets/images/0095_14626175ce41.webp",
+      "alt": "Animaux sauvages — Cerf — contre-jour forestier, étude visuelle pour peinture miniatu",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 99,
+      "src": "assets/images/0096_55f38934e534.webp",
+      "alt": "Animaux sauvages — Serpent — écailles lustrées, étude visuelle pour peinture miniatur",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 100,
+      "src": "assets/images/0097_27231a50a099.webp",
+      "alt": "Oiseaux et ailes sauvages — Rapace — plumes brunes, étude visuelle pour peinture mini",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 101,
+      "src": "assets/images/0098_7906a7b54705.webp",
+      "alt": "Oiseaux et ailes sauvages — Chouette — ailes déployées, étude visuelle pour peinture ",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 102,
+      "src": "assets/images/0099_054d248ac24b.webp",
+      "alt": "Oiseaux et ailes sauvages — Corbeau — reflets bleus, étude visuelle pour peinture min",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 103,
+      "src": "assets/images/0100_3280b77fc26b.webp",
+      "alt": "Oiseaux et ailes sauvages — Oiseau vif — plumage coloré, étude visuelle pour peinture",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 104,
+      "src": "assets/images/0101_ba9cb2d7b687.webp",
+      "alt": "Oiseaux et ailes sauvages — Aile sauvage — membrane et nervures, étude visuelle pour ",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 105,
+      "src": "assets/images/0102_e068de0db7d7.webp",
+      "alt": "Loup — fourrure froide",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 106,
+      "src": "assets/images/0103_2fd757393521.webp",
+      "alt": "Renard — pelage roux",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 107,
+      "src": "assets/images/0104_0499e9099c3b.webp",
+      "alt": "Serpent — écailles",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 108,
+      "src": "assets/images/0105_f27eb4df7ed6.webp",
+      "alt": "Crapaud — peau granuleuse",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 109,
+      "src": "assets/images/0106_a01a1f5847f2.webp",
+      "alt": "Marécages sombres et clairs — Marais sombre — brume froide, étude visuelle pour peint",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 110,
+      "src": "assets/images/0107_d4e782b704b4.webp",
+      "alt": "Marécages sombres et clairs — Marais clair — nénuphars, étude visuelle pour peinture ",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 111,
+      "src": "assets/images/0108_bd8a12f17078.webp",
+      "alt": "Marécages sombres et clairs — Passerelle — lanternes, étude visuelle pour peinture mi",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 112,
+      "src": "assets/images/0109_9ea39758806d.webp",
+      "alt": "Marécages sombres et clairs — Marais magique — champignons bleus, étude visuelle pour",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 113,
+      "src": "assets/images/0110_75effc41c4f0.webp",
+      "alt": "Marécages sombres et clairs — Marais doré — lumière rasante, étude visuelle pour pein",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 114,
+      "src": "assets/images/0111_c07ce7d8eb65.webp",
+      "alt": "Inspiration peinture miniature : Rivière turquoise",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 115,
+      "src": "assets/images/0112_0676345e8fc1.webp",
+      "alt": "Inspiration peinture miniature : Glace et cristaux bleus",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-30"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 116,
+      "src": "assets/images/0113_6708eec4de00.webp",
+      "alt": "Illustration : Eaux et milieux aquatiques",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 117,
+      "src": "assets/images/0114_cf521dda36c6.webp",
+      "alt": "Mars et Lune — Mars — canyons rouges, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 118,
+      "src": "assets/images/0115_53d9e0e8bea5.webp",
+      "alt": "Mars et Lune — Lune — sol gris et Terre, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 119,
+      "src": "assets/images/0116_baf9125ac7df.webp",
+      "alt": "Mars et Lune — Mars — base scientifique, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 120,
+      "src": "assets/images/0117_cad6d83f4187.webp",
+      "alt": "Mars et Lune — Lune — crêtes glacées, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 121,
+      "src": "assets/images/0118_a3794cbc72bc.webp",
+      "alt": "Mars et Lune — Mars — canyon au soleil, étude visuelle pour peinture miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 122,
+      "src": "assets/images/0119_94c8954cf14a.webp",
+      "alt": "Égypte ancienne — Pyramides — soleil du désert, étude visuelle pour peinture miniatur",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 123,
+      "src": "assets/images/0120_fad655d58177.webp",
+      "alt": "Inspiration peinture miniature : Désert et roches ocres",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 124,
+      "src": "assets/images/0121_c9354f167bb8.webp",
+      "alt": "Ville post-apocalyptique — Pont envahi par la végétation, étude visuelle pour peintur",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 125,
+      "src": "assets/images/0122_f5560cc45adb.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt enchantée — rayons du soleil, étude visuelle p",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 126,
+      "src": "assets/images/0123_e97a3d8bbbd5.webp",
+      "alt": "Forêts médiévales-fantastiques — Ruines sylvestres — contre-jour, étude visuelle pour",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 127,
+      "src": "assets/images/0124_2ab3338fcecc.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt lumineuse — feuillage vert, étude visuelle pou",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 128,
+      "src": "assets/images/0125_ef48a1a29162.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt d’automne — orange chaud, étude visuelle pour ",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 129,
+      "src": "assets/images/0126_4f42e09bd20f.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt nocturne — lune bleue, étude visuelle pour pei",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 130,
+      "src": "assets/images/0127_6d949cd48245.webp",
+      "alt": "Inspiration peinture miniature : Marécage et racines",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 131,
+      "src": "assets/images/0128_a3c380885be1.webp",
+      "alt": "Illustration : Végétation",
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 132,
+      "src": "assets/images/0129_d3dd4074388d.webp",
+      "alt": "Fougères",
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 133,
+      "src": "assets/images/0130_f10127dc410b.webp",
+      "alt": "Herbes sèches",
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 134,
+      "src": "assets/images/0131_fe275aef52cb.webp",
+      "alt": "Lierre sur pierre",
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 135,
+      "src": "assets/images/0132_a252b883ab48.webp",
+      "alt": "Corps féminins — études de peinture — Peau et voile ivoire — lumière douce, étude vis",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 136,
+      "src": "assets/images/0133_80beffa576ea.webp",
+      "alt": "Corps féminins — études de peinture — Simili cuir noir — contraste net, étude visuell",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 137,
+      "src": "assets/images/0134_51efd27aee69.webp",
+      "alt": "Corps féminins — études de peinture — Dos et épaules — lumière zénithale, étude visue",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 138,
+      "src": "assets/images/0135_34520317acd3.webp",
+      "alt": "Corps féminins — études de peinture — Satin sombre — reflets directionnels, étude vis",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 139,
+      "src": "assets/images/0136_3c6e3353cca9.webp",
+      "alt": "Corps féminins — études de peinture — Voile violet — transparence, étude visuelle pou",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 140,
+      "src": "assets/images/0137_1a07cef14a73.webp",
+      "alt": "Inspiration peinture miniature : Maquillage et carnations foncées",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 141,
+      "src": "assets/images/0138_b336fd064a2e.webp",
+      "alt": "Inspiration peinture miniature : Voile transparent sur peau",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 142,
+      "src": "assets/images/0139_ec24fc81b2af.webp",
+      "alt": "Illustration : Drapés transparents",
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 143,
+      "src": "assets/images/0140_628a008b25d2.webp",
+      "alt": "Voile blanc sur peau claire",
+      "legacyCandidates": [
+        {
+          "query": "voile transparent"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 144,
+      "src": "assets/images/0141_8e9d25c70110.webp",
+      "alt": "Rond · peau claire",
+      "legacyCandidates": [
+        {
+          "query": "carnation claire"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 145,
+      "src": "assets/images/0142_1a82a17d831a.webp",
+      "alt": "Ovale · peau mate",
+      "legacyCandidates": [
+        {
+          "query": "carnation mate"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 146,
+      "src": "assets/images/0143_b404b828cc96.webp",
+      "alt": "Fin · peau claire froide",
+      "legacyCandidates": [
+        {
+          "query": "carnation froide"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 147,
+      "src": "assets/images/0144_fff51712b4e6.webp",
+      "alt": "Anguleux · peau hâlée",
+      "legacyCandidates": [
+        {
+          "query": "carnation hâlée"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 148,
+      "src": "assets/images/0145_285b238b2cd5.webp",
+      "alt": "Rond · peau foncée",
+      "legacyCandidates": [
+        {
+          "query": "peau foncée"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 149,
+      "src": "assets/images/0146_8cac1a850164.webp",
+      "alt": "Longs lisses · blond",
+      "legacyCandidates": [
+        {
+          "query": "cheveux blond"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 150,
+      "src": "assets/images/0147_87eae90f398c.webp",
+      "alt": "Courts · noir bleuté",
+      "legacyCandidates": [
+        {
+          "query": "cheveux noir"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 151,
+      "src": "assets/images/0148_3b84eac20364.webp",
+      "alt": "Ondulés · roux",
+      "legacyCandidates": [
+        {
+          "query": "cheveux roux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 152,
+      "src": "assets/images/0149_fd514705a587.webp",
+      "alt": "Tresse · brun",
+      "legacyCandidates": [
+        {
+          "query": "cheveux brun"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 153,
+      "src": "assets/images/0150_2aebb4b25f6c.webp",
+      "alt": "Longs fantasy · bleu-violet",
+      "legacyCandidates": [
+        {
+          "query": "cheveux violet"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 154,
+      "src": "assets/images/0067_a4dd5ac6ec93.webp",
+      "alt": "Épée droite",
+      "legacyCandidates": [
+        {
+          "query": "épée NMM"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 155,
+      "src": "assets/images/0068_2c1e3314f059.webp",
+      "alt": "Sabre courbe",
+      "legacyCandidates": [
+        {
+          "query": "sabre NMM"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 156,
+      "src": "assets/images/0069_05f5f7d76570.webp",
+      "alt": "Hache double",
+      "legacyCandidates": [
+        {
+          "query": "hache métal"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 157,
+      "src": "assets/images/0070_a03f459d7d5c.webp",
+      "alt": "Masse à pointes",
+      "legacyCandidates": [
+        {
+          "query": "masse NMM"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 158,
+      "src": "assets/images/0071_f9a2f4d32013.webp",
+      "alt": "Marteau de guerre",
+      "legacyCandidates": [
+        {
+          "query": "marteau métal"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 159,
+      "src": "assets/images/0129_d3dd4074388d.webp",
+      "alt": "Fougères",
+      "legacyCandidates": [
+        {
+          "query": "fougère végétation"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 160,
+      "src": "assets/images/0130_f10127dc410b.webp",
+      "alt": "Herbes sèches",
+      "legacyCandidates": [
+        {
+          "query": "herbes sèches"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 161,
+      "src": "assets/images/0131_fe275aef52cb.webp",
+      "alt": "Lierre sur pierre",
+      "legacyCandidates": [
+        {
+          "query": "lierre végétation"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 162,
+      "src": "assets/images/0032_7a8b5a1f9818.webp",
+      "alt": "Amanites rouges",
+      "legacyCandidates": [
+        {
+          "query": "champignon rouge"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 163,
+      "src": "assets/images/0033_35c8a54dfcd8.webp",
+      "alt": "Champignons luminescents",
+      "legacyCandidates": [
+        {
+          "query": "champignon lumineux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 164,
+      "src": "assets/images/0034_30908b575ba4.webp",
+      "alt": "Roche grise",
+      "legacyCandidates": [
+        {
+          "query": "roche grise"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 165,
+      "src": "assets/images/0035_dc42294a9b5e.webp",
+      "alt": "Grès rouge",
+      "legacyCandidates": [
+        {
+          "query": "grès rouge"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 166,
+      "src": "assets/images/0036_b5e91586f89b.webp",
+      "alt": "Ardoise sombre",
+      "legacyCandidates": [
+        {
+          "query": "ardoise"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 167,
+      "src": "assets/images/0037_09906d4a110a.webp",
+      "alt": "Colonne antique",
+      "legacyCandidates": [
+        {
+          "query": "pierre calcaire"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 168,
+      "src": "assets/images/0038_d9dbb545fcd4.webp",
+      "alt": "Arche en ruine",
+      "legacyCandidates": [
+        {
+          "query": "ruine pierre"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 169,
+      "src": "assets/images/0151_89849724ffba.webp",
+      "alt": "Carré blond platine",
+      "legacyCandidates": [
+        {
+          "query": "cheveux blonds"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 170,
+      "src": "assets/images/0152_23b98adbc547.webp",
+      "alt": "Longs lisses noirs",
+      "legacyCandidates": [
+        {
+          "query": "cheveux noirs"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 171,
+      "src": "assets/images/0153_c6355aeadecd.webp",
+      "alt": "Coupe courte châtain",
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 172,
+      "src": "assets/images/0154_94f351813eb8.webp",
+      "alt": "Boucles blondes souples",
+      "legacyCandidates": [
+        {
+          "query": "cheveux blonds"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 173,
+      "src": "assets/images/0155_c4591c0beeb3.webp",
+      "alt": "Afro bouclé noir",
+      "legacyCandidates": [
+        {
+          "query": "cheveux noirs"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 174,
+      "src": "assets/images/0156_47fd8276bc26.webp",
+      "alt": "Ondulations cuivrées",
+      "legacyCandidates": [
+        {
+          "query": "cheveux roux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 175,
+      "src": "assets/images/0157_972ea0cb6efb.webp",
+      "alt": "Tresse épi brune",
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 176,
+      "src": "assets/images/0158_a652a419424f.webp",
+      "alt": "Deux tresses blondes",
+      "legacyCandidates": [
+        {
+          "query": "cheveux blonds"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 177,
+      "src": "assets/images/0159_51d5a34d6d2e.webp",
+      "alt": "Queue haute brune",
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 178,
+      "src": "assets/images/0160_00606c868e51.webp",
+      "alt": "Chignon argenté",
+      "legacyCandidates": [
+        {
+          "query": "cheveux gris"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 179,
+      "src": "assets/images/0161_76918dd3b3f3.webp",
+      "alt": "Longs blancs ondulés",
+      "legacyCandidates": [
+        {
+          "query": "cheveux blancs"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 180,
+      "src": "assets/images/0162_877658b1e463.webp",
+      "alt": "Tresses turquoise",
+      "legacyCandidates": [
+        {
+          "query": "cheveux bleus"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 181,
+      "src": "assets/images/0163_befc9b612449.webp",
+      "alt": "Coupe courte violette",
+      "legacyCandidates": [
+        {
+          "query": "cheveux violets"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 182,
+      "src": "assets/images/0164_698cdf474ab6.webp",
+      "alt": "Locks brunes ornées",
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 183,
+      "src": "assets/images/0165_f08f60930602.webp",
+      "alt": "Ondulations rose pastel",
+      "legacyCandidates": [
+        {
+          "query": "cheveux roses"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 184,
+      "src": "assets/images/0166_7819fdcaba28.webp",
+      "alt": "Loup — fourrure froide",
+      "legacyCandidates": [
+        {
+          "query": "fourrure"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 185,
+      "src": "assets/images/0167_96cf51f0cdbc.webp",
+      "alt": "Renard — pelage roux",
+      "legacyCandidates": [
+        {
+          "query": "fourrure"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 186,
+      "src": "assets/images/0168_fec7e0bfcf10.webp",
+      "alt": "Serpent — écailles",
+      "legacyCandidates": [
+        {
+          "query": "écailles"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 187,
+      "src": "assets/images/0169_3372ff59d6d3.webp",
+      "alt": "Crapaud — peau granuleuse",
+      "legacyCandidates": [
+        {
+          "query": "peau"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 188,
+      "src": "assets/images/0170_6ed2057ab9e8.webp",
+      "alt": "Cheveux longs blonds lisses",
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 189,
+      "src": "assets/images/0171_010b9c98a715.webp",
+      "alt": "Cheveux courts noirs",
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 190,
+      "src": "assets/images/0172_e67feb406d3a.webp",
+      "alt": "Cheveux roux ondulés",
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 191,
+      "src": "assets/images/0173_32ce0176a1ea.webp",
+      "alt": "Tresses violettes",
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 192,
+      "src": "assets/images/0174_9b182f0b9e18.webp",
+      "alt": "Visage — peau claire",
+      "legacyCandidates": [
+        {
+          "query": "carnation"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 193,
+      "src": "assets/images/0175_f208e7418bda.webp",
+      "alt": "Visage — peau mate",
+      "legacyCandidates": [
+        {
+          "query": "carnation"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 194,
+      "src": "assets/images/0176_17c4257ba438.webp",
+      "alt": "Visage — peau foncée maquillée",
+      "legacyCandidates": [
+        {
+          "query": "carnation"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 195,
+      "src": "assets/images/0140_628a008b25d2.webp",
+      "alt": "Voile blanc sur peau claire",
+      "legacyCandidates": [
+        {
+          "query": "voile"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 196,
+      "src": "assets/images/0177_16adab5520a5.webp",
+      "alt": "Fougères et feuillage",
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 197,
+      "src": "assets/images/0178_270fec2e7be2.webp",
+      "alt": "Plume de rapace",
+      "legacyCandidates": [
+        {
+          "query": "plume"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 198,
+      "src": "assets/images/0047_06dceb556517.webp",
+      "alt": "Rochers gris",
+      "legacyCandidates": [
+        {
+          "query": "roche"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 199,
+      "src": "assets/images/0048_6b746767fa1e.webp",
+      "alt": "Ruine de pierre",
+      "legacyCandidates": [
+        {
+          "query": "ruine"
+        }
+      ],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 200,
+      "src": "assets/images/0179_087f1c75d006.webp",
+      "alt": "Étude pédagogique de visage : Peau foncée",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 201,
+      "src": "assets/images/0180_444b51b55b87.webp",
+      "alt": "Étude pédagogique de visage : Peau hâlée",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 202,
+      "src": "assets/images/0181_bf0d87c5bb8d.webp",
+      "alt": "Étude pédagogique de visage : Peau rousse claire",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 203,
+      "src": "assets/images/0182_d90a8880e44f.webp",
+      "alt": "Étude pédagogique de visage : Peau mate",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 204,
+      "src": "assets/images/0183_c293a03131b1.webp",
+      "alt": "Étude pédagogique de visage : Peau claire",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 205,
+      "src": "assets/images/0026_bffcbdcd46a3.webp",
+      "alt": "Amanite rouge — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 206,
+      "src": "assets/images/0027_d0861308335d.webp",
+      "alt": "Champignons bioluminescents violets — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 207,
+      "src": "assets/images/0028_5462a8c8879e.webp",
+      "alt": "Champignons translucides — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 208,
+      "src": "assets/images/0029_a465cdd0f9a1.webp",
+      "alt": "Polypores orangés — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 209,
+      "src": "assets/images/0030_d881e4c9657d.webp",
+      "alt": "Champignons cristallins bleus — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 210,
+      "src": "assets/images/0184_34baba4b97fe.webp",
+      "alt": "Visage blond, lumière naturelle — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 211,
+      "src": "assets/images/0185_31fe216b3cda.webp",
+      "alt": "Visage brun, lumière chaude — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 212,
+      "src": "assets/images/0186_a935a2ce0580.webp",
+      "alt": "Visage foncé, lumière douce — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 213,
+      "src": "assets/images/0187_e95907cdccb0.webp",
+      "alt": "Visage argenté, lumière froide — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 214,
+      "src": "assets/images/0188_41022d4f476d.webp",
+      "alt": "Visage rouge, éclairage dramatique — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 215,
+      "src": "assets/images/0189_de48afda752d.webp",
+      "alt": "Carré noir — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 216,
+      "src": "assets/images/0190_ba21198eb82f.webp",
+      "alt": "Tresses blondes — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 217,
+      "src": "assets/images/0191_ec3a60ed4bf8.webp",
+      "alt": "Boucles rousses — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 218,
+      "src": "assets/images/0192_cb3f93e40919.webp",
+      "alt": "Chignon brun — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 219,
+      "src": "assets/images/0193_8f83becde5ea.webp",
+      "alt": "Cheveux argentés — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 220,
+      "src": "assets/images/0194_50812347419b.webp",
+      "alt": "Boucles afro — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 221,
+      "src": "assets/images/0195_3913b8ad6002.webp",
+      "alt": "Queue de cheval brune — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 222,
+      "src": "assets/images/0196_df72331164f8.webp",
+      "alt": "Cheveux roux courts — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 223,
+      "src": "assets/images/0197_4847a9e78034.webp",
+      "alt": "Cheveux blonds ondulés — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 224,
+      "src": "assets/images/0198_70cad12cfb0d.webp",
+      "alt": "Cheveux noirs mouillés — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 225,
+      "src": "assets/images/0049_ab43a87f2f44.webp",
+      "alt": "Épée droite — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 226,
+      "src": "assets/images/0050_47e422cc760c.webp",
+      "alt": "Épée large — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 227,
+      "src": "assets/images/0051_4cd03d64ddd8.webp",
+      "alt": "Sabre courbe — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 228,
+      "src": "assets/images/0052_fa9564b5f883.webp",
+      "alt": "Katana — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 229,
+      "src": "assets/images/0053_80c2b9a1c155.webp",
+      "alt": "Épée runique bleue — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 230,
+      "src": "assets/images/0054_7e947de7714a.webp",
+      "alt": "Épée magique violette — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 231,
+      "src": "assets/images/0055_6bfad07b89a8.webp",
+      "alt": "Hache simple — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 232,
+      "src": "assets/images/0056_519bfa34da94.webp",
+      "alt": "Hache double — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 233,
+      "src": "assets/images/0057_6ae268eb88b1.webp",
+      "alt": "Marteau — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 234,
+      "src": "assets/images/0058_a459e331f0c3.webp",
+      "alt": "Masse d’armes — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 235,
+      "src": "assets/images/0059_a0158e7033f4.webp",
+      "alt": "Hallebarde — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 236,
+      "src": "assets/images/0060_384ebcf45a99.webp",
+      "alt": "Fléau — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 237,
+      "src": "assets/images/0199_f513a33f2b72.webp",
+      "alt": "Sources de lumière : soleil, lune, flamme, magie — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 238,
+      "src": "assets/images/0200_ea097beabb69.webp",
+      "alt": "Éclairage de face et trois-quarts — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 239,
+      "src": "assets/images/0201_e188dc877147.webp",
+      "alt": "Lumière latérale et contre-jour — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 240,
+      "src": "assets/images/0202_54f9862813fd.webp",
+      "alt": "Ambiances chaudes et froides — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 241,
+      "src": "assets/images/0203_a0ea1cca5649.webp",
+      "alt": "Ambiances colorées et mixtes — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 242,
+      "src": "assets/images/0204_4d798b78c81c.webp",
+      "alt": "Réflexion sur métal, cuir et tissu — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 243,
+      "src": "assets/images/0205_75a2491eec70.webp",
+      "alt": "Reflets sur verni et peau — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 244,
+      "src": "assets/images/0206_f0102d658ec8.webp",
+      "alt": "Placement des sources sur sphères — inspiration peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 245,
+      "src": "assets/images/0207_9e05c2426e19.webp",
+      "alt": "Visages féminins — Elfe — lumière dorée, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 246,
+      "src": "assets/images/0208_bba1d5bc9380.webp",
+      "alt": "Visages féminins — Portrait — éclairage latéral, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 247,
+      "src": "assets/images/0209_fe3465319a59.webp",
+      "alt": "Visages féminins — Guerrière — lumière froide, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 248,
+      "src": "assets/images/0210_d00e587603e2.webp",
+      "alt": "Visages féminins — Carnation foncée — reflets chauds, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 249,
+      "src": "assets/images/0211_2355acbbe2da.webp",
+      "alt": "Visages féminins — Mage — éclairage nocturne, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 250,
+      "src": "assets/images/0212_e93f49818a9c.webp",
+      "alt": "Chevaliers — Armure bleue — lumière diffuse, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 251,
+      "src": "assets/images/0213_829b37a485c9.webp",
+      "alt": "Chevaliers — Armure dorée — contre-jour, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 252,
+      "src": "assets/images/0214_c27c57e1dec3.webp",
+      "alt": "Chevaliers — Chevalier noir — lumière de feu, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 253,
+      "src": "assets/images/0215_a14e8dfb3844.webp",
+      "alt": "Chevaliers — Chevalier usé — trois-quarts, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 254,
+      "src": "assets/images/0216_5918319c6524.webp",
+      "alt": "Chevaliers — Armure argentée — lumière froide, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 255,
+      "src": "assets/images/0217_3303ee353798.webp",
+      "alt": "Orks et gobelins — Ork brutal — ombres chaudes, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 256,
+      "src": "assets/images/0218_274d8fa6964a.webp",
+      "alt": "Orks et gobelins — Gobelin alchimiste — trois-quarts, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 257,
+      "src": "assets/images/0219_b1a4b25df259.webp",
+      "alt": "Orks et gobelins — Ork vétéran — lumière neutre, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 258,
+      "src": "assets/images/0220_7b8301e5366a.webp",
+      "alt": "Orks et gobelins — Gobelin sournois — lumière froide, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 259,
+      "src": "assets/images/0221_f8f12652106a.webp",
+      "alt": "Orks et gobelins — Ork armé — lumière de bataille, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 260,
+      "src": "assets/images/0114_cf521dda36c6.webp",
+      "alt": "Mars et Lune — Mars — canyons rouges, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 261,
+      "src": "assets/images/0115_53d9e0e8bea5.webp",
+      "alt": "Mars et Lune — Lune — sol gris et Terre, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 262,
+      "src": "assets/images/0116_baf9125ac7df.webp",
+      "alt": "Mars et Lune — Mars — base scientifique, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 263,
+      "src": "assets/images/0117_cad6d83f4187.webp",
+      "alt": "Mars et Lune — Lune — crêtes glacées, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 264,
+      "src": "assets/images/0118_a3794cbc72bc.webp",
+      "alt": "Mars et Lune — Mars — canyon au soleil, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 265,
+      "src": "assets/images/0222_473eb741bfbe.webp",
+      "alt": "Ville post-apocalyptique — Ville détruite — soleil couchant, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 266,
+      "src": "assets/images/0223_38a0a97e38a4.webp",
+      "alt": "Ville post-apocalyptique — Rue néon — nuit pluvieuse, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 267,
+      "src": "assets/images/0121_c9354f167bb8.webp",
+      "alt": "Ville post-apocalyptique — Pont envahi par la végétation, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 268,
+      "src": "assets/images/0224_855b7227a36a.webp",
+      "alt": "Ville post-apocalyptique — Bus abandonné — poussière, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 269,
+      "src": "assets/images/0225_c1a1205c8e62.webp",
+      "alt": "Ville post-apocalyptique — Ville industrielle — horizon gris, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 270,
+      "src": "assets/images/0226_e78edb733427.webp",
+      "alt": "Ville médiévale-fantastique — Cité fortifiée — lumière du matin, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 271,
+      "src": "assets/images/0227_97ba22859e7a.webp",
+      "alt": "Ville médiévale-fantastique — Marché — couleurs chaudes, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 272,
+      "src": "assets/images/0228_cbb4952498d6.webp",
+      "alt": "Ville médiévale-fantastique — Porte de château — pierre froide, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 273,
+      "src": "assets/images/0229_a6499460fc3b.webp",
+      "alt": "Ville médiévale-fantastique — Ville nocturne — lanternes, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 274,
+      "src": "assets/images/0230_e5f10e15420b.webp",
+      "alt": "Ville médiévale-fantastique — Port médiéval — lumière de fin de jour, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 275,
+      "src": "assets/images/0106_a01a1f5847f2.webp",
+      "alt": "Marécages sombres et clairs — Marais sombre — brume froide, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 276,
+      "src": "assets/images/0107_d4e782b704b4.webp",
+      "alt": "Marécages sombres et clairs — Marais clair — nénuphars, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 277,
+      "src": "assets/images/0108_bd8a12f17078.webp",
+      "alt": "Marécages sombres et clairs — Passerelle — lanternes, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 278,
+      "src": "assets/images/0109_9ea39758806d.webp",
+      "alt": "Marécages sombres et clairs — Marais magique — champignons bleus, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 279,
+      "src": "assets/images/0110_75effc41c4f0.webp",
+      "alt": "Marécages sombres et clairs — Marais doré — lumière rasante, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 280,
+      "src": "assets/images/0122_f5560cc45adb.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt enchantée — rayons du soleil, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 281,
+      "src": "assets/images/0123_e97a3d8bbbd5.webp",
+      "alt": "Forêts médiévales-fantastiques — Ruines sylvestres — contre-jour, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 282,
+      "src": "assets/images/0124_2ab3338fcecc.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt lumineuse — feuillage vert, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 283,
+      "src": "assets/images/0125_ef48a1a29162.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt d’automne — orange chaud, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 284,
+      "src": "assets/images/0126_4f42e09bd20f.webp",
+      "alt": "Forêts médiévales-fantastiques — Forêt nocturne — lune bleue, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 285,
+      "src": "assets/images/0132_a252b883ab48.webp",
+      "alt": "Corps féminins — études de peinture — Peau et voile ivoire — lumière douce, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 286,
+      "src": "assets/images/0133_80beffa576ea.webp",
+      "alt": "Corps féminins — études de peinture — Simili cuir noir — contraste net, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 287,
+      "src": "assets/images/0134_51efd27aee69.webp",
+      "alt": "Corps féminins — études de peinture — Dos et épaules — lumière zénithale, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 288,
+      "src": "assets/images/0135_34520317acd3.webp",
+      "alt": "Corps féminins — études de peinture — Satin sombre — reflets directionnels, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 289,
+      "src": "assets/images/0136_3c6e3353cca9.webp",
+      "alt": "Corps féminins — études de peinture — Voile violet — transparence, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 290,
+      "src": "assets/images/0039_18627548ef3a.webp",
+      "alt": "Temples anciens et ruines — Temple de jungle — pierre moussue, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 291,
+      "src": "assets/images/0040_3f91ef66f691.webp",
+      "alt": "Temples anciens et ruines — Ruines à arches — coucher de soleil, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 292,
+      "src": "assets/images/0041_5d6e8a0c4353.webp",
+      "alt": "Temples anciens et ruines — Colonnes anciennes — lumière chaude, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 293,
+      "src": "assets/images/0042_605e121ad70d.webp",
+      "alt": "Temples anciens et ruines — Sanctuaire — lumière intérieure, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 294,
+      "src": "assets/images/0043_4e826e5d7d7b.webp",
+      "alt": "Temples anciens et ruines — Arcades en ruine — lumière froide, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 295,
+      "src": "assets/images/0119_94c8954cf14a.webp",
+      "alt": "Égypte ancienne — Pyramides — soleil du désert, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 296,
+      "src": "assets/images/0044_50f5bf6e8c7b.webp",
+      "alt": "Égypte ancienne — Statue monumentale — grès, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 297,
+      "src": "assets/images/0045_8d531b268eb5.webp",
+      "alt": "Égypte ancienne — Temple sculpté — ombres profondes, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 298,
+      "src": "assets/images/0231_c61d9fafe68c.webp",
+      "alt": "Égypte ancienne — Divinité égyptienne — or et noir, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 299,
+      "src": "assets/images/0232_ae57d418adbf.webp",
+      "alt": "Égypte ancienne — Oasis et ruines — lumière du soir, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 300,
+      "src": "assets/images/0233_8b016c584af7.webp",
+      "alt": "Animaux sauvages — Loup — fourrure hivernale, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 301,
+      "src": "assets/images/0234_4555f034757a.webp",
+      "alt": "Animaux sauvages — Renard — pelage roux, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 302,
+      "src": "assets/images/0235_ffcbdd3a6483.webp",
+      "alt": "Animaux sauvages — Ours — fourrure sombre, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 303,
+      "src": "assets/images/0236_41b1a3ba9e82.webp",
+      "alt": "Animaux sauvages — Cerf — contre-jour forestier, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 304,
+      "src": "assets/images/0237_da4c9a89c02c.webp",
+      "alt": "Animaux sauvages — Serpent — écailles lustrées, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 305,
+      "src": "assets/images/0238_679cf0e7ce32.webp",
+      "alt": "Oiseaux et ailes sauvages — Rapace — plumes brunes, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 306,
+      "src": "assets/images/0239_43465fce4b3a.webp",
+      "alt": "Oiseaux et ailes sauvages — Chouette — ailes déployées, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 307,
+      "src": "assets/images/0240_20e6724b7a91.webp",
+      "alt": "Oiseaux et ailes sauvages — Corbeau — reflets bleus, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 308,
+      "src": "assets/images/0241_e4b46a5cf22c.webp",
+      "alt": "Oiseaux et ailes sauvages — Oiseau vif — plumage coloré, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 309,
+      "src": "assets/images/0242_c3ba33d7e7e5.webp",
+      "alt": "Oiseaux et ailes sauvages — Aile sauvage — membrane et nervures, étude visuelle pour peinture miniature",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 310,
+      "src": "assets/images/0137_1a07cef14a73.webp",
+      "alt": "Inspiration peinture miniature : Maquillage et carnations foncées",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 311,
+      "src": "assets/images/0138_b336fd064a2e.webp",
+      "alt": "Inspiration peinture miniature : Voile transparent sur peau",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 312,
+      "src": "assets/images/0243_7ca91973a8a2.webp",
+      "alt": "Inspiration peinture miniature : Aile de dragon rouge",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 313,
+      "src": "assets/images/0244_73d7f8b0c7ad.webp",
+      "alt": "Inspiration peinture miniature : Plumes bleues et irisées",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 314,
+      "src": "assets/images/0061_e792faf6a42c.webp",
+      "alt": "Inspiration peinture miniature : Épée droite NMM",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 315,
+      "src": "assets/images/0062_50a1d59033ad.webp",
+      "alt": "Inspiration peinture miniature : Sabre courbe NMM",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 316,
+      "src": "assets/images/0063_5be46d7262f9.webp",
+      "alt": "Inspiration peinture miniature : Hache à double tranchant",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 317,
+      "src": "assets/images/0064_3c3b492a7b86.webp",
+      "alt": "Inspiration peinture miniature : Marteau de guerre",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 318,
+      "src": "assets/images/0065_86aa1ffb819e.webp",
+      "alt": "Inspiration peinture miniature : Masse à pointes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 319,
+      "src": "assets/images/0066_703687283dff.webp",
+      "alt": "Inspiration peinture miniature : Hallebarde fantastique",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 320,
+      "src": "assets/images/0127_6d949cd48245.webp",
+      "alt": "Inspiration peinture miniature : Marécage et racines",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 321,
+      "src": "assets/images/0120_fad655d58177.webp",
+      "alt": "Inspiration peinture miniature : Désert et roches ocres",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 322,
+      "src": "assets/images/0046_0bb0a47ee868.webp",
+      "alt": "Inspiration peinture miniature : Pierres grises pour socle",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 323,
+      "src": "assets/images/0111_c07ce7d8eb65.webp",
+      "alt": "Inspiration peinture miniature : Rivière turquoise",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 324,
+      "src": "assets/images/0112_0676345e8fc1.webp",
+      "alt": "Inspiration peinture miniature : Glace et cristaux bleus",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 325,
+      "src": "assets/images/0245_d3f9c243ab46.webp",
+      "alt": "Inspiration peinture miniature : Lave incandescente",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 326,
+      "src": "assets/images/0246_befc0fc36d0d.webp",
+      "alt": "Inspiration peinture miniature : Éclairs électriques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 327,
+      "src": "assets/images/0031_bb715138f8fd.webp",
+      "alt": "Inspiration peinture miniature : Champignons magiques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 328,
+      "src": "assets/images/0247_2d36b7eff9e0.webp",
+      "alt": "Inspiration peinture miniature : Pierres précieuses",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 329,
+      "src": "assets/images/0248_aff1ebf6c45d.webp",
+      "alt": "Inspiration peinture miniature : Industrie post-apocalyptique",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 330,
+      "src": "assets/images/0249_e2ede72f6f9c.webp",
+      "alt": "Illustration : Ailes, oiseaux et plumes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 331,
+      "src": "assets/images/0250_8600d7730fd1.webp",
+      "alt": "Illustration : Épées droites et courbes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 332,
+      "src": "assets/images/0251_c7d672bae54b.webp",
+      "alt": "Illustration : Haches et doubles tranchants",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 333,
+      "src": "assets/images/0252_4852e0dde1ee.webp",
+      "alt": "Illustration : Masses d’armes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 334,
+      "src": "assets/images/0253_9e7fe3d29032.webp",
+      "alt": "Illustration : Marteaux de guerre",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 335,
+      "src": "assets/images/0254_6bcf98223e7d.webp",
+      "alt": "Illustration : Hallebardes et armes d’hast",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 336,
+      "src": "assets/images/0255_9b672782524a.webp",
+      "alt": "Illustration : Ossements et reliques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 337,
+      "src": "assets/images/0256_853916a61a01.webp",
+      "alt": "Illustration : Slime et fluides",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 338,
+      "src": "assets/images/0257_2cafb2b9717c.webp",
+      "alt": "Illustration : Animaux et faune",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 339,
+      "src": "assets/images/0258_ca16813ea6a0.webp",
+      "alt": "Illustration : Industrie et post-apocalyptique",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 340,
+      "src": "assets/images/0128_a3c380885be1.webp",
+      "alt": "Illustration : Végétation",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 341,
+      "src": "assets/images/0259_bc6f5be9fb6b.webp",
+      "alt": "Illustration : Visages et lèvres",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 342,
+      "src": "assets/images/0260_19ae2d81381f.webp",
+      "alt": "Illustration : Yeux et regards",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 343,
+      "src": "assets/images/0113_6708eec4de00.webp",
+      "alt": "Illustration : Eaux et milieux aquatiques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 344,
+      "src": "assets/images/0261_6ad80efc91c7.webp",
+      "alt": "Illustration : Forêts magiques et nuit",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 345,
+      "src": "assets/images/0262_2a18323933da.webp",
+      "alt": "Illustration : Créatures fantastiques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 346,
+      "src": "assets/images/0263_be5df2ff582d.webp",
+      "alt": "Illustration : Dragons et écailles",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 347,
+      "src": "assets/images/0264_0a94afe8e335.webp",
+      "alt": "Illustration : Armes fantasy",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 348,
+      "src": "assets/images/0265_8962c2499663.webp",
+      "alt": "Illustration : Armes Warhammer 40,000",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 349,
+      "src": "assets/images/0139_ec24fc81b2af.webp",
+      "alt": "Illustration : Drapés transparents",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 350,
+      "src": "assets/images/0003_c9e41cc39e59.webp",
+      "alt": "Planche d’inspiration de chaussures, talons, bottes, sandales, liège et compensées",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 351,
+      "alt": "Illustration agrandie",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 352,
+      "src": "assets/images/0267_d26928b22ef4.webp",
+      "alt": "Planches illustrées : socles désert forêt marécage neige, lumière sur tissu cuir acier bois pierre, gemmes rondes et optiques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 353,
+      "src": "assets/images/0269_fa2aac56616b.webp",
+      "alt": "Cristaux et gemmes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 354,
+      "src": "assets/images/0271_e1509ea06831.webp",
+      "alt": "NMM et volumes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 355,
+      "src": "assets/images/0272_7ecb3d86adca.webp",
+      "alt": "Sources de lumière : soleil, lune, flamme, magie",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 356,
+      "src": "assets/images/0273_15ded6ba6680.webp",
+      "alt": "Éclairage de face et trois-quarts",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 357,
+      "src": "assets/images/0274_a2b2e77f262c.webp",
+      "alt": "Lumière latérale et contre-jour",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 358,
+      "src": "assets/images/0275_e75aa0cb43fb.webp",
+      "alt": "Ambiances chaudes et froides",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 359,
+      "src": "assets/images/0276_53af7e491742.webp",
+      "alt": "Ambiances colorées et mixtes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 360,
+      "src": "assets/images/0277_0ad278de2fe9.webp",
+      "alt": "Réflexion sur métal, cuir et tissu",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 361,
+      "src": "assets/images/0278_76f31d0ab841.webp",
+      "alt": "Reflets sur verni et peau",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 362,
+      "src": "assets/images/0279_55f484f34a67.webp",
+      "alt": "Placement des sources sur sphères",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 363,
+      "src": "assets/images/0280_9a28fd28acfd.webp",
+      "alt": "Planche pédagogique des lumières et ombres sur douze formes : sphère, cube, cylindre, cône, pyramide, anneau, lame, casque, tissu, rocher et plume",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 364,
+      "src": "assets/images/0281_0ff8ad6d8e51.webp",
+      "alt": "Étude de figurine : Citrouille sculptée, lumière intérieure",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 365,
+      "src": "assets/images/0282_8f933b176a58.webp",
+      "alt": "Étude de figurine : Zombie, chair cadavérique",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 366,
+      "src": "assets/images/0283_899a6660b8ec.webp",
+      "alt": "Étude de figurine : Fantôme, drapé spectral",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 367,
+      "src": "assets/images/0284_eb64a9bda1a6.webp",
+      "alt": "Étude de figurine : Spectre, magie cyan violette",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 368,
+      "src": "assets/images/0285_bfb8ef91616e.webp",
+      "alt": "Étude de figurine : Sorcière, velours violet",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 369,
+      "src": "assets/images/0286_e09376791731.webp",
+      "alt": "Étude de figurine : Tombe ancienne, pierre et mousse",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 370,
+      "src": "assets/images/0287_37b727b5a7ad.webp",
+      "alt": "Étude de figurine : Bonhomme de neige, ombres froides",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 371,
+      "src": "assets/images/0288_7c1da6f61856.webp",
+      "alt": "Étude de figurine : Elfe festif, rouge et vert",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 372,
+      "src": "assets/images/0289_957ab5837331.webp",
+      "alt": "Étude de figurine : Sapin enneigé, lumières chaudes",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 373,
+      "src": "assets/images/0290_5a2eeeea79b6.webp",
+      "alt": "Étude de figurine : Cloche dorée, métal brillant",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 374,
+      "src": "assets/images/0291_37713b2c4756.webp",
+      "alt": "Étude de figurine : Maison pain d’épices, neige et caramel",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 375,
+      "src": "assets/images/0292_1e68acbdb6c3.webp",
+      "alt": "Étude de figurine : Golem de glace, cristal bleu",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 376,
+      "src": "assets/images/0293_09f79afc2f14.webp",
+      "alt": "Amanites écarlates",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 377,
+      "src": "assets/images/0294_12824a5030a4.webp",
+      "alt": "Champignons bioluminescents",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 378,
+      "src": "assets/images/0295_5195ce54a471.webp",
+      "alt": "Polypores sur bois mort",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 379,
+      "src": "assets/images/0296_2705a4d6c98a.webp",
+      "alt": "Champignons violets fantastiques",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 380,
+      "src": "assets/images/0297_ffd654e0f822.webp",
+      "alt": "Chêne ancien noueux",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 381,
+      "src": "assets/images/0298_eca845c98595.webp",
+      "alt": "Bouleau blanc",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 382,
+      "src": "assets/images/0299_4ff91d6393f2.webp",
+      "alt": "Racines de mangrove",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 383,
+      "src": "assets/images/0300_9b8b21986a77.webp",
+      "alt": "Souche carbonisée",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 384,
+      "src": "assets/images/0301_78140419f02b.webp",
+      "alt": "Récif de corail multicolore",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 385,
+      "src": "assets/images/0302_266eda6b4357.webp",
+      "alt": "Anémones et algues sous-marines",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 386,
+      "src": "assets/images/0303_a05b2a6e69bd.webp",
+      "alt": "Méduses translucides",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 387,
+      "src": "assets/images/0304_9dcf336e70e8.webp",
+      "alt": "Nénuphars et roseaux",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 388,
+      "src": "assets/images/0305_15dc11d328f0.webp",
+      "alt": "Jungle tropicale",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 389,
+      "src": "assets/images/0306_5be1dc87a763.webp",
+      "alt": "Plantes carnivores",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 390,
+      "src": "assets/images/0307_443937273117.webp",
+      "alt": "Lavande et fleurs sauvages",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    },
+    {
+      "occurrence": 391,
+      "src": "assets/images/0308_e1c83fcaf58f.webp",
+      "alt": "Houx et sapins enneigés",
+      "legacyCandidates": [],
+      "status": "a_verifier"
+    }
+  ]
+}

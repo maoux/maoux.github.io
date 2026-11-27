@@ -1,0 +1,6704 @@
+{
+  "schema": 1,
+  "records": [
+    {
+      "assetPrefix": "0001",
+      "subject": "Planche inspirations",
+      "assets": [
+        "assets/images/0001_58ed1d3dbffd.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0001",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0002",
+      "subject": "Planche visages et drapés",
+      "assets": [
+        "assets/images/0002_1463a4d488ee.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0002",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0003",
+      "subject": "Planche chaussures",
+      "assets": [
+        "assets/images/0003_c9e41cc39e59.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0003",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0004",
+      "subject": "Planche éclairs et tissus",
+      "assets": [
+        "assets/images/0004_696ebfad1a3b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0004",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0005",
+      "subject": "Planche feu lave",
+      "assets": [
+        "assets/images/0005_a8b3f9232bd1.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0005",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0006",
+      "subject": "Portrait blond doré",
+      "assets": [
+        "assets/images/0006_4716208c3ba4.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0006",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0007",
+      "subject": "Portrait roux",
+      "assets": [
+        "assets/images/0007_d7993958ad96.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0007",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0008",
+      "subject": "Portrait brun",
+      "assets": [
+        "assets/images/0008_ef400606b13a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0008",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0009",
+      "subject": "Portrait blond platine",
+      "assets": [
+        "assets/images/0009_b3c64ea0edd2.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0009",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0010",
+      "subject": "Portrait masculin noir",
+      "assets": [
+        "assets/images/0010_4b51f9101f71.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0010",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0011",
+      "subject": "Portrait boucles brunes",
+      "assets": [
+        "assets/images/0011_84503fd1e816.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0011",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0012",
+      "subject": "Portrait blond ondulé",
+      "assets": [
+        "assets/images/0012_1c9fcfd1bead.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0012",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0013",
+      "subject": "Portrait boucles foncées",
+      "assets": [
+        "assets/images/0013_6e0a302f2f78.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0013",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0014",
+      "subject": "Portrait rousse tressée",
+      "assets": [
+        "assets/images/0014_0aecd3a9ef16.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0014",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0015",
+      "subject": "Portrait gris argent",
+      "assets": [
+        "assets/images/0015_c244bae3abca.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0015",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0016",
+      "subject": "Portrait noir bleuté",
+      "assets": [
+        "assets/images/0016_5ad66780ddc2.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0016",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0017",
+      "subject": "Portrait brun ondulé",
+      "assets": [
+        "assets/images/0017_2b8e3e366316.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0017",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0018",
+      "subject": "Portrait hâlé tressé",
+      "assets": [
+        "assets/images/0018_05fdbf870b08.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0018",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0019",
+      "subject": "Portrait peau foncée tresses",
+      "assets": [
+        "assets/images/0019_f78ecdd26e32.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0019",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0020",
+      "subject": "Portrait peau foncée boucles",
+      "assets": [
+        "assets/images/0020_3436b7822252.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0020",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0021",
+      "subject": "Portrait violet maquillage",
+      "assets": [
+        "assets/images/0021_fd542631f7f0.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0021",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0022",
+      "subject": "Portrait argent marques bleues",
+      "assets": [
+        "assets/images/0022_605e3a93431a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0022",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0023",
+      "subject": "Portrait turquoise maquillage",
+      "assets": [
+        "assets/images/0023_1725fd9e53bc.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0023",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0024",
+      "subject": "Portrait roux lèvres sombres",
+      "assets": [
+        "assets/images/0024_524618efb6c2.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0024",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0025",
+      "subject": "Portrait peau foncée maquillage or",
+      "assets": [
+        "assets/images/0025_b4f0c46a635f.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "carnation visage maquillage"
+        },
+        {
+          "anchor": "recette-directe-v4-68"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0025",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0026",
+      "subject": "Amanites rouges",
+      "assets": [
+        "assets/images/0026_bffcbdcd46a3.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0026",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0027",
+      "subject": "Champignons violet lumineux",
+      "assets": [
+        "assets/images/0027_d0861308335d.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0027",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0028",
+      "subject": "Champignons translucides",
+      "assets": [
+        "assets/images/0028_5462a8c8879e.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0028",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0029",
+      "subject": "Champignons en console",
+      "assets": [
+        "assets/images/0029_a465cdd0f9a1.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0029",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0030",
+      "subject": "Champignons bleu lumineux",
+      "assets": [
+        "assets/images/0030_d881e4c9657d.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0030",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0031",
+      "subject": "Champignons bleu violet",
+      "assets": [
+        "assets/images/0031_bb715138f8fd.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0031",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0032",
+      "subject": "Amanites sur socle",
+      "assets": [
+        "assets/images/0032_7a8b5a1f9818.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        },
+        {
+          "query": "champignon rouge"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0032",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0033",
+      "subject": "Champignons cyan",
+      "assets": [
+        "assets/images/0033_35c8a54dfcd8.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "champignons"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        },
+        {
+          "query": "champignon lumineux"
+        }
+      ],
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0033",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0034",
+      "subject": "Roche grise",
+      "assets": [
+        "assets/images/0034_30908b575ba4.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        },
+        {
+          "query": "roche grise"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0034",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0035",
+      "subject": "Roche rouge",
+      "assets": [
+        "assets/images/0035_dc42294a9b5e.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        },
+        {
+          "query": "grès rouge"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0035",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0036",
+      "subject": "Ardoise",
+      "assets": [
+        "assets/images/0036_b5e91586f89b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        },
+        {
+          "query": "ardoise"
+        }
+      ],
+      "recipeIds": [
+        "v31-v2-pierres-1"
+      ],
+      "id": "illustration-0036",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0037",
+      "subject": "Colonne antique",
+      "assets": [
+        "assets/images/0037_09906d4a110a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        },
+        {
+          "query": "pierre calcaire"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0037",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0038",
+      "subject": "Arche moussue",
+      "assets": [
+        "assets/images/0038_d9dbb545fcd4.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierres roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        },
+        {
+          "query": "ruine pierre"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0038",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0039",
+      "subject": "Cascade et désert montage",
+      "assets": [
+        "assets/images/0039_18627548ef3a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0039",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0040",
+      "subject": "Forêt et ruines montage",
+      "assets": [
+        "assets/images/0040_3f91ef66f691.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0040",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0041",
+      "subject": "Ruines antiques montage",
+      "assets": [
+        "assets/images/0041_5d6e8a0c4353.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0041",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0042",
+      "subject": "Caverne montage",
+      "assets": [
+        "assets/images/0042_605e121ad70d.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0042",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0043",
+      "subject": "Ruines verdoyantes montage",
+      "assets": [
+        "assets/images/0043_4e826e5d7d7b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0043",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0044",
+      "subject": "Désert et animal montage",
+      "assets": [
+        "assets/images/0044_50f5bf6e8c7b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0044",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0045",
+      "subject": "Temple et animal montage",
+      "assets": [
+        "assets/images/0045_8d531b268eb5.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande composite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0045",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0046",
+      "subject": "Socle ardoise",
+      "assets": [
+        "assets/images/0046_0bb0a47ee868.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0046",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0047",
+      "subject": "Roche grise",
+      "assets": [
+        "assets/images/0047_06dceb556517.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        },
+        {
+          "query": "roche"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0047",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0048",
+      "subject": "Arche pierre beige",
+      "assets": [
+        "assets/images/0048_6b746767fa1e.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "pierre roche"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        },
+        {
+          "query": "ruine"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0048",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0049",
+      "subject": "Épée droite",
+      "assets": [
+        "assets/images/0049_ab43a87f2f44.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-40"
+      ],
+      "id": "illustration-0049",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0050",
+      "subject": "Épée droite ornée",
+      "assets": [
+        "assets/images/0050_47e422cc760c.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0050",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0051",
+      "subject": "Sabre",
+      "assets": [
+        "assets/images/0051_4cd03d64ddd8.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-42"
+      ],
+      "id": "illustration-0051",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0052",
+      "subject": "Katana",
+      "assets": [
+        "assets/images/0052_fa9564b5f883.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0052",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0053",
+      "subject": "Épée énergétique cyan",
+      "assets": [
+        "assets/images/0053_80c2b9a1c155.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-46"
+      ],
+      "id": "illustration-0053",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0054",
+      "subject": "Épée magique violette",
+      "assets": [
+        "assets/images/0054_7e947de7714a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-48"
+      ],
+      "id": "illustration-0054",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0055",
+      "subject": "Hache simple",
+      "assets": [
+        "assets/images/0055_6bfad07b89a8.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0055",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0056",
+      "subject": "Hache double",
+      "assets": [
+        "assets/images/0056_519bfa34da94.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0056",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0057",
+      "subject": "Marteau",
+      "assets": [
+        "assets/images/0057_6ae268eb88b1.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0057",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0058",
+      "subject": "Masse",
+      "assets": [
+        "assets/images/0058_a459e331f0c3.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0058",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0059",
+      "subject": "Hallebarde",
+      "assets": [
+        "assets/images/0059_a0158e7033f4.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0059",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0060",
+      "subject": "Fléau",
+      "assets": [
+        "assets/images/0060_384ebcf45a99.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "format très étroit à vérifier",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0060",
+      "visualInspection": {
+        "status": "a_verifier_bandeau_vertical",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0061",
+      "subject": "Épée ornée bleue",
+      "assets": [
+        "assets/images/0061_e792faf6a42c.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0061",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0062",
+      "subject": "Sabre orné",
+      "assets": [
+        "assets/images/0062_50a1d59033ad.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0062",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0063",
+      "subject": "Hache double ornée",
+      "assets": [
+        "assets/images/0063_5be46d7262f9.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0063",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0064",
+      "subject": "Marteau orné",
+      "assets": [
+        "assets/images/0064_3c3b492a7b86.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0064",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0065",
+      "subject": "Masse à pointes",
+      "assets": [
+        "assets/images/0065_86aa1ffb819e.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0065",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0066",
+      "subject": "Hallebarde ornée",
+      "assets": [
+        "assets/images/0066_703687283dff.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme nmm"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0066",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0067",
+      "subject": "Épée simple",
+      "assets": [
+        "assets/images/0067_a4dd5ac6ec93.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        },
+        {
+          "query": "épée NMM"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-40"
+      ],
+      "id": "illustration-0067",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0068",
+      "subject": "Sabre simple",
+      "assets": [
+        "assets/images/0068_2c1e3314f059.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        },
+        {
+          "query": "sabre NMM"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-42"
+      ],
+      "id": "illustration-0068",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0069",
+      "subject": "Hache double",
+      "assets": [
+        "assets/images/0069_05f5f7d76570.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-40"
+        },
+        {
+          "query": "hache métal"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0069",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0070",
+      "subject": "Masse à pointes",
+      "assets": [
+        "assets/images/0070_a03f459d7d5c.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        },
+        {
+          "query": "masse NMM"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0070",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0071",
+      "subject": "Marteau",
+      "assets": [
+        "assets/images/0071_f9a2f4d32013.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "épée arme"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        },
+        {
+          "query": "marteau métal"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0071",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0072",
+      "subject": "Rubis",
+      "assets": [
+        "assets/images/0072_47395519021a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0072",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0073",
+      "subject": "Saphir",
+      "assets": [
+        "assets/images/0073_56c0d3214a50.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0073",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0074",
+      "subject": "Émeraude",
+      "assets": [
+        "assets/images/0074_9f423ebdca94.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0074",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0075",
+      "subject": "Améthyste",
+      "assets": [
+        "assets/images/0075_3f7f169d7222.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0075",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0076",
+      "subject": "Gemme jaune",
+      "assets": [
+        "assets/images/0076_f43b8b2814e6.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0076",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0077",
+      "subject": "Opale",
+      "assets": [
+        "assets/images/0077_e4719f19f5ff.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0077",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0078",
+      "subject": "Diamant",
+      "assets": [
+        "assets/images/0078_00ea7c0f9b86.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0078",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0079",
+      "subject": "Gemme noire",
+      "assets": [
+        "assets/images/0079_a2179833dccc.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0079",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0080",
+      "subject": "Turquoise",
+      "assets": [
+        "assets/images/0080_252cbab1ae98.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0080",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0081",
+      "subject": "Ambre",
+      "assets": [
+        "assets/images/0081_fcd28a37118d.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0081",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0082",
+      "subject": "Cristal bleu",
+      "assets": [
+        "assets/images/0082_e844e5463806.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0082",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0083",
+      "subject": "Cristal vert",
+      "assets": [
+        "assets/images/0083_95f7655f2c60.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0083",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0084",
+      "subject": "Cristal violet",
+      "assets": [
+        "assets/images/0084_5b3e6fbf3e19.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0084",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0085",
+      "subject": "Cristal rouge",
+      "assets": [
+        "assets/images/0085_08b3e46728cc.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0085",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0086",
+      "subject": "Quartz rose",
+      "assets": [
+        "assets/images/0086_abf79aecf321.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0086",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0087",
+      "subject": "Cristal glace",
+      "assets": [
+        "assets/images/0087_25dddf2ab956.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0087",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0088",
+      "subject": "Cristal noir",
+      "assets": [
+        "assets/images/0088_fc32883dc69e.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0088",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0089",
+      "subject": "Cristal jaune",
+      "assets": [
+        "assets/images/0089_73355c263a3c.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0089",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0090",
+      "subject": "Cristal cyan",
+      "assets": [
+        "assets/images/0090_f9738733557f.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0090",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0091",
+      "subject": "Cristal irisé",
+      "assets": [
+        "assets/images/0091_97b180f99a89.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "gemme cristal"
+        },
+        {
+          "anchor": "recette-directe-v4-35"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0091",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0092",
+      "subject": "Loup",
+      "assets": [
+        "assets/images/0092_2e15fe6a713c.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0092",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0093",
+      "subject": "Renard",
+      "assets": [
+        "assets/images/0093_069dbe14d6f1.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0093",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0094",
+      "subject": "Ours",
+      "assets": [
+        "assets/images/0094_55d9be055f98.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0094",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0095",
+      "subject": "Cerf",
+      "assets": [
+        "assets/images/0095_14626175ce41.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0095",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0096",
+      "subject": "Serpent",
+      "assets": [
+        "assets/images/0096_55f38934e534.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0096",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0097",
+      "subject": "Crapaud",
+      "assets": [
+        "assets/images/0097_27231a50a099.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0097",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0098",
+      "subject": "Souris",
+      "assets": [
+        "assets/images/0098_7906a7b54705.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0098",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0099",
+      "subject": "Araignée",
+      "assets": [
+        "assets/images/0099_054d248ac24b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0099",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0100",
+      "subject": "Sanglier",
+      "assets": [
+        "assets/images/0100_3280b77fc26b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0100",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0101",
+      "subject": "Lynx",
+      "assets": [
+        "assets/images/0101_ba9cb2d7b687.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal fourrure"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0101",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0102",
+      "subject": "Chouette",
+      "assets": [
+        "assets/images/0102_e068de0db7d7.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0102",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0103",
+      "subject": "Aigle",
+      "assets": [
+        "assets/images/0103_2fd757393521.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0103",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0104",
+      "subject": "Renne",
+      "assets": [
+        "assets/images/0104_0499e9099c3b.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-24"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0104",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0105",
+      "subject": "Blaireau",
+      "assets": [
+        "assets/images/0105_f27eb4df7ed6.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "animal"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0105",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0106",
+      "subject": "Marécage brumeux",
+      "assets": [
+        "assets/images/0106_a01a1f5847f2.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0106",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0107",
+      "subject": "Étang nénuphars",
+      "assets": [
+        "assets/images/0107_d4e782b704b4.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0107",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0108",
+      "subject": "Passerelle marécage",
+      "assets": [
+        "assets/images/0108_bd8a12f17078.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0108",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0109",
+      "subject": "Forêt champignons lumineux",
+      "assets": [
+        "assets/images/0109_9ea39758806d.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0109",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0110",
+      "subject": "Marécage doré",
+      "assets": [
+        "assets/images/0110_75effc41c4f0.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0110",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0111",
+      "subject": "Rivière turquoise",
+      "assets": [
+        "assets/images/0111_c07ce7d8eb65.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0111",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0112",
+      "subject": "Cristaux de glace",
+      "assets": [
+        "assets/images/0112_0676345e8fc1.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-30"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0112",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0113",
+      "subject": "Cascade planche aquatique",
+      "assets": [
+        "assets/images/0113_6708eec4de00.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "texte intégré",
+      "legacyCandidates": [
+        {
+          "query": "eau glace"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0113",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0114",
+      "subject": "Planète rouge",
+      "assets": [
+        "assets/images/0114_cf521dda36c6.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0114",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0115",
+      "subject": "Paysage lunaire",
+      "assets": [
+        "assets/images/0115_53d9e0e8bea5.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0115",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0116",
+      "subject": "Base planète rouge",
+      "assets": [
+        "assets/images/0116_baf9125ac7df.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0116",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0117",
+      "subject": "Glace lunaire",
+      "assets": [
+        "assets/images/0117_cad6d83f4187.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-31"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0117",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0118",
+      "subject": "Canyon désertique",
+      "assets": [
+        "assets/images/0118_a3794cbc72bc.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0118",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0119",
+      "subject": "Désert et animal montage",
+      "assets": [
+        "assets/images/0119_94c8954cf14a.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0119",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0120",
+      "subject": "Socle désertique",
+      "assets": [
+        "assets/images/0120_fad655d58177.webp"
+      ],
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bord inférieur parasite",
+      "legacyCandidates": [
+        {
+          "query": "sable désert"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0120",
+      "visualInspection": {
+        "status": "a_verifier_decoupage",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0121",
+      "subject": "Ruines forestières",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0121_c9354f167bb8.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0121",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0122",
+      "subject": "Forêt moussue",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0122_f5560cc45adb.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0122",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0123",
+      "subject": "Forêt fantastique bleutée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0123_e97a3d8bbbd5.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0123",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0124",
+      "subject": "Arbre ancien",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0124_2ab3338fcecc.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0124",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0125",
+      "subject": "Forêt automnale",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0125_ef48a1a29162.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-11"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0125",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0126",
+      "subject": "Forêt nocturne bleue",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0126_4f42e09bd20f.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0126",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0127",
+      "subject": "Racines en marécage",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0127_6d949cd48245.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-33"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0127",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0128",
+      "subject": "Planche végétation",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0128_a3c380885be1.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "terre végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0128",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0129",
+      "subject": "Fougère verte",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0129_d3dd4074388d.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        },
+        {
+          "query": "fougère végétation"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0129",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0130",
+      "subject": "Herbes dorées",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0130_f10127dc410b.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        },
+        {
+          "query": "herbes sèches"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0130",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0131",
+      "subject": "Lierre sur roche",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0131_fe275aef52cb.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        },
+        {
+          "anchor": "recette-directe-v4-14"
+        },
+        {
+          "query": "lierre végétation"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0131",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0132",
+      "subject": "Drapé ou tenue à recadrer",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0132_a252b883ab48.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0132",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0133",
+      "subject": "Drapé ou tenue à recadrer",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0133_80beffa576ea.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0133",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0134",
+      "subject": "Drapé ou tenue à recadrer",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0134_51efd27aee69.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0134",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0135",
+      "subject": "Drapé ou tenue à recadrer",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0135_34520317acd3.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-70"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0135",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0136",
+      "subject": "Drapé ou tenue à recadrer",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0136_3c6e3353cca9.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0136",
+      "visualInspection": {
+        "status": "a_recadrer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0137",
+      "subject": "Maquillage violet et or",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0137_1a07cef14a73.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0137",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0138",
+      "subject": "Voile lilas sur peau foncée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0138_b336fd064a2e.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        }
+      ],
+      "recipeIds": [
+        "recette-directe-v4-89"
+      ],
+      "id": "illustration-0138",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0139",
+      "subject": "Planche drapés transparents",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0139_ec24fc81b2af.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile tissu"
+        },
+        {
+          "anchor": "recette-directe-v4-1"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0139",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0140",
+      "subject": "Voile blanc transparent",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0140_628a008b25d2.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "voile transparent"
+        },
+        {
+          "anchor": "recette-directe-v4-84"
+        },
+        {
+          "query": "voile"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0140",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0141",
+      "subject": "Portrait blond peau claire",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0141_8e9d25c70110.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation claire"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0141",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0142",
+      "subject": "Portrait brun peau hâlée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0142_1a82a17d831a.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation mate"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0142",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0143",
+      "subject": "Portrait brun froid",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0143_b404b828cc96.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation froide"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0143",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0144",
+      "subject": "Portrait auburn peau hâlée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0144_fff51712b4e6.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation hâlée"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0144",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0145",
+      "subject": "Portrait peau foncée maquillage violet",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0145_285b238b2cd5.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "peau foncée"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0145",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0146",
+      "subject": "Cheveux blond doré",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0146_8cac1a850164.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux blond"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0146",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0147",
+      "subject": "Cheveux noir bleuté",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0147_87eae90f398c.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux noir"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0147",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0148",
+      "subject": "Cheveux roux cuivré",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0148_3b84eac20364.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux roux"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0148",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0149",
+      "subject": "Tresse brune",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0149_fd514705a587.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux brun"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0149",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0150",
+      "subject": "Cheveux bleu violet",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0150_2aebb4b25f6c.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux violet"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0150",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0151",
+      "subject": "Carré blond clair",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0151_89849724ffba.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux blonds"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0151",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0152",
+      "subject": "Cheveux noirs longs",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0152_23b98adbc547.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux noirs"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0152",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0153",
+      "subject": "Cheveux châtain",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0153_c6355aeadecd.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0153",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0154",
+      "subject": "Boucles blond doré",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0154_94f351813eb8.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux blonds"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0154",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0155",
+      "subject": "Boucles brun noir",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0155_c4591c0beeb3.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux noirs"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0155",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0156",
+      "subject": "Cheveux roux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0156_47fd8276bc26.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux roux"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0156",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0157",
+      "subject": "Tresse châtain",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0157_972ea0cb6efb.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0157",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0158",
+      "subject": "Tresses blondes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0158_a652a419424f.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux blonds"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0158",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0159",
+      "subject": "Queue de cheval brune",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0159_51d5a34d6d2e.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0159",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0160",
+      "subject": "Chignon gris argent",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0160_00606c868e51.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux gris"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0160",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0161",
+      "subject": "Cheveux blanc argenté",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0161_76918dd3b3f3.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux blancs"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0161",
+      "visualInspection": {
+        "status": "a_verifier_sur_original",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0162",
+      "subject": "Cheveux turquoise",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0162_877658b1e463.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux bleus"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0162",
+      "visualInspection": {
+        "status": "a_verifier_sur_original",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0163",
+      "subject": "Cheveux violet",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0163_befc9b612449.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux violets"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0163",
+      "visualInspection": {
+        "status": "a_verifier_sur_original",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0164",
+      "subject": "Dreadlocks brunes anneaux or",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0164_698cdf474ab6.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux bruns"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0164",
+      "visualInspection": {
+        "status": "a_verifier_sur_original",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0165",
+      "subject": "Cheveux rose pastel",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0165_f08f60930602.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux roses"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0165",
+      "visualInspection": {
+        "status": "a_verifier_sur_original",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0166",
+      "subject": "Loup gris",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0166_7819fdcaba28.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "fourrure"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0166",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0167",
+      "subject": "Renard roux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0167_96cf51f0cdbc.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "fourrure"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0167",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0168",
+      "subject": "Serpent vert ventre ocre",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0168_fec7e0bfcf10.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "écailles"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0168",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0169",
+      "subject": "Crapaud brun",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0169_3372ff59d6d3.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "peau"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0169",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0170",
+      "subject": "Cheveux blond doré",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0170_6ed2057ab9e8.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0170",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0171",
+      "subject": "Cheveux noir bleuté",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0171_010b9c98a715.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0171",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0172",
+      "subject": "Cheveux cuivre",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0172_e67feb406d3a.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0172",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0173",
+      "subject": "Chignon tressé violet",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0173_32ce0176a1ea.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "cheveux"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0173",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0174",
+      "subject": "Portrait blond clair",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0174_9b182f0b9e18.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0174",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0175",
+      "subject": "Portrait brun hâlé",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0175_f208e7418bda.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0175",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0176",
+      "subject": "Portrait maquillage violet",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0176_17c4257ba438.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "carnation"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0176",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0177",
+      "subject": "Fougère jaune vert",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0177_16adab5520a5.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "végétation"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0177",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0178",
+      "subject": "Plume brune crème",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0178_270fec2e7be2.webp"
+      ],
+      "legacyCandidates": [
+        {
+          "query": "plume"
+        }
+      ],
+      "recipeIds": [],
+      "id": "illustration-0178",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0179",
+      "subject": "Portrait peau foncée cheveux bouclés",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0179_087f1c75d006.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0179",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0180",
+      "subject": "Portrait lumière latérale chaude",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0180_444b51b55b87.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0180",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0181",
+      "subject": "Portrait roux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0181_bf0d87c5bb8d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0181",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0182",
+      "subject": "Portrait carré noir",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0182_d90a8880e44f.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0182",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0183",
+      "subject": "Portrait chignon blond",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0183_c293a03131b1.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0183",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0184",
+      "subject": "Portrait blond tressé végétal",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0184_34baba4b97fe.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0184",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0185",
+      "subject": "Portrait brun lumière dorée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0185_31fe216b3cda.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0185",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0186",
+      "subject": "Portrait peau foncée bijoux or",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0186_a935a2ce0580.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0186",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0187",
+      "subject": "Portrait argenté lumière glacée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0187_e95907cdccb0.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0187",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0188",
+      "subject": "Portrait brun lumière rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0188_41022d4f476d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0188",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0189",
+      "subject": "Portrait carré noir bleuté",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0189_de48afda752d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0189",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0190",
+      "subject": "Portrait blond tresses",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0190_ba21198eb82f.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0190",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0191",
+      "subject": "Portrait boucles cuivre",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0191_ec3a60ed4bf8.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0191",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0192",
+      "subject": "Portrait tresses brunes dorées",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0192_cb3f93e40919.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0192",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0193",
+      "subject": "Portrait cheveux argentés",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0193_8f83becde5ea.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0193",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0194",
+      "subject": "Portrait boucles noires",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0194_50812347419b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0194",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0195",
+      "subject": "Portrait queue de cheval brune",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0195_3913b8ad6002.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0195",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0196",
+      "subject": "Portrait cheveux courts roux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0196_df72331164f8.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0196",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0197",
+      "subject": "Portrait boucles blondes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0197_4847a9e78034.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0197",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0198",
+      "subject": "Portrait cheveux bleus mouillés",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0198_70cad12cfb0d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0198",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0199",
+      "subject": "Planche sources lumineuses",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0199_f513a33f2b72.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0199",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0200",
+      "subject": "Planche angles éclairage",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0200_ea097beabb69.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0200",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0201",
+      "subject": "Directions de lumière",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0201_e188dc877147.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0201",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0202",
+      "subject": "Températures de lumière",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0202_54f9862813fd.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0202",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0203",
+      "subject": "Lumières colorées sur visage",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0203_a0ea1cca5649.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0203",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0204",
+      "subject": "Lumière sur matériaux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0204_4d798b78c81c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0204",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0205",
+      "subject": "Reflets sur sphères",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0205_75a2491eec70.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0205",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0206",
+      "subject": "Schéma sources multiples",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0206_f0102d658ec8.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0206",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0207",
+      "subject": "Elfe blonde bijoux or",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0207_9e05c2426e19.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0207",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0208",
+      "subject": "Portrait brun roses rouges",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0208_bba1d5bc9380.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0208",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0209",
+      "subject": "Guerrière rousse peinture bleue",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0209_fe3465319a59.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0209",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0210",
+      "subject": "Portrait peau foncée bijoux or",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0210_d00e587603e2.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0210",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0211",
+      "subject": "Mage lumière violette",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0211_2355acbbe2da.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0211",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0212",
+      "subject": "Armure acier et bleu",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0212_e93f49818a9c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0212",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0213",
+      "subject": "Armure or cape rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0213_829b37a485c9.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0213",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0214",
+      "subject": "Armure noire cape rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0214_c27c57e1dec3.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0214",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0215",
+      "subject": "Armure acier usée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0215_a14e8dfb3844.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0215",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0216",
+      "subject": "Guerrière armure argent",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0216_5918319c6524.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0216",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0217",
+      "subject": "Orque armure rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0217_3303ee353798.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0217",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0218",
+      "subject": "Gobelin alchimiste",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0218_274d8fa6964a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0218",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0219",
+      "subject": "Orque armure usée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0219_b1a4b25df259.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0219",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0220",
+      "subject": "Gobelin sur roche",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0220_7b8301e5366a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0220",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0221",
+      "subject": "Orque mécanique",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0221_f8f12652106a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0221",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0222",
+      "subject": "Ruines urbaines coucher de soleil",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0222_473eb741bfbe.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0222",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0223",
+      "subject": "Ville nocturne néon",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0223_38a0a97e38a4.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0223",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0224",
+      "subject": "Bus abandonné",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0224_855b7227a36a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0224",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0225",
+      "subject": "Fête foraine abandonnée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0225_c1a1205c8e62.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0225",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0226",
+      "subject": "Château et cascades",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0226_e78edb733427.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0226",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0227",
+      "subject": "Marché médiéval",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0227_97ba22859e7a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0227",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0228",
+      "subject": "Porte fortifiée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0228_cbb4952498d6.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0228",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0229",
+      "subject": "Ville médiévale nocturne",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0229_a6499460fc3b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0229",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0230",
+      "subject": "Port au coucher du soleil",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0230_e5f10e15420b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0230",
+      "visualInspection": {
+        "status": "a_verifier_bandeau",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0231",
+      "subject": "Montage animal et personnage",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0231_c61d9fafe68c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0231",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0232",
+      "subject": "Montage désert et serpent",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0232_ae57d418adbf.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0232",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0233",
+      "subject": "Montage loup et rapace",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0233_8b016c584af7.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0233",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0234",
+      "subject": "Montage renard et chouette",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0234_4555f034757a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0234",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0235",
+      "subject": "Montage animal et corbeau",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0235_ffcbdd3a6483.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0235",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0236",
+      "subject": "Montage animal et ailes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0236_41b1a3ba9e82.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0236",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0237",
+      "subject": "Montage serpent et aile membraneuse",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0237_da4c9a89c02c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0237",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0238",
+      "subject": "Rapace brun",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0238_679cf0e7ce32.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0238",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0239",
+      "subject": "Chouette en vol",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0239_43465fce4b3a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0239",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0240",
+      "subject": "Corbeau noir",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0240_20e6724b7a91.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0240",
+      "visualInspection": {
+        "status": "a_verifier_decoupage_multiple",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0241",
+      "subject": "Martin-pêcheur en vol",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0241_e4b46a5cf22c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0241",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0242",
+      "subject": "Membrane d’aile brune",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0242_c3ba33d7e7e5.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0242",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0243",
+      "subject": "Aile de dragon rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0243_7ca91973a8a2.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0243",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0244",
+      "subject": "Plumes bleues et brunes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0244_73d7f8b0c7ad.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0244",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0245",
+      "subject": "Roche volcanique et lave",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0245_d3f9c243ab46.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0245",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0246",
+      "subject": "Éclairs violets sur roche",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0246_befc0fc36d0d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0246",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0247",
+      "subject": "Gemmes bleue rouge verte",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0247_2d36b7eff9e0.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0247",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0248",
+      "subject": "Métal industriel jaune rouillé",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0248_aff1ebf6c45d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0248",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0249",
+      "subject": "Planche ailes oiseaux plumes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0249_e2ede72f6f9c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0249",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0250",
+      "subject": "Planche épées",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0250_8600d7730fd1.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0250",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0251",
+      "subject": "Bandeau haches",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0251_c7d672bae54b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0251",
+      "visualInspection": {
+        "status": "bandeau_a_recomposer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0252",
+      "subject": "Bandeau armes contondantes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0252_4852e0dde1ee.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0252",
+      "visualInspection": {
+        "status": "bandeau_a_recomposer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0253",
+      "subject": "Bandeau marteaux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0253_9e7fe3d29032.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0253",
+      "visualInspection": {
+        "status": "bandeau_a_recomposer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0254",
+      "subject": "Bandeau armes longues",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite ou composite à revoir",
+      "assets": [
+        "assets/images/0254_6bcf98223e7d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0254",
+      "visualInspection": {
+        "status": "bandeau_a_recomposer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0255",
+      "subject": "Métal industriel avec interface",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0255_9b672782524a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0255",
+      "visualInspection": {
+        "status": "interface_a_retirer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0256",
+      "subject": "Cuir usé avec interface",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0256_853916a61a01.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0256",
+      "visualInspection": {
+        "status": "interface_a_retirer",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0257",
+      "subject": "Animaux et faune",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0257_2cafb2b9717c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0257",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0258",
+      "subject": "Matériel industriel",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0258_ca16813ea6a0.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0258",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0259",
+      "subject": "Lèvres visages expressions",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0259_bc6f5be9fb6b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0259",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0260",
+      "subject": "Yeux et regards",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0260_19ae2d81381f.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0260",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0261",
+      "subject": "Forêts magiques et nuit",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0261_6ad80efc91c7.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0261",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0262",
+      "subject": "Créatures fantastiques",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0262_2a18323933da.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0262",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0263",
+      "subject": "Dragons et écailles",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0263_be5df2ff582d.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0263",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0264",
+      "subject": "Armes fantasy",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0264_0a94afe8e335.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0264",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0265",
+      "subject": "Armes futuristes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0265_8962c2499663.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0265",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0266",
+      "subject": "Planche matériaux et gemmes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0266_9f69fc727939.png"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0266",
+      "visualInspection": {
+        "status": "doublon_potentiel",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0267",
+      "subject": "Planche matériaux et gemmes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0267_d26928b22ef4.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0267",
+      "visualInspection": {
+        "status": "doublon_potentiel",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0268",
+      "subject": "Planche cristaux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0268_5aad347f2719.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0268",
+      "visualInspection": {
+        "status": "doublon_potentiel",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0269",
+      "subject": "Planche cristaux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0269_fa2aac56616b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0269",
+      "visualInspection": {
+        "status": "doublon_potentiel",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0270",
+      "subject": "Planche NMM",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0270_2ae68cd5ee42.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0270",
+      "visualInspection": {
+        "status": "doublon_potentiel",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0271",
+      "subject": "Planche NMM",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0271_e1509ea06831.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0271",
+      "visualInspection": {
+        "status": "doublon_potentiel",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0272",
+      "subject": "Sources lumineuses",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0199",
+      "assets": [
+        "assets/images/0272_7ecb3d86adca.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0272",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0273",
+      "subject": "Angles éclairage frontal",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0200",
+      "assets": [
+        "assets/images/0273_15ded6ba6680.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0273",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0274",
+      "subject": "Angles éclairage complémentaires",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0201",
+      "assets": [
+        "assets/images/0274_a2b2e77f262c.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0274",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0275",
+      "subject": "Températures de lumière",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0202",
+      "assets": [
+        "assets/images/0275_e75aa0cb43fb.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0275",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0276",
+      "subject": "Éclairages colorés",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0203",
+      "assets": [
+        "assets/images/0276_53af7e491742.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0276",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0277",
+      "subject": "Lumière sur matériaux première partie",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0204",
+      "assets": [
+        "assets/images/0277_0ad278de2fe9.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0277",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0278",
+      "subject": "Lumière sur matériaux seconde partie",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0205",
+      "assets": [
+        "assets/images/0278_76f31d0ab841.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0278",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0279",
+      "subject": "Placement des sources",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "duplicateCandidate": "0206",
+      "assets": [
+        "assets/images/0279_55f484f34a67.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0279",
+      "visualInspection": {
+        "status": "cadrage_a_verifier",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0280",
+      "subject": "Planche lumières et ombres",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0280_9a28fd28acfd.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0280",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0281",
+      "subject": "Citrouille Halloween lumineuse",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0281_0ff8ad6d8e51.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0281",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0282",
+      "subject": "Zombie putréfié",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0282_8f933b176a58.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0282",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0283",
+      "subject": "Fantôme cyan translucide",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0283_899a6660b8ec.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0283",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0284",
+      "subject": "Spectre violet cyan",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0284_eb64a9bda1a6.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0284",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0285",
+      "subject": "Sorcière violette lanterne verte",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0285_bfb8ef91616e.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0285",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0286",
+      "subject": "Tombe pierre mousse bougie",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0286_e09376791731.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0286",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0287",
+      "subject": "Bonhomme de neige écharpe rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0287_37b727b5a7ad.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0287",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0288",
+      "subject": "Personnage Noël rouge vert or",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0288_7c1da6f61856.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0288",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0289",
+      "subject": "Sapin enneigé décoré",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0289_957ab5837331.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0289",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0290",
+      "subject": "Cloche or ruban rouge houx",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0290_5a2eeeea79b6.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0290",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0291",
+      "subject": "Maison pain d’épices enneigée",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0291_37713b2c4756.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0291",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0292",
+      "subject": "Élémentaire de glace",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0292_1e68acbdb6c3.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0292",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0293",
+      "subject": "Amanites rouges points blancs",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0293_09f79afc2f14.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0293",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0294",
+      "subject": "Champignons bioluminescents cyan",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0294_12824a5030a4.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [
+        "v31-v2-marecage-5"
+      ],
+      "id": "illustration-0294",
+      "associationNote": "Proposition fondée sur le sujet identifié dans le registre visuel; vérifier le rendu et les valeurs.",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0295",
+      "subject": "Champignons en console orange",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0295_5195ce54a471.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0295",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0296",
+      "subject": "Champignons violets",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0296_2705a4d6c98a.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0296",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0297",
+      "subject": "Tronc ancien moussu",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0297_ffd654e0f822.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0297",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0298",
+      "subject": "Bouleau écorce blanche",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0298_eca845c98595.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0298",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0299",
+      "subject": "Racines de marécage",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0299_4ff91d6393f2.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0299",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0300",
+      "subject": "Souche brûlée incandescente",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0300_9b8b21986a77.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0300",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0301",
+      "subject": "Coraux multicolores",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0301_78140419f02b.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0301",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0302",
+      "subject": "Anémones et algues",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0302_266eda6b4357.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0302",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0303",
+      "subject": "Méduses translucides lumineuses",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0303_a05b2a6e69bd.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0303",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0304",
+      "subject": "Nénuphars et roseaux",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0304_9dcf336e70e8.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0304",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0305",
+      "subject": "Végétation tropicale fleur rouge",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0305_15dc11d328f0.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0305",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0306",
+      "subject": "Plantes carnivores",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0306_5be1dc87a763.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0306",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0307",
+      "subject": "Lavande et fleurs violettes",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0307_443937273117.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0307",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    },
+    {
+      "assetPrefix": "0308",
+      "subject": "Houx et conifère enneigés",
+      "status": "a_verifier",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature",
+      "assets": [
+        "assets/images/0308_e1c83fcaf58f.webp"
+      ],
+      "legacyCandidates": [],
+      "recipeIds": [],
+      "id": "illustration-0308",
+      "visualInspection": {
+        "status": "pas_de_defaut_majeur_sur_planche",
+        "scope": "planche_contact",
+        "fullResolutionVerified": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "schema": 1,
+  "method": "Examen visuel des miniatures sur planche contact; aucune recette validée.",
+  "records": [
+    {
+      "assetPrefix": "0001",
+      "subject": "Planche composite peaux et décors",
+      "assets": [
+        "assets/images/0001_58ed1d3dbffd.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0002",
+      "subject": "Planche maquillage carreaux voiles",
+      "assets": [
+        "assets/images/0002_1463a4d488ee.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0003",
+      "subject": "Planche chaussures",
+      "assets": [
+        "assets/images/0003_c9e41cc39e59.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0004",
+      "subject": "Planche éclairs cuir satin voiles",
+      "assets": [
+        "assets/images/0004_696ebfad1a3b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0005",
+      "subject": "Planche feu lave",
+      "assets": [
+        "assets/images/0005_a8b3f9232bd1.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0006",
+      "subject": "Blond doré",
+      "assets": [
+        "assets/images/0006_4716208c3ba4.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0007",
+      "subject": "Roux cuivre",
+      "assets": [
+        "assets/images/0007_d7993958ad96.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0008",
+      "subject": "Brun noir",
+      "assets": [
+        "assets/images/0008_ef400606b13a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0009",
+      "subject": "Blond platine",
+      "assets": [
+        "assets/images/0009_b3c64ea0edd2.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0010",
+      "subject": "Noir reflets violets",
+      "assets": [
+        "assets/images/0010_4b51f9101f71.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0011",
+      "subject": "Brun bouclé",
+      "assets": [
+        "assets/images/0011_84503fd1e816.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0012",
+      "subject": "Blond miel",
+      "assets": [
+        "assets/images/0012_1c9fcfd1bead.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0013",
+      "subject": "Brun foncé bouclé",
+      "assets": [
+        "assets/images/0013_6e0a302f2f78.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0014",
+      "subject": "Roux tressé",
+      "assets": [
+        "assets/images/0014_0aecd3a9ef16.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0015",
+      "subject": "Gris argent",
+      "assets": [
+        "assets/images/0015_c244bae3abca.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0016",
+      "subject": "Noir bleuté",
+      "assets": [
+        "assets/images/0016_5ad66780ddc2.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0017",
+      "subject": "Châtain chaud",
+      "assets": [
+        "assets/images/0017_2b8e3e366316.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0018",
+      "subject": "Brun chaud tressé",
+      "assets": [
+        "assets/images/0018_05fdbf870b08.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0019",
+      "subject": "Tresses brunes peau foncée",
+      "assets": [
+        "assets/images/0019_f78ecdd26e32.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0020",
+      "subject": "Boucles noires peau foncée",
+      "assets": [
+        "assets/images/0020_3436b7822252.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0021",
+      "subject": "Cheveux violets maquillage violet",
+      "assets": [
+        "assets/images/0021_fd542631f7f0.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0022",
+      "subject": "Cheveux argent maquillage cyan",
+      "assets": [
+        "assets/images/0022_605e3a93431a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0023",
+      "subject": "Cheveux turquoise maquillage turquoise",
+      "assets": [
+        "assets/images/0023_1725fd9e53bc.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0024",
+      "subject": "Cheveux cuivre maquillage sombre",
+      "assets": [
+        "assets/images/0024_524618efb6c2.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0025",
+      "subject": "Peau foncée maquillage or",
+      "assets": [
+        "assets/images/0025_b4f0c46a635f.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0026",
+      "subject": "Amanite rouge",
+      "assets": [
+        "assets/images/0026_bffcbdcd46a3.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0027",
+      "subject": "Champignon lumineux violet",
+      "assets": [
+        "assets/images/0027_d0861308335d.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0028",
+      "subject": "Champignon translucide",
+      "assets": [
+        "assets/images/0028_5462a8c8879e.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0029",
+      "subject": "Polypore orange",
+      "assets": [
+        "assets/images/0029_a465cdd0f9a1.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0030",
+      "subject": "Champignon cristallin bleu",
+      "assets": [
+        "assets/images/0030_d881e4c9657d.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0031",
+      "subject": "Champignon lumineux bleu violet",
+      "assets": [
+        "assets/images/0031_bb715138f8fd.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0032",
+      "subject": "Amanite miniature",
+      "assets": [
+        "assets/images/0032_7a8b5a1f9818.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0033",
+      "subject": "Champignon lumineux cyan",
+      "assets": [
+        "assets/images/0033_35c8a54dfcd8.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0034",
+      "subject": "Roche grise anguleuse",
+      "assets": [
+        "assets/images/0034_30908b575ba4.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0035",
+      "subject": "Grès rouge stratifié",
+      "assets": [
+        "assets/images/0035_dc42294a9b5e.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0036",
+      "subject": "Ardoise sombre",
+      "assets": [
+        "assets/images/0036_b5e91586f89b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0037",
+      "subject": "Colonne antique pierre beige",
+      "assets": [
+        "assets/images/0037_09906d4a110a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0038",
+      "subject": "Arche pierre beige mousse",
+      "assets": [
+        "assets/images/0038_d9dbb545fcd4.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0039",
+      "subject": "Planche paysages cascade désert",
+      "assets": [
+        "assets/images/0039_18627548ef3a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    },
+    {
+      "assetPrefix": "0040",
+      "subject": "Planche paysages forêt ruines",
+      "assets": [
+        "assets/images/0040_3f91ef66f691.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier"
+    }
+  ]
+}

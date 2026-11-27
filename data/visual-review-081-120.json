@@ -1,0 +1,406 @@
+{
+  "schema": 1,
+  "method": "Examen visuel de la troisième planche contact; aucune recette validée.",
+  "records": [
+    {
+      "assetPrefix": "0081",
+      "subject": "Ambre sphérique avec inclusion",
+      "assets": [
+        "assets/images/0081_fcd28a37118d.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0082",
+      "subject": "Cristal bleu intense",
+      "assets": [
+        "assets/images/0082_e844e5463806.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0083",
+      "subject": "Cristal vert",
+      "assets": [
+        "assets/images/0083_95f7655f2c60.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0084",
+      "subject": "Cristal violet",
+      "assets": [
+        "assets/images/0084_5b3e6fbf3e19.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0085",
+      "subject": "Cristal rouge",
+      "assets": [
+        "assets/images/0085_08b3e46728cc.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0086",
+      "subject": "Cristal rose",
+      "assets": [
+        "assets/images/0086_abf79aecf321.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0087",
+      "subject": "Cristal bleu pâle",
+      "assets": [
+        "assets/images/0087_25dddf2ab956.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0088",
+      "subject": "Cristal noir",
+      "assets": [
+        "assets/images/0088_fc32883dc69e.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0089",
+      "subject": "Cristal jaune doré",
+      "assets": [
+        "assets/images/0089_73355c263a3c.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0090",
+      "subject": "Cristal cyan",
+      "assets": [
+        "assets/images/0090_f9738733557f.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0091",
+      "subject": "Cristal irisé multicolore",
+      "assets": [
+        "assets/images/0091_97b180f99a89.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0092",
+      "subject": "Loup gris",
+      "assets": [
+        "assets/images/0092_2e15fe6a713c.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0093",
+      "subject": "Renard roux",
+      "assets": [
+        "assets/images/0093_069dbe14d6f1.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0094",
+      "subject": "Ours brun",
+      "assets": [
+        "assets/images/0094_55d9be055f98.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0095",
+      "subject": "Cerf",
+      "assets": [
+        "assets/images/0095_14626175ce41.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0096",
+      "subject": "Serpent vert et jaune",
+      "assets": [
+        "assets/images/0096_55f38934e534.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0097",
+      "subject": "Crapaud brun",
+      "assets": [
+        "assets/images/0097_27231a50a099.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0098",
+      "subject": "Souris brune",
+      "assets": [
+        "assets/images/0098_7906a7b54705.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0099",
+      "subject": "Araignée brune velue",
+      "assets": [
+        "assets/images/0099_054d248ac24b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0100",
+      "subject": "Sanglier",
+      "assets": [
+        "assets/images/0100_3280b77fc26b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0101",
+      "subject": "Lynx tacheté",
+      "assets": [
+        "assets/images/0101_ba9cb2d7b687.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0102",
+      "subject": "Chouette effraie",
+      "assets": [
+        "assets/images/0102_e068de0db7d7.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0103",
+      "subject": "Pygargue tête blanche",
+      "assets": [
+        "assets/images/0103_2fd757393521.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0104",
+      "subject": "Renne",
+      "assets": [
+        "assets/images/0104_0499e9099c3b.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0105",
+      "subject": "Blaireau",
+      "assets": [
+        "assets/images/0105_f27eb4df7ed6.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0106",
+      "subject": "Forêt marécageuse brumeuse",
+      "assets": [
+        "assets/images/0106_a01a1f5847f2.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir"
+    },
+    {
+      "assetPrefix": "0107",
+      "subject": "Étang à nénuphars",
+      "assets": [
+        "assets/images/0107_d4e782b704b4.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir"
+    },
+    {
+      "assetPrefix": "0108",
+      "subject": "Passerelle en marais nocturne",
+      "assets": [
+        "assets/images/0108_bd8a12f17078.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir"
+    },
+    {
+      "assetPrefix": "0109",
+      "subject": "Forêt à champignons lumineux",
+      "assets": [
+        "assets/images/0109_9ea39758806d.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir"
+    },
+    {
+      "assetPrefix": "0110",
+      "subject": "Marais au soleil couchant",
+      "assets": [
+        "assets/images/0110_75effc41c4f0.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir"
+    },
+    {
+      "assetPrefix": "0111",
+      "subject": "Torrent turquoise et roches moussues",
+      "assets": [
+        "assets/images/0111_c07ce7d8eb65.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0112",
+      "subject": "Cristaux de glace",
+      "assets": [
+        "assets/images/0112_0676345e8fc1.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0113",
+      "subject": "Planche eaux et milieux aquatiques",
+      "assets": [
+        "assets/images/0113_6708eec4de00.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "texte intégré"
+    },
+    {
+      "assetPrefix": "0114",
+      "subject": "Paysage martien rouge",
+      "assets": [
+        "assets/images/0114_cf521dda36c6.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0115",
+      "subject": "Paysage lunaire gris",
+      "assets": [
+        "assets/images/0115_53d9e0e8bea5.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0116",
+      "subject": "Base spatiale martienne",
+      "assets": [
+        "assets/images/0116_baf9125ac7df.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0117",
+      "subject": "Relief lunaire glacé",
+      "assets": [
+        "assets/images/0117_cad6d83f4187.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0118",
+      "subject": "Canyon ocre rouge",
+      "assets": [
+        "assets/images/0118_a3794cbc72bc.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "non signalé sur miniature"
+    },
+    {
+      "assetPrefix": "0119",
+      "subject": "Bande composite désert et relief gris",
+      "assets": [
+        "assets/images/0119_94c8954cf14a.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bande étroite à revoir"
+    },
+    {
+      "assetPrefix": "0120",
+      "subject": "Socle désertique rocheux",
+      "assets": [
+        "assets/images/0120_fad655d58177.webp"
+      ],
+      "status": "visuel_identifie",
+      "recipeStatus": "a_verifier",
+      "framing": "bord inférieur parasite"
+    }
+  ]
+}
