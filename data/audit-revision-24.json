@@ -1,0 +1,13 @@
+{
+  "recettes": 1191,
+  "ponderation": {
+    "weighted": 904,
+    "neutral": 287
+  },
+  "test_navigateur": "non réalisé : accès HTTP local bloqué",
+  "statuts": {
+    "proposition_non_testee": 1103,
+    "hors_perimetre_v11": 76,
+    "fiche_technique": 12
+  }
+}
