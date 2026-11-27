@@ -1,0 +1,1 @@
+Pastilles proportionnelles indicatives : profils noir, blanc et cheveux intermédiaires ; autres recettes à largeur égale. Toutes les étapes de la proposition affichées. Boutons tactiles avec nom et référence. Proportions heuristiques, non mesurées ; largeur minimale pour le toucher. Aucun changement des recettes ni des fiches statiques. Syntaxe JS contrôlée, navigateur non testé.

@@ -1,0 +1,1 @@
+Pastilles proportionnelles par profils simples. Répartition neutre pour compositions complexes. Proportions visuelles, pas des mélanges. Version compacte affichée. Test Safari non réalisé. Associations visuelles non validées.

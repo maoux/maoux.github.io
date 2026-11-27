@@ -22,3 +22,26 @@ window.atlasMobileGo=show;show('accueil');
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
 })();
+/* V22: navigation vers les ancres statiques, sans modification des fiches. */
+(function(){
+ function reveal(hash){
+   if(!hash || hash==='#')return false;
+   let id;try{id=decodeURIComponent(hash.slice(1));}catch(e){return false;}
+   const target=document.getElementById(id)||Array.from(document.querySelectorAll('[data-v11-recipe-id]')).find(el=>el.dataset.v11RecipeId===id);if(!target)return false;
+   const view=target.closest('.atlas-view');
+   if(view && view.dataset.atlasTab && typeof window.atlasMobileGo==='function')window.atlasMobileGo(view.dataset.atlasTab);
+   for(let el=target;el;el=el.parentElement){if(el.tagName==='DETAILS')el.open=true;}
+   requestAnimationFrame(()=>requestAnimationFrame(()=>target.scrollIntoView({block:'start',behavior:'auto'})));
+   return true;
+ }
+ document.addEventListener('click',function(e){
+   if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+   const a=e.target.closest&&e.target.closest('a[href^="#"]');if(!a||a.hasAttribute('download')||(a.target&&a.target!=='_self'))return;
+   const hash=a.getAttribute('href');if(!reveal(hash))return;
+   e.preventDefault();e.stopImmediatePropagation();
+   if(location.hash!==hash)history.pushState(null,'',hash);
+ },true);
+ window.addEventListener('hashchange',()=>reveal(location.hash));
+ window.addEventListener('popstate',()=>reveal(location.hash));
+ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>reveal(location.hash));else reveal(location.hash);
+})();

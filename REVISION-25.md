@@ -1,0 +1,1 @@
+Conservation des identifiants historiques; alias V11 pour les fiches rendues; sélecteur tactile des peintures. Syntaxe JS contrôlée, tests navigateur non effectués. Les associations visuelles restent non validées.

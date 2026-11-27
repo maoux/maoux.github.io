@@ -1,0 +1,1 @@
+19 mémos individualisés : textiles, roches et sols, plastiques, eau et verre, effets, compositions de socles. Palettes et sources conservées. Les compositions restent à valider chromatiquement. Aucun test navigateur ou physique.
